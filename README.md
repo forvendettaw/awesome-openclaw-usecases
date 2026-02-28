@@ -10,7 +10,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-5000+-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-20+-blue?style=flat-square)
 ![Skills](https://img.shields.io/badge/skills-5473-green?style=flat-square)
 
 </div>
@@ -23,27 +23,27 @@
 
 | 分类 | Skills 数量 | 描述 |
 |------|-------------|------|
-| [编程开发](usecases/category_编程开发.md) | 557 | 代码开发、GitHub、调试 |
-| [自动化办公](usecases/category_自动化办公.md) | 405 | 工作流、邮件、日历 |
-| [投资交易](usecases/category_投资交易.md) | 388 | 股票、加密货币、量化 |
-| [社交媒体](usecases/category_社交媒体.md) | 336 | Twitter、Telegram、Discord |
-| [图像视频](usecases/category_图像视频.md) | 329 | AI 绘画、视频生成、TTS |
-| [数据处理](usecases/category_数据处理.md) | 282 | 数据库、ETL、分析 |
-| [AI大模型](usecases/category_ai大模型.md) | 276 | LLM、Prompt、模型 |
-| [API工具](usecases/category_api工具.md) | 255 | API 调用、Webhook |
-| [知识管理](usecases/category_知识管理.md) | 251 | 笔记、Obsidian、知识库 |
-| [内容创作](usecases/category_内容创作.md) | 215 | 写作、博客、SEO |
-| [安全隐私](usecases/category_安全隐私.md) | 164 | 密码管理、加密 |
-| [文件传输](usecases/category_文件传输.md) | 164 | 云存储、文件同步 |
-| [生活效率](usecases/category_生活效率.md) | 96 | 天气、翻译、习惯 |
-| [教育学习](usecases/category_教育学习.md) | 62 | 课程、语言学习 |
-| [购物比价](usecases/category_购物比价.md) | 51 | 价格监控、电商 |
-| [出行旅游](usecases/category_出行旅游.md) | 48 | 航班、酒店、地图 |
-| [金融银行](usecases/category_金融银行.md) | 44 | 支付、转账 |
-| [新闻资讯](usecases/category_新闻资讯.md) | 40 | RSS、新闻聚合 |
-| [游戏娱乐](usecases/category_游戏娱乐.md) | 23 | 游戏、Twitch |
-| [智能家居](usecases/category_智能家居.md) | 14 | Home Assistant、IoT |
-| [医疗健康](usecases/category_医疗健康.md) | 8 | 医疗、症状追踪 |
+| [AI大模型](usecases/usecase-AI大模型.md) | 1439 | 调用 GPT、Claude、Gemini 等大模型 |
+| [编程开发](usecases/usecase-编程开发.md) | 793 | 代码开发、GitHub、调试、IDE |
+| [投资交易](usecases/usecase-投资交易.md) | 424 | 股票、加密货币、量化交易 |
+| [图像视频](usecases/usecase-图像视频.md) | 324 | AI 绘画、视频生成、TTS |
+| [社交媒体](usecases/usecase-社交媒体.md) | 295 | Twitter、Telegram、Discord |
+| [自动化办公](usecases/usecase-自动化办公.md) | 250 | 工作流、邮件、日历 |
+| [数据处理](usecases/usecase-数据处理.md) | 222 | 数据库、ETL、分析 |
+| [安全隐私](usecases/usecase-安全隐私.md) | 192 | 密码管理、加密 |
+| [API工具](usecases/usecase-API工具.md) | 153 | HTTP、Webhook、API |
+| [知识管理](usecases/usecase-知识管理.md) | 131 | 笔记、Obsidian、知识库 |
+| [内容创作](usecases/usecase-内容创作.md) | 103 | 写作、博客、SEO |
+| [文件传输](usecases/usecase-文件传输.md) | 90 | 云存储、文件同步 |
+| [智能家居](usecases/usecase-智能家居.md) | 56 | Home Assistant、IoT |
+| [生活效率](usecases/usecase-生活效率.md) | 51 | 天气、翻译、习惯 |
+| [购物比价](usecases/usecase-购物比价.md) | 51 | 价格监控、电商 |
+| [教育学习](usecases/usecase-教育学习.md) | 41 | 语言学习、课程 |
+| [金融银行](usecases/usecase-金融银行.md) | 39 | 支付、转账 |
+| [新闻资讯](usecases/usecase-新闻资讯.md) | 26 | RSS、新闻聚合 |
+| [游戏娱乐](usecases/usecase-游戏娱乐.md) | 26 | Steam、Twitch |
+| [出行旅游](usecases/usecase-出行旅游.md) | 23 | 航班、酒店 |
+| [其他](usecases/usecase-其他.md) | 744 | 未分类 Skills |
 
 ## 🎯 热门 Use Cases
 
@@ -96,13 +96,12 @@ git clone <repo> ~/.openclaw/skills/<skill-name>
 ```
 awesome-openclaw-usecases/
 ├── usecases/
-│   ├── category_*.md          # 按分类的 Skills 列表
-│   ├── social-media-monitor.md # 具体 Use Case 示例
+│   ├── usecase-*.md          # 按场景分类的 Skills
+│   ├── social-media-monitor.md
 │   ├── memory-life-logger.md
 │   └── ...
 ├── skills_index.json           # 完整 Skills 索引
-├── README_FULL.md              # 完整 Skills 列表
-└── README.md                   # 本文件
+└── README.md                  # 本文件
 ```
 
 ## 🤝 贡献
