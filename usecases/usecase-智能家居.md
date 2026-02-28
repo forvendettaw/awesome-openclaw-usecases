@@ -3,295 +3,222 @@ name: 智能家居
 description: 智能家居相关的 OpenClaw Skills 使用案例
 ---
 
-# 智能家居 - Use Cases
+# 智能家居
 
-> 该分类包含 **56** 个相关 Skills
-
-## 场景描述
-
-Home Assistant、Apple HomeKit、IoT 设备控制
-
----
-
-## Skills 列表
+> 共 43 个相关 Skills
 
 ### adguard
 
 - **描述**: Control AdGuard Home DNS filtering via HTTP API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rowbotik/adguard/SKILL.md)
-
-### agent-chat-ux-v1-4-0
-
-- **描述**: Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/maverick-software/agent-chat-ux-v1-4-0/SKILL.md)
-
-### agent-device
-
-- **描述**: Automates interactions for iOS simulators/devices and Android emulators/devices.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/okwasniewski/agent-device/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rowbotik/adguard/SKILL.md)
 
 ### agent-home
 
 - **描述**: Get your own home on the internet - a profile page with a public.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-home/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-home/SKILL.md)
 
-### android-adb
+### airadar
 
-- **描述**: Control Android devices via ADB with support for UI layout analysis.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/staticai/android-adb/SKILL.md)
+- **描述**: Distill the signal around AI-native tools/apps and their GitHub home bases: fast-growing, hyped, well-funded.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lopushok9/airadar/SKILL.md)
 
-### aoi-cron-ops-lite
+### alexa-control
 
-- **描述**: Cron hygiene and cost-control for OpenClaw.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-cron-ops-lite/SKILL.md)
+- **描述**: Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control/SKILL.md)
 
-### apple-serial-lookup
+### apple-media
 
-- **描述**: Look up Apple device information from a serial number.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/siatrial/apple-serial-lookup/SKILL.md)
+- **描述**: Control Apple TV, HomePod, and AirPlay devices via pyatv.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aaronn/apple-media/SKILL.md)
 
-### appletv
+### bagsworld
 
-- **描述**: Control Apple TV via pyatv.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/appletv/SKILL.md)
+- **描述**: Find a home in BagsWorld - a pixel art world where AI agents live as crabs, lobsters, and buildings.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aiengineerx/bagsworld/SKILL.md)
 
-### asl-control
+### brew-audit
 
-- **描述**: Monitor and control AllStar Link amateur radio nodes via REST API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kj5irq/asl-control/SKILL.md)
-
-### bambu-local
-
-- **描述**: Control Bambu Lab 3D printers locally via MQTT.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tanguyvans/bambu-local/SKILL.md)
-
-### beeminder
-
-- **描述**: Beeminder API for goal tracking and commitment devices.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder/SKILL.md)
+- **描述**: Audit Homebrew installation — outdated packages, cleanup opportunities, and health checks.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/brew-audit/SKILL.md)
 
 ### brw-homepage-audit
 
 - **描述**: Quick conversion audit for any homepage or landing page.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-homepage-audit/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-homepage-audit/SKILL.md)
 
 ### camino-real-estate
 
 - **描述**: Evaluate any address for home buyers and renters.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md)
 
-### capa-officer
+### control4-home
 
-- **描述**: CAPA system management for medical device QMS.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/capa-officer/SKILL.md)
+- **描述**: Control a Control4 smart home via pyControl4 (lights, relays, room media) using local Python wrappers.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home/SKILL.md)
 
-### cdp-browser
+### dirigera-control
 
-- **描述**: CDP browser control at localhost:9222.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gostlightai/cdp-browser/SKILL.md)
+- **描述**: Control IKEA Dirigera smart home devices.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/falderebet/dirigera-control/SKILL.md)
 
-### chromecast
+### enzoldhazam
 
-- **描述**: Control Chromecast devices on your local network - discover.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/morozred/chromecast-control/SKILL.md)
+- **描述**: NGBS iCON Smart Home thermostat control.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/daniel-laszlo/enzoldhazam/SKILL.md)
 
-### clawplayspokemon
+### glitch-homeassistant
 
-- **描述**: Vote-based Pokemon FireRed control.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/foxdavidj)
-
-### clrun
-
-- **描述**: Run and control interactive CLI sessions.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cybertheory/clrun/SKILL.md)
-
-### devialet
-
-- **描述**: Control Devialet Phantom speakers via HTTP API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jgm2025/devialet/SKILL.md)
-
-### error-guard
-
-- **描述**: System safety and control-plane skill that prevents agent deadlocks.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/amar1432/error-guard/SKILL.md)
-
-### filesystem-mcp
-
-- **描述**: Official Filesystem MCP Server for secure file operations with configurable access controls.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/filesystem-mcp/SKILL.md)
+- **描述**: Control smart home devices via Home Assistant API.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chris6970barbarian-hue/glitch-homeassistant/SKILL.md)
 
 ### gohome
 
 - **描述**: Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics,.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/local/gohome/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/local/gohome/SKILL.md)
 
 ### google-home
 
 - **描述**: Control Google Nest devices.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/google-home/SKILL.md)
-
-### google-tv
-
-- **描述**: Control the Living Room Chromecast with Google TV via ADB.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/antgly)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/google-home/SKILL.md)
 
 ### grid-aware-energy-load-shifter
 
 - **描述**: Grid-aware energy load shifter for Home Assistant.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mrbese/grid-aware-energy-load-shifter/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrbese/grid-aware-energy-load-shifter/SKILL.md)
 
 ### ha-integration-patterns
 
 - **描述**: Home Assistant custom integration patterns and architectural decisions.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/usimic/ha-integration-patterns/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/usimic/ha-integration-patterns/SKILL.md)
+
+### ha-ultimate
+
+- **描述**: Definitive Home Assistant skill for AI agents.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/titunito/ha-ultimate/SKILL.md)
+
+### home-music
+
+- **描述**: Control whole-house music scenes combining Spotify playback.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/asteinberger/home-music/SKILL.md)
+
+### homeassistant-assist
+
+- **描述**: Control Home Assistant smart home devices using the Assist (Conversation) API.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/developmentcats/homeassistant-assist/SKILL.md)
 
 ### homeassistant-cli
 
 - **描述**: Advanced Home Assistant control using the official hass-cli tool.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/joneschi/homeassistant-cli/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/joneschi/homeassistant-cli/SKILL.md)
+
+### homeassistant-n8n-agent
+
+- **描述**: Bridge OpenClaw with your n8n instance for Home Assistant automation.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/enchantedmotorcycle/homeassistant-n8n-agent/SKILL.md)
+
+### homeassistant-skill
+
+- **描述**: Control Home Assistant devices and automations via REST API. 25 entity domains including lights, climate, locks.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/anotb/homeassistant-skill/SKILL.md)
 
 ### homebrew
 
 - **描述**: Homebrew package manager for macOS.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/thesethrose/homebrew/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/thesethrose/homebrew/SKILL.md)
+
+### homebridge
+
+- **描述**: Control smart home devices via Homebridge Config UI X.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jiasenl/clawdbot-skill-homebridge/SKILL.md)
+
+### homelab-cluster
+
+- **描述**: Manage multi-tier AI inference clusters for homelabs.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mlesnews/homelab-cluster/SKILL.md)
 
 ### homeserver
 
 - **描述**: Homelab server management via homebutler CLI.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/higangssh/homeserver/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/higangssh/homeserver/SKILL.md)
+
+### homey
+
+- **描述**: Control Athom Homey smart home devices via local (LAN/VPN) or cloud APIs.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/maxsumrall/homey/SKILL.md)
+
+### homey-cli
+
+- **描述**: Control Homey home automation hub.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/krausefx/homey-cli/SKILL.md)
 
 ### hydra-evolver
 
 - **描述**: A Proxmox-native orchestration skill that turns any home lab.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md)
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md)
 
-### icom-7610
+### idx-cma-report
 
-- **描述**: Control an Icom IC-7610 transceiver over USB/LAN.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/morozsm/icom-7610/SKILL.md)
+- **描述**: Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/danielfoch/idx-cma-report/SKILL.md)
 
-### ipcam
+### itsyhome-control
 
-- **描述**: ONVIF PTZ control + RTSP capture + camera discovery.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ltpop/ipcam/SKILL.md)
+- **描述**: Control and query HomeKit and Home Assistant smart home devices via the Itsyhome macOS app (https://itsyhome.app).
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nickustinov/itsyhome-control/SKILL.md)
 
-### jellyfin-control
+### loxone
 
-- **描述**: Control Jellyfin media server and TV.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/titunito/jellyfin-control/SKILL.md)
+- **描述**: Control and monitor a Loxone Miniserver (smart home) via HTTP API and real-time WebSocket.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/odrobnik/loxone/SKILL.md)
 
-### limesurvey
+### mcp-hass
 
-- **描述**: Automate LimeSurvey operations via RemoteControl 2 API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/olegantonov/limesurvey/SKILL.md)
+- **描述**: The skill for control Home Assistant smart home devices and query states using MCP protocol.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass/SKILL.md)
 
-### localsend
+### moltbot-ha
 
-- **描述**: Send and receive files to/from nearby devices using the LocalSend protocol.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chordlini/localsend/SKILL.md)
+- **描述**: Control Home Assistant smart home devices, lights, scenes.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/iamvaleriofantozzi/moltbot-ha/SKILL.md)
 
-### mac-use
+### music-assistant
 
-- **描述**: Control macOS GUI apps visually — take screenshots, click, scroll, type.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kekejun/mac-use/SKILL.md)
+- **描述**: Control Music Assistant (Home Assistant music server) - playback, volume, queue management, and library search.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rodrigosiviero/music-assistant/SKILL.md)
 
-### mobilerun
+### nostr-plantr
 
-- **描述**: Control real Android phones through the Mobilerun API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/johnmalek312/mobilerun/SKILL.md)
+- **描述**: Specialized skill for Plantr IoT data (Kind 34419 and 4171).
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-plantr/SKILL.md)
 
-### my-tesla
+### nostr-weather
 
-- **描述**: Control Tesla vehicles from macOS via the Tesla Owner API using teslapy.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/officialpm/my-tesla/SKILL.md)
+- **描述**: Specialized skill for NIP-Weather IoT data, powered by nostr-nak.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-weather/SKILL.md)
 
-### network-scanner
+### restic-home-backup
 
-- **描述**: Scan networks to discover devices, gather MAC addresses.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/florianbeer/network-scanner/SKILL.md)
+- **描述**: Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup/SKILL.md)
 
-### nordvpn
+### restic-home-backup-safe
 
-- **描述**: Control NordVPN on Linux via the `nordvpn` CLI.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/maciekish/nordvpn/SKILL.md)
+- **描述**: Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup-safe/SKILL.md)
 
-### orgo-desktop-control
+### smart-home-energy-saver
 
-- **描述**: Provision and control Orgo cloud computers using the orgo_client Python SDK.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cohenyehonatan/orgo-desktop-control/SKILL.md)
+- **描述**: Analyze home energy usage and propose safe, read-only automation plans for savings.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/codedao12/smart-home-energy-saver/SKILL.md)
 
-### parental-controls
+### starling-home-hub
 
-- **描述**: Skills for parent/guardian management and monitoring.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/parental-controls/SKILL.md)
+- **描述**: Controls Nest and Google Home smart home devices via the Starling Home Hub's local REST API.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub/SKILL.md)
 
-### pc-master
+### tasmota-skill
 
-- **描述**: Control the Windows PC from WSL2.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/amirgu/pc-master/SKILL.md)
-
-### pinchtab
-
-- **描述**: Control a headless or headed Chrome browser via Pinchtab's HTTP API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/luigi-agosti/pinchtab/SKILL.md)
-
-### plex-ctl
-
-- **描述**: > Standalone CLI for controlling Plex Media Server and clients via the Plex API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/akivasolutions/plex-ctl/SKILL.md)
-
-### primitives-dsl
-
-- **描述**: Universal game architecture DSL with six primitives (LOOP, TILEGRID, CONTROLBLOCK, POOL, EVENT, DISPATCHER)
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stusatwork-oss/primitives-dsl/SKILL.md)
-
-### rate-limit-pro
-
-- **描述**: Advanced rate limiting with tiered controls and quota management.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/rate-limit-pro/SKILL.md)
-
-### rlm-controller
-
-- **描述**: RLM-style long-context controller that treats inputs as external context, slices/peeks/searches, and spawns.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/skywyze/rlm-controller/SKILL.md)
-
-### roku-control
-
-- **描述**: Control Roku devices via local network (ECP protocol)
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control/SKILL.md)
-
-### ros-skill
-
-- **描述**: Controls ROS/ROS2 robots via rosbridge WebSocket CLI.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lpigeon/ros-skill/SKILL.md)
-
-### thingsboard-skill
-
-- **描述**: Manage ThingsBoard devices, dashboards, telemetry.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md)
-
-### toolguard-daemon-control
-
-- **描述**: Manage long-running processes as macOS launchd services.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/johnnylambada/toolguard-daemon-control/SKILL.md)
-
-### triggercmd
-
-- **描述**: Control TRIGGERcmd computers remotely by listing and running commands via the TRIGGERcmd REST API.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rvmey/triggercmd/SKILL.md)
-
-### ui-controller
-
-- **描述**: UI Controller is an OpenClaw skill that allows controlling local user interface.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sadikjarvis/ui-controller/SKILL.md)
-
-### weibo-manager
-
-- **描述**: Control Weibo via Puppeteer (Unofficial API).
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hmyaoyuan/weibo-manager/SKILL.md)
-
-### yacy
-
-- **描述**: Control and manage a local YaCy search engine instance.
-- **来源**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/qsmtco/yacy/SKILL.md)
+- **描述**: Discover, monitor, and control Tasmota smart home devices on local networks.
+- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill/SKILL.md)
 
