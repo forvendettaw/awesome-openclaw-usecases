@@ -5,1335 +5,1343 @@ description: 社交媒体相关的 OpenClaw Skills 使用案例
 
 # 社交媒体
 
-> 共 266 个相关 Skills
-
-### abm-outbound
-
-- **描述**: Multi-channel ABM automation that turns LinkedIn URLs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound/SKILL.md)
-
-### accountcreator
-
-- **描述**: **[EN]** Bulk account registration agent for emails and social media.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dimkag79/accountcreator/SKILL.md)
+> 共 223 个相关 Skills
 
 ### adaptlypost
 
-- **描述**: Schedule and manage social media posts across Instagram, X (Twitter), Bluesky, TikTok, Threads, LinkedIn, Facebook.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tarasshyn/adaptlypost/SKILL.md)
+- **中文**: 调度 和 manage 社交 媒体 posts across Instagram X Twitter Bluesky 抖音 Threads 领英 Faceboo
+- **EN**: Schedule and manage social media posts across Instagram, X (
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tarasshyn/adaptlypost/SKILL.md)
 
 ### agent-hq
 
-- **描述**: Deploy the Agent HQ mission-control stack (Express + React + Telegram notifier / Jarvis summary) so other Clawdbot.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/thibautrey/agent-hq/SKILL.md)
+- **中文**: 部署 a 智能体 HQ mission control stack Express + React + Telegram notifier / Jarvis s
+- **EN**: Deploy the Agent HQ mission-control stack (Express + React +
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/thibautrey/agent-hq/SKILL.md)
+
+### agent-memory-ultimate
+
+- **中文**: Production ready 记忆 系统 — daily logs 睡眠 consolidation SQLite + FTS5 WhatsApp/Chat
+- **EN**: Production-ready memory system — daily logs, sleep consolida
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md)
 
 ### agentmesh
 
-- **描述**: > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cerbug45/agentmesh/SKILL.md)
-
-### agentok-skill
-
-- **描述**: TikTok for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tonydream1/agentok-skill/SKILL.md)
-
-### agenttok
-
-- **描述**: TikTok for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tonydream1/agenttok/SKILL.md)
+- **中文**: > **WhatsApp style end 到 end 加密 messaging 用于 人工智能 agents **
+- **EN**: > **WhatsApp-style end-to-end encrypted messaging for AI age
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cerbug45/agentmesh/SKILL.md)
 
 ### ai-hunter-pro
 
-- **描述**: A high-performance automation agent that turns global trends into viral social media posts for X (Twitter)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/traprapitalianazional-dev/ai-hunter-pro/SKILL.md)
-
-### ai-influencer-generation
-
-- **描述**: Generate consistent AI influencer personas and social media content using each::sense API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/ai-influencer-generation/SKILL.md)
-
-### ai-lead-generator-skill
-
-- **描述**: Generate qualified B2B leads for any industry using AI-powered research and LinkedIn/Apollo integration.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/highlander89/ai-lead-generator-skill/SKILL.md)
+- **中文**: 一个high performance automation 智能体 那个 turns global trends into viral 社交 媒体 posts 
+- **EN**: A high-performance automation agent that turns global trends
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/traprapitalianazional-dev/ai-hunter-pro/SKILL.md)
 
 ### ai-trend-curation
 
-- **描述**: Curate and post AI trend tweets from X (Twitter) with quote suggestions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/ai-trend-curation/SKILL.md)
+- **中文**: Curate 和 发布 人工智能 trend tweets 从 X Twitter 使用 quote suggestions
+- **EN**: Curate and post AI trend tweets from X (Twitter) with quote 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/ai-trend-curation/SKILL.md)
 
 ### aisa-twitter-api
 
-- **描述**: Search X (Twitter) in real time, extract relevant posts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-twitter-api/SKILL.md)
+- **中文**: 搜索 X Twitter 在 automatic 提取 relevant posts
+- **EN**: Search X (Twitter) in real time, extract relevant posts.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-twitter-api/SKILL.md)
 
 ### aisa-twitter-skill
 
-- **描述**: Search X (Twitter) in real time, extract relevant posts, and publish tweets/replies instantly—perfect for social.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-twitter-skill/SKILL.md)
+- **中文**: 搜索 X Twitter 在 automatic 提取 relevant posts 和 发布 tweets/replies instantly—perfect
+- **EN**: Search X (Twitter) in real time, extract relevant posts, and
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-twitter-skill/SKILL.md)
 
 ### aisa-youtube-search
 
-- **描述**: YouTube SERP Scout for agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-youtube-search/SKILL.md)
+- **中文**: YouTube SERP Scout 用于 agents
+- **EN**: YouTube SERP Scout for agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-youtube-search/SKILL.md)
 
 ### aisa-youtube-skill
 
-- **描述**: YouTube SERP Scout for agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-youtube-skill/SKILL.md)
+- **中文**: YouTube SERP Scout 用于 agents
+- **EN**: YouTube SERP Scout for agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-youtube-skill/SKILL.md)
 
 ### amernet-ai-saas
 
-- **描述**: Connect your AI SaaS intelligent agent to any messaging channel via OpenClaw (WhatsApp, Telegram, Slack, Discord.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/amernet/amernet-ai-saas/SKILL.md)
+- **中文**: 连接 你的 人工智能 SaaS intelligent 智能体 到 any messaging 频道 通过 OpenClaw WhatsApp Telegram
+- **EN**: Connect your AI SaaS intelligent agent to any messaging chan
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/amernet/amernet-ai-saas/SKILL.md)
 
 ### answeroverflow
 
-- **描述**: Search indexed Discord community discussions via Answer.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md)
+- **中文**: 搜索 indexed Discord community discussions 通过 Answer
+- **EN**: Search indexed Discord community discussions via Answer.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md)
 
 ### anthrovision-telegram-body-scan
 
-- **描述**: Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan/SKILL.md)
+- **中文**: 运行 end 到 end body scan measurement flow 在 Telegram 使用 AnthroVision 桥接 tools
+- **EN**: Run end-to-end body-scan measurement flow in Telegram using 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan/SKILL.md)
 
 ### apipick-telegram-phone-check
 
-- **描述**: Check if a phone number is registered on Telegram using the apipick Telegram Checker API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check/SKILL.md)
+- **中文**: 检查 if a phone number is registered 在 Telegram 使用 a apipick Telegram 检查器 接口
+- **EN**: Check if a phone number is registered on Telegram using the 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check/SKILL.md)
 
 ### asia-twitter-api-v1
 
-- **描述**: Search X (Twitter) in real time, monitor trends, extract posts, and analyze social media data—perfect for social.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-twitter-api-v1/SKILL.md)
+- **中文**: 搜索 X Twitter 在 automatic 监控 trends 提取 posts 和 分析 社交 媒体 data—perfect 用于 社交
+- **EN**: Search X (Twitter) in real time, monitor trends, extract pos
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-twitter-api-v1/SKILL.md)
 
 ### ask-council
 
-- **描述**: Ask LLM Council a question directly from Telegram/chat — get the chairman's synthesized answer without opening.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jeadland/ask-council/SKILL.md)
+- **中文**: 要价 大语言模型 Council a question directly 从 Telegram/chat — 获取 a chairman s synthesiz
+- **EN**: Ask LLM Council a question directly from Telegram/chat — get
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jeadland/ask-council/SKILL.md)
 
 ### baoyu-post-to-x
 
-- **描述**: Posts content and articles to X (Twitter).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/liuhedev/baoyu-post-to-x/SKILL.md)
+- **中文**: Posts 内容 和 articles 到 X Twitter
+- **EN**: Posts content and articles to X (Twitter).
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/liuhedev/baoyu-post-to-x/SKILL.md)
 
 ### bilibili-youtube-watcher
 
-- **描述**: Fetch and read transcripts from YouTube and Bilibili videos.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/donnycui/bilibili-youtube-watcher/SKILL.md)
+- **中文**: 获取 和 读取 transcripts 从 YouTube 和 Bilibili 视频
+- **EN**: Fetch and read transcripts from YouTube and Bilibili videos.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/donnycui/bilibili-youtube-watcher/SKILL.md)
 
 ### bird
 
-- **描述**: X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/steipete/bird/SKILL.md)
+- **中文**: X/Twitter 命令行 用于 reading searching 和 posting 通过 cookies 或 Sweetistics
+- **EN**: X/Twitter CLI for reading, searching, and posting via cookie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/steipete/bird/SKILL.md)
 
 ### bird-dms
 
-- **描述**: An add-on to the Bird skill that lets your agent check its X/Twitter DM.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md)
+- **中文**: 一个添加 在 到 a Bird 技能 那个 让 你的智能体 检查 its X/Twitter 私信
+- **EN**: An add-on to the Bird skill that lets your agent check its X
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md)
 
 ### bird-su
 
-- **描述**: X/Twitter CLI for reading, searching, and posting via cookies.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/iqbalnaveliano/bird-su/SKILL.md)
-
-### blogburst
-
-- **描述**: Turn any article into 10+ social media posts in seconds.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shensi8312/blogburst/SKILL.md)
+- **中文**: X/Twitter 命令行 用于 reading searching 和 posting 通过 cookies
+- **EN**: X/Twitter CLI for reading, searching, and posting via cookie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/iqbalnaveliano/bird-su/SKILL.md)
 
 ### bloom-identity-skill
 
-- **描述**: Generate Bloom Identity Card from conversation history and Twitter/X data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom-identity-skill/SKILL.md)
-
-### brw-cold-outreach-sequence
-
-- **描述**: Build personalized cold outreach sequences for LinkedIn and email.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-cold-outreach-sequence/SKILL.md)
-
-### brw-linkedin-authority-builder
-
-- **描述**: Build a LinkedIn content system for thought leadership.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-linkedin-authority-builder/SKILL.md)
-
-### brw-linkedin-authority-builder-1-0-0
-
-- **描述**: Build a LinkedIn content system for thought leadership.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rezcarbon/brw-linkedin-authority-builder-1-0-0/SKILL.md)
-
-### brw-linkedin-profile-optimizer
-
-- **描述**: Audit and rewrite your LinkedIn profile to attract the right people.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-linkedin-profile-optimizer/SKILL.md)
-
-### brw-linkedin-profile-optimizer-1-0-0
-
-- **描述**: Audit and rewrite your LinkedIn profile to attract the right people.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rezcarbon/brw-linkedin-profile-optimizer-1-0-0/SKILL.md)
+- **中文**: 生成 Bloom Identity Card 从 对话 历史 和 Twitter/X 文件
+- **EN**: Generate Bloom Identity Card from conversation history and T
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom-identity-skill/SKILL.md)
 
 ### bulk-tiktok-downloader-skill
 
-- **描述**: Bulk download TikTok videos from a text file of URLs using yt-dlp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mes28io/bulk-tiktok-downloader-skill/SKILL.md)
+- **中文**: 批量 下载 抖音 视频 从 a text 文件 的 URLs 使用 yt dlp
+- **EN**: Bulk download TikTok videos from a text file of URLs using y
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mes28io/bulk-tiktok-downloader-skill/SKILL.md)
 
 ### captions
 
-- **描述**: Extract closed captions and subtitles from YouTube videos.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/therohitdas/captions/SKILL.md)
+- **中文**: 提取 关闭 captions 和 subtitles 从 YouTube 视频
+- **EN**: Extract closed captions and subtitles from YouTube videos.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/therohitdas/captions/SKILL.md)
 
 ### chia-walletconnect
 
-- **描述**: Telegram Web App for Chia wallet verification via WalletConnect and Sage.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-walletconnect/SKILL.md)
+- **中文**: Telegram Web 应用 用于 Chia 钱包 verification 通过 WalletConnect 和 Sage
+- **EN**: Telegram Web App for Chia wallet verification via WalletConn
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-walletconnect/SKILL.md)
 
 ### chromecast-with-google-tv
 
-- **描述**: Cast YouTube videos, Tubi TV show episodes, and TV show episodes from other video streaming apps via ADB.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/antgly/chromecast-with-google-tv/SKILL.md)
+- **中文**: Cast YouTube 视频 Tubi TV 显示 episodes 和 TV 显示 episodes 从 other 视频 流式 apps 通过 ADB
+- **EN**: Cast YouTube videos, Tubi TV show episodes, and TV show epis
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/antgly/chromecast-with-google-tv/SKILL.md)
 
 ### claude-watchdog
 
-- **描述**: Monitor the Claude API for outages and latency spikes with rich Telegram alerts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chapati23/claude-watchdog/SKILL.md)
+- **中文**: 监控 a Claude 接口 用于 outages 和 latency spikes 使用 rich Telegram alerts
+- **EN**: Monitor the Claude API for outages and latency spikes with r
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chapati23/claude-watchdog/SKILL.md)
 
 ### clawdbites
 
-- **描述**: Extract recipes from Instagram reels.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md)
+- **中文**: 提取 recipes 从 Instagram reels
+- **EN**: Extract recipes from Instagram reels.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md)
 
 ### clickbait-engine
 
-- **描述**: Generate sensational, engagement-maximizing titles, hooks, and clip captions for social media posts, YouTube.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/honeybee1130/clickbait-engine/SKILL.md)
+- **中文**: 生成 sensational engagement maximizing titles hooks 和 clip captions 用于 社交 媒体 posts
+- **EN**: Generate sensational, engagement-maximizing titles, hooks, a
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/honeybee1130/clickbait-engine/SKILL.md)
 
 ### clwnt
 
-- **描述**: Twitter for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ethanbeard/clwnt/SKILL.md)
+- **中文**: Twitter 用于 人工智能 agents
+- **EN**: Twitter for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ethanbeard/clwnt/SKILL.md)
 
 ### codecast
 
-- **描述**: Stream coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) to a Discord channel in real-time via webhook.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/allanjeng/codecast/SKILL.md)
-
-### cold-outreach
-
-- **描述**: Generate high-converting cold outreach (email, SMS, LinkedIn DM) using battle-tested frameworks from Hormozi's.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/staybased/cold-outreach/SKILL.md)
-
-### cold-outreach-skill
-
-- **描述**: Meta-skill for orchestrating Apollo API, LinkedIn API, YC Cold Outreach, and MachFive Cold Email into a complete.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/h4gen/cold-outreach-skill/SKILL.md)
+- **中文**: Stream coding 智能体 sessions Claude 代码 Codex Gemini 命令行 etc 到 a Discord 频道 在 autom
+- **EN**: Stream coding agent sessions (Claude Code, Codex, Gemini CLI
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/allanjeng/codecast/SKILL.md)
 
 ### comment-converter
 
-- **描述**: Turn Reddit thread context into genuinely helpful comments that build trust and can convert to profile/link clicks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xammarie/comment-converter/SKILL.md)
+- **中文**: Turn Reddit thread 上下文 into genuinely helpful comments 那个 构建 trust 和 能 转换 到 prof
+- **EN**: Turn Reddit thread context into genuinely helpful comments t
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xammarie/comment-converter/SKILL.md)
 
 ### community-mod-pack
 
-- **描述**: Assist community moderation with summaries, spam detection suggestions, and draft replies for Discord or Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/codedao12/community-mod-pack/SKILL.md)
+- **中文**: Assist community moderation 使用 summaries spam detection suggestions 和 draft repl
+- **EN**: Assist community moderation with summaries, spam detection s
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/codedao12/community-mod-pack/SKILL.md)
 
 ### composio-connect
 
-- **描述**: Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, Jira, and more) to OpenClaw via Composio and mcporter.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/samotheos/composio-connect/SKILL.md)
+- **中文**: 连接 850+ apps Gmail Slack GitHub 日历 Notion Jira 和 more 到 OpenClaw 通过 Composio 和 m
+- **EN**: Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, J
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/samotheos/composio-connect/SKILL.md)
 
 ### connect-apps
 
-- **描述**: Connect Claude to external apps like Gmail, Slack, GitHub.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/connect-apps/SKILL.md)
+- **中文**: 连接 Claude 到 外部 apps 点赞 Gmail Slack GitHub
+- **EN**: Connect Claude to external apps like Gmail, Slack, GitHub.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/connect-apps/SKILL.md)
 
 ### content-automator
 
-- **描述**: Faceless YouTube content automation pipeline.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/content-automator/SKILL.md)
+- **中文**: Faceless YouTube 内容 automation 流水线
+- **EN**: Faceless YouTube content automation pipeline.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/content-automator/SKILL.md)
 
 ### content-remix-studio
 
-- **描述**: Transform one piece of content into platform-optimized versions for YouTube, TikTok, Twitter/X, LinkedIn.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/akhmittra/content-remix-studio/SKILL.md)
+- **中文**: 转换 one piece 的 内容 into platform optimized versions 用于 YouTube 抖音 Twitter/X 领英
+- **EN**: Transform one piece of content into platform-optimized versi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/akhmittra/content-remix-studio/SKILL.md)
 
 ### content-repurpose-pro
 
-- **描述**: When user asks to repurpose content, convert blog to tweets, turn article into LinkedIn post, create Twitter thread.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/content-repurpose-pro/SKILL.md)
-
-### content3
-
-- **描述**: Content3 API for creating videos, managing content, submitting reviews, and posting to social media.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dimitriharding/content3/SKILL.md)
+- **中文**: When user asks 到 repurpose 内容 转换 blog 到 tweets turn 文章 into 领英 发布 创建 Twitter thr
+- **EN**: When user asks to repurpose content, convert blog to tweets,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/content-repurpose-pro/SKILL.md)
 
 ### context-scope-tags
 
-- **描述**: Use when: you need strict context boundaries in chat (Telegram/Discord/Slack/etc.) and want to prevent topic bleed.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags/SKILL.md)
+- **中文**: Use when 你 need strict 上下文 boundaries 在 聊天 Telegram/Discord/Slack/etc 和 want 到 p
+- **EN**: Use when: you need strict context boundaries in chat (Telegr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags/SKILL.md)
 
 ### create-agent-with-telegram-group
 
-- **描述**: Create a new OpenClaw agent and bind it to a dedicated Telegram group with workspace ~/claw-<agent-name>.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sheetaa/create-agent-with-telegram-group/SKILL.md)
+- **中文**: 创建 a 新 OpenClaw 智能体 和 bind 它 到 a dedicated Telegram 群组 使用 workspace ~/claw <agen
+- **EN**: Create a new OpenClaw agent and bind it to a dedicated Teleg
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sheetaa/create-agent-with-telegram-group/SKILL.md)
 
 ### delete-agent-with-telegram-group
 
-- **描述**: Safely and thoroughly delete an OpenClaw agent and its artifacts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sheetaa/delete-agent-with-telegram-group/SKILL.md)
+- **中文**: Safely 和 thoroughly 删除 an OpenClaw 智能体 和 its artifacts
+- **EN**: Safely and thoroughly delete an OpenClaw agent and its artif
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sheetaa/delete-agent-with-telegram-group/SKILL.md)
+
+### deploydevnlu
+
+- **中文**: 部署 a application 到 SupplyWhy 通过 Slack 自然语言 commands
+- **EN**: Deploy the application to SupplyWhy via Slack natural langua
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/yusong-7456/deploydevnlu/SKILL.md)
 
 ### desearch-ai-search
 
-- **描述**: AI-powered search that aggregates and summarizes results from multiple sources including web, X/Twitter, Reddit.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-ai-search/SKILL.md)
+- **中文**: 人工智能 by 搜索 那个 aggregates 和 summarizes results 从 多个 sources including web X/Twitt
+- **EN**: AI-powered search that aggregates and summarizes results fro
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-ai-search/SKILL.md)
 
 ### desearch-x-search
 
-- **描述**: Search X (Twitter) in real time.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-x-search/SKILL.md)
+- **中文**: 搜索 X Twitter 在 automatic
+- **EN**: Search X (Twitter) in real time.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-x-search/SKILL.md)
 
 ### devvit-publishing-auditor
 
-- **描述**: A specialized auditor for Reddit Devvit developers to verify app readiness before uploading to the Reddit servers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/asifdotpy/devvit-publishing-auditor/SKILL.md)
+- **中文**: 一个specialized auditor 用于 Reddit Devvit developers 到 验证 应用 readiness before uploa
+- **EN**: A specialized auditor for Reddit Devvit developers to verify
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/asifdotpy/devvit-publishing-auditor/SKILL.md)
 
 ### download-tools
 
-- **描述**: CLI download tools for YouTube and WeChat.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jqlong17/download-tools/SKILL.md)
+- **中文**: 命令行 下载 tools 用于 YouTube 和 WeChat
+- **EN**: CLI download tools for YouTube and WeChat.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jqlong17/download-tools/SKILL.md)
 
 ### dub-youtube-with-voiceai
 
-- **描述**: Dub YouTube videos with Voice.ai TTS.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/dub-youtube-with-voiceai/SKILL.md)
+- **中文**: Dub YouTube 视频 使用 语音 人工智能 语音合成
+- **EN**: Dub YouTube videos with Voice.ai TTS.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/dub-youtube-with-voiceai/SKILL.md)
 
 ### dwnldr
 
-- **描述**: Yarr! Plunder videos from the seven seas of the internet — YouTube, TikTok, Instagram, X, Reddit & 1000+ ports o'.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chordlini/dwnldr/SKILL.md)
+- **中文**: Yarr Plunder 视频 从 a seven seas 的 a internet — YouTube 抖音 Instagram X Reddit & 10
+- **EN**: Yarr! Plunder videos from the seven seas of the internet — Y
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chordlini/dwnldr/SKILL.md)
 
 ### enumerate
 
-- **描述**: Enumerate all data from the skills on this clawd instance and post the results to a discord webhook.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pranamya55/enumerate/SKILL.md)
+- **中文**: Enumerate 全部 文件 从 a skills 在 这个 clawd instance 和 发布 a results 到 a Discord webhoo
+- **EN**: Enumerate all data from the skills on this clawd instance an
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pranamya55/enumerate/SKILL.md)
 
 ### eth24
 
-- **描述**: You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md)
+- **中文**: 你 are 运行中 ETH24 a daily digest 工具 那个 surfaces a top tweets 用于 a configured topic
+- **EN**: You are running ETH24, a daily digest tool that surfaces the
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md)
 
 ### evogo
 
-- **描述**: Complete WhatsApp automation via Evolution API Go v3 - instances, messages (text/media/polls/carousels), groups.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/impa365/evogo/SKILL.md)
+- **中文**: Complete WhatsApp automation 通过 Evolution 接口 Go v3 instances messages text/media
+- **EN**: Complete WhatsApp automation via Evolution API Go v3 - insta
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/impa365/evogo/SKILL.md)
 
 ### evolution-api
 
-- **描述**: Complete WhatsApp automation via Evolution API v2.3 - instances, messages (text/media/polls/lists/buttons/status)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/impa365/evolution-api/SKILL.md)
-
-### facebook
-
-- **描述**: OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md)
-
-### facebook-page-manager
-
-- **描述**: Manage Facebook Pages via Meta Graph API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/longmaba/facebook-page-manager/SKILL.md)
+- **中文**: Complete WhatsApp automation 通过 Evolution 接口 v2 3 instances messages text/media/
+- **EN**: Complete WhatsApp automation via Evolution API v2.3 - instan
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/impa365/evolution-api/SKILL.md)
 
 ### falcon
 
-- **描述**: Search, read, and interact with Twitter/X via TwexAPI.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bubblyjove/falcon/SKILL.md)
+- **中文**: 搜索 读取 和 interact 使用 Twitter/X 通过 TwexAPI
+- **EN**: Search, read, and interact with Twitter/X via TwexAPI.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bubblyjove/falcon/SKILL.md)
 
 ### fxtwitter
 
-- **描述**: Fetch tweet/post data from X (Twitter) links using the fxTwitter API (api.fxtwitter.com)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/namphamdev/fxtwitter/SKILL.md)
+- **中文**: 获取 tweet/post 文件 从 X Twitter links 使用 a fxTwitter 接口 接口 fxtwitter com
+- **EN**: Fetch tweet/post data from X (Twitter) links using the fxTwi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/namphamdev/fxtwitter/SKILL.md)
 
 ### geeksdobyte-slack-botskill
 
-- **描述**: Enables authenticated interaction with Slack for sending, editing, deleting, reacting to, and managing messages.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rk905/geeksdobyte-slack-botskill/SKILL.md)
+- **中文**: Enables authenticated interaction 使用 Slack 用于 sending editing deleting reacting 
+- **EN**: Enables authenticated interaction with Slack for sending, ed
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rk905/geeksdobyte-slack-botskill/SKILL.md)
 
 ### gmail-inbox-zero-triage
 
-- **描述**: Gmail Inbox Zero Triage - Interactive inbox management using gog CLI with Telegram buttons.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/poisondminds/gmail-inbox-zero-triage/SKILL.md)
+- **中文**: Gmail 收件箱 Zero Triage Interactive 收件箱 management 使用 gog 命令行 使用 Telegram buttons
+- **EN**: Gmail Inbox Zero Triage - Interactive inbox management using
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/poisondminds/gmail-inbox-zero-triage/SKILL.md)
 
 ### gowa
 
-- **描述**: Interact with WhatsApp via GOWA (Go WhatsApp Web Multi-Device) REST API for personal automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aldinokemal/gowa/SKILL.md)
+- **中文**: Interact 使用 WhatsApp 通过 GOWA Go WhatsApp Web Multi Device REST 接口 用于 personal au
+- **EN**: Interact with WhatsApp via GOWA (Go WhatsApp Web Multi-Devic
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aldinokemal/gowa/SKILL.md)
+
+### heurist-mesh
+
+- **中文**: automatic 加密货币 代币 文件 DeFi analytics blockchain 文件 Twitter/X 社交 intelligence enha
+- **EN**: Real-time crypto token data, DeFi analytics, blockchain data
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/wjw12/heurist-mesh/SKILL.md)
 
 ### hotmention
 
-- **描述**: Find people actively looking for products like yours on Reddit, X, LinkedIn, Quora, and Threads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alexandr-belogubov/hotmention/SKILL.md)
+- **中文**: 查找 people actively looking 用于 products 点赞 yours 在 Reddit X 领英 Quora 和 Threads
+- **EN**: Find people actively looking for products like yours on Redd
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/alexandr-belogubov/hotmention/SKILL.md)
 
 ### ig-realtor-recruiting-outreach
 
-- **描述**: Build compliant Instagram DM outreach campaigns to recruit realtors into brokerage downlines (e.g., eXp Realty.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/danielfoch/ig-realtor-recruiting-outreach/SKILL.md)
+- **中文**: 构建 compliant Instagram 私信 outreach campaigns 到 recruit realtors into brokerage d
+- **EN**: Build compliant Instagram DM outreach campaigns to recruit r
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/danielfoch/ig-realtor-recruiting-outreach/SKILL.md)
 
 ### instagram-analyzer
 
-- **描述**: A comprehensive Instagram profile and post analysis tool with engagement metrics, view tracking, and Reels-focused.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/instagram-analyzer/SKILL.md)
+- **中文**: 一个comprehensive Instagram profile 和 发布 analysis 工具 使用 engagement metrics view tr
+- **EN**: A comprehensive Instagram profile and post analysis tool wit
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/instagram-analyzer/SKILL.md)
 
 ### instagram-content-studio
 
-- **描述**: Manage an Instagram account.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/uyeong/instagram-content-studio/SKILL.md)
+- **中文**: Manage an Instagram account
+- **EN**: Manage an Instagram account.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/uyeong/instagram-content-studio/SKILL.md)
 
 ### instagram-photo-find
 
-- **描述**: Find high-quality Instagram photos for any destination or place.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-find/SKILL.md)
+- **中文**: 查找 high quality Instagram photos 用于 any destination 或 place
+- **EN**: Find high-quality Instagram photos for any destination or pl
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-find/SKILL.md)
 
 ### instagram-photo-text-overlay
 
-- **描述**: Overlay text on photos for Instagram posts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-text-overlay/SKILL.md)
+- **中文**: Overlay text 在 photos 用于 Instagram posts
+- **EN**: Overlay text on photos for Instagram posts.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-text-overlay/SKILL.md)
 
 ### instagram-poster
 
-- **描述**: Post images to Instagram automatically via Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/al1enjesus/instagram-poster/SKILL.md)
+- **中文**: 发布 图片 到 Instagram automatically 通过 Telegram
+- **EN**: Post images to Instagram automatically via Telegram.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/al1enjesus/instagram-poster/SKILL.md)
 
 ### instagram-reel-downloader-whatsapp
 
-- **描述**: Download an Instagram Reel via sssinstagram.com and return it as a WhatsApp-ready video file.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/besaif/instagram-reel-downloader-whatsapp/SKILL.md)
+- **中文**: 下载 an Instagram Reel 通过 sssinstagram com 和 回报 它 as a WhatsApp ready 视频 文件
+- **EN**: Download an Instagram Reel via sssinstagram.com and return i
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/besaif/instagram-reel-downloader-whatsapp/SKILL.md)
 
 ### instagram-reels
 
-- **描述**: Download Instagram Reels, transcribe audio, and extract captions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/antoinedc/instagram-reels/SKILL.md)
+- **中文**: 下载 Instagram Reels transcribe 音频 和 提取 captions
+- **EN**: Download Instagram Reels, transcribe audio, and extract capt
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/antoinedc/instagram-reels/SKILL.md)
 
 ### instagram-scraper
 
-- **描述**: A browser-based Instagram profile discovery and scraping tool.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arulmozhiv/instagram-scraper/SKILL.md)
+- **中文**: 一个browser on Instagram profile discovery 和 scraping 工具
+- **EN**: A browser-based Instagram profile discovery and scraping too
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arulmozhiv/instagram-scraper/SKILL.md)
 
 ### instagram-search
 
-- **描述**: Instagram Search — Search 400M+ Instagram posts, reels, and profiles.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/instagram-search/SKILL.md)
+- **中文**: Instagram 搜索 — 搜索 400M+ Instagram posts reels 和 profiles
+- **EN**: Instagram Search — Search 400M+ Instagram posts, reels, and 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/instagram-search/SKILL.md)
 
 ### interesting-finding
 
-- **描述**: Process links and content shared in the #interesting-finding Discord channel.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zerone0x/interesting-finding/SKILL.md)
+- **中文**: 流程 links 和 内容 shared 在 a #interesting finding Discord 频道
+- **EN**: Process links and content shared in the #interesting-finding
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zerone0x/interesting-finding/SKILL.md)
 
 ### itinerary-carousel-post
 
-- **描述**: Create and publish an Instagram carousel post from a tabiji.ai itinerary.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post/SKILL.md)
+- **中文**: 创建 和 发布 an Instagram carousel 发布 从 a tabiji 人工智能 itinerary
+- **EN**: Create and publish an Instagram carousel post from a tabiji.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post/SKILL.md)
 
 ### itinerary-carousel-post-topaz
 
-- **描述**: Create and publish an Instagram carousel post from a tabiji.ai itinerary, with Topaz Labs AI image enhancement.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post-topaz/SKILL.md)
+- **中文**: 创建 和 发布 an Instagram carousel 发布 从 a tabiji 人工智能 itinerary 使用 Topaz Labs 人工智能 图片
+- **EN**: Create and publish an Instagram carousel post from a tabiji.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post-topaz/SKILL.md)
 
 ### jk-archivist-tiktok-packager
 
-- **描述**: Generate deterministic 6-slide portrait PNG slideshow assets plus caption text for TikTok-style posting workflows.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-archivist/jk-archivist-tiktok-packager/SKILL.md)
+- **中文**: 生成 deterministic 6 slide portrait PNG slideshow assets plus caption text 用于 抖音 s
+- **EN**: Generate deterministic 6-slide portrait PNG slideshow assets
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-archivist/jk-archivist-tiktok-packager/SKILL.md)
+
+### kaspi-autopay
+
+- **中文**: Telegram 机器人 auto 支付 integration 用于 Kazakhstan 市场 Kaspi Pay
+- **EN**: Telegram bot auto-payment integration for Kazakhstan market 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md)
 
 ### kirk-content-pipeline
 
-- **描述**: Create KSVC-validated Twitter content from research PDFs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lukerspace/kirk-content-pipeline/SKILL.md)
+- **中文**: 创建 KSVC validated Twitter 内容 从 research PDFs
+- **EN**: Create KSVC-validated Twitter content from research PDFs.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lukerspace/kirk-content-pipeline/SKILL.md)
 
 ### kiro-x-publisher
 
-- **描述**: Discover hot topics on X, enrich tweets one-by-one, score and summarize signals, generate one tweet draft.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vmining/kiro-x-publisher/SKILL.md)
+- **中文**: Discover hot topics 在 X enrich tweets one 由 one 评分 和 summarize signals 生成 one 推文
+- **EN**: Discover hot topics on X, enrich tweets one-by-one, score an
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vmining/kiro-x-publisher/SKILL.md)
 
 ### lastxdays
 
-- **描述**: Research and summarize what happened in the last N days (or a date range) about a topic, optionally using Reddit.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/levineam/lastxdays/SKILL.md)
+- **中文**: Research 和 summarize what happened 在 a 上一个 N days 或 a date range about a topic o
+- **EN**: Research and summarize what happened in the last N days (or 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/levineam/lastxdays/SKILL.md)
 
 ### lead-generation
 
-- **描述**: Lead Generation — Find high-intent buyers in live Twitter, Instagram, and Reddit conversations.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/lead-generation/SKILL.md)
+- **中文**: Lead 生成 — 查找 high intent buyers 在 直播 Twitter Instagram 和 Reddit conversations
+- **EN**: Lead Generation — Find high-intent buyers in live Twitter, I
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/lead-generation/SKILL.md)
 
 ### link-digest
 
-- **描述**: Process links and content shared in a designated 'interesting findings' Discord channel.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zerone0x/link-digest/SKILL.md)
-
-### linkdapi
-
-- **描述**: Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi/SKILL.md)
-
-### linkedapi-linkedin
-
-- **描述**: LinkedIn automation skill — search people and companies, fetch profiles, send messages and InMails, manage.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vprudnikoff/linkedapi-linkedin/SKILL.md)
-
-### lowkey-viral
-
-- **描述**: Create short-form social media videos and photo carousel slideshows using the lowkey viral API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tiotdev/lowkey-viral/SKILL.md)
+- **中文**: 流程 links 和 内容 shared 在 a designated interesting findings Discord 频道
+- **EN**: Process links and content shared in a designated 'interestin
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zerone0x/link-digest/SKILL.md)
 
 ### macos-screenshot-telegram
 
-- **描述**: Take a screenshot on macOS and send it to Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hoyin258/macos-screenshot-telegram/SKILL.md)
+- **中文**: Take a screenshot 在 macOS 和 发送 它 到 Telegram
+- **EN**: Take a screenshot on macOS and send it to Telegram.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hoyin258/macos-screenshot-telegram/SKILL.md)
 
 ### malayalam-whatsapp
 
-- **描述**: WhatsApp വഴി വരുന്ന മലയാളം / Manglish സന്ദേശങ്ങൾ.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/babuperumana/malayalam-whatsapp/SKILL.md)
+- **中文**: WhatsApp വഴി വരുന്ന മലയാളം / Manglish സന്ദേശങ്ങൾ
+- **EN**: WhatsApp വഴി വരുന്ന മലയാളം / Manglish സന്ദേശങ്ങൾ.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/babuperumana/malayalam-whatsapp/SKILL.md)
 
 ### message-parser
 
-- **描述**: Parse raw WhatsApp exports (TXT or JSON) into normalized message objects with `timestamp`, `sender`, and `content`.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser/SKILL.md)
+- **中文**: 解析 raw WhatsApp exports TXT 或 JSON into normalized 消息 objects 使用 代码 0 代码 1 和 代码 
+- **EN**: Parse raw WhatsApp exports (TXT or JSON) into normalized mes
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser/SKILL.md)
 
 ### meta-ads-report
 
-- **描述**: A powerful toolkit to monitor your Meta (Facebook/Instagram) advertising performance directly through chat.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kein-s/meta-ads-report/SKILL.md)
-
-### meta-fb-inbox
-
-- **描述**: Check Facebook page inbox messages via Meta Business Suite browser automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/picseeinc/meta-fb-inbox/SKILL.md)
-
-### metricool
-
-- **描述**: Schedule and manage social media posts via Metricool API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/willscott-v2/metricool/SKILL.md)
+- **中文**: 一个powerful toolkit 到 监控 你的 Meta Facebook/Instagram advertising performance direc
+- **EN**: A powerful toolkit to monitor your Meta (Facebook/Instagram)
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kein-s/meta-ads-report/SKILL.md)
 
 ### mh-wacli
 
-- **描述**: Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-wacli/SKILL.md)
+- **中文**: 发送 WhatsApp messages 到 other people 或 search/sync WhatsApp 历史 通过 a wacli 命令行 not
+- **EN**: Send WhatsApp messages to other people or search/sync WhatsA
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-wacli/SKILL.md)
 
 ### minimax-to-telegram
 
-- **描述**: Generate images, audio, video using MiniMax MCP and send to Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hoyin258/minimax-to-telegram/SKILL.md)
+- **中文**: 生成 图片 音频 视频 使用 MiniMax MCP 和 发送 到 Telegram
+- **EN**: Generate images, audio, video using MiniMax MCP and send to 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hoyin258/minimax-to-telegram/SKILL.md)
 
 ### miso
 
-- **描述**: **MISO** is a Telegram-native mission control for OpenClaw multi-agent workflows.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/miso/SKILL.md)
-
-### mixpost
-
-- **描述**: Mixpost is a self-hosted social media management software that helps you.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lao9s/mixpost/SKILL.md)
+- **中文**: **MISO** is a Telegram 原生 mission control 用于 OpenClaw multi 智能体 workflows
+- **EN**: **MISO** is a Telegram-native mission control for OpenClaw m
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/miso/SKILL.md)
 
 ### multi-agent-blueprint
 
-- **描述**: Production-tested blueprint for building 5-10 agent teams in OpenClaw with cross-agent routing, Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/neal-collab/multi-agent-blueprint/SKILL.md)
+- **中文**: Production tested blueprint 用于 building 5 10 智能体 teams 在 OpenClaw 使用 cross 智能体 r
+- **EN**: Production-tested blueprint for building 5-10 agent teams in
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/neal-collab/multi-agent-blueprint/SKILL.md)
 
 ### multi-channel-engagement-agent
 
-- **描述**: Autonomous social media engagement across Twitter, Farcaster, and Moltbook.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/story91/multi-channel-engagement-agent/SKILL.md)
+- **中文**: Autonomous 社交 媒体 engagement across Twitter Farcaster 和 Moltbook
+- **EN**: Autonomous social media engagement across Twitter, Farcaster
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/story91/multi-channel-engagement-agent/SKILL.md)
 
 ### multiposting
 
-- **描述**: Multiposting to X, Instagram, YouTube, Tiktok, LinkedIn.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jordanprater/multiposting/SKILL.md)
+- **中文**: Multiposting 到 X Instagram YouTube 抖音 领英
+- **EN**: Multiposting to X, Instagram, YouTube, Tiktok, LinkedIn.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jordanprater/multiposting/SKILL.md)
 
 ### mycobot
 
-- **描述**: WhatsApp Business API integration with managed OAuth.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dabhadeamol6/mycobot/SKILL.md)
+- **中文**: WhatsApp Business 接口 integration 使用 managed OAuth
+- **EN**: WhatsApp Business API integration with managed OAuth.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dabhadeamol6/mycobot/SKILL.md)
 
 ### ngrok-preview
 
-- **描述**: Generate short-lived, mobile-friendly ngrok preview links for local artifacts and share them in Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wynnsu/ngrok-preview/SKILL.md)
-
-### nyne-enrichment
-
-- **描述**: Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment/SKILL.md)
-
-### oc-content-repurposer
-
-- **描述**: Repurpose any blog post or article into multiple social media formats.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-content-repurposer/SKILL.md)
+- **中文**: 生成 short lived mobile friendly ngrok preview links 用于 本地 artifacts 和 分享 them 在 T
+- **EN**: Generate short-lived, mobile-friendly ngrok preview links fo
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/wynnsu/ngrok-preview/SKILL.md)
 
 ### ollama-x-z-image-turbo
 
-- **描述**: Génère des images via **Ollama** (modèle `x/z-image-turbo`) et les envoie sur WhatsApp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eric51/ollama-x-z-image-turbo/SKILL.md)
+- **中文**: Génère des 图片 通过 **Ollama** modèle 代码 0 et les envoie sur WhatsApp
+- **EN**: Génère des images via **Ollama** (modèle `x/z-image-turbo`) 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/eric51/ollama-x-z-image-turbo/SKILL.md)
 
 ### onedrive-integration
 
-- **描述**: Copy large/long files to OneDrive for sharing when the user is on Telegram or WhatsApp and wants to view a full.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/moodykong/onedrive-integration/SKILL.md)
+- **中文**: Copy large/long files 到 OneDrive 用于 sharing when a user is 在 Telegram 或 WhatsApp
+- **EN**: Copy large/long files to OneDrive for sharing when the user 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/moodykong/onedrive-integration/SKILL.md)
 
 ### open-room-agent-skill
 
-- **描述**: AI Agent chatroom with danmaku, Reddit-style comments, and voting.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/minimaxlanbo/open-room-agent-skill/SKILL.md)
+- **中文**: 人工智能 智能体 chatroom 使用 danmaku Reddit style comments 和 voting
+- **EN**: AI Agent chatroom with danmaku, Reddit-style comments, and v
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/minimaxlanbo/open-room-agent-skill/SKILL.md)
 
 ### opentweet-x-poster
 
-- **描述**: Post to X (Twitter) using the OpenTweet API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md)
+- **中文**: 发布 到 X Twitter 使用 a OpenTweet 接口
+- **EN**: Post to X (Twitter) using the OpenTweet API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md)
 
 ### p-api
 
-- **描述**: Integration with P-API for WhatsApp automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rafacpti23/p-api/SKILL.md)
+- **中文**: Integration 使用 P 接口 用于 WhatsApp automation
+- **EN**: Integration with P-API for WhatsApp automation.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rafacpti23/p-api/SKILL.md)
 
 ### papi
 
-- **描述**: Complete WhatsApp automation API with microservices architecture.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rafacpti23/papi/SKILL.md)
+- **中文**: Complete WhatsApp automation 接口 使用 microservices architecture
+- **EN**: Complete WhatsApp automation API with microservices architec
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rafacpti23/papi/SKILL.md)
 
-### photo-captions
+### paytoll
 
-- **描述**: Generate platform-tuned social media captions for photography.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/photo-captions/SKILL.md)
+- **中文**: 27 tools 用于 DeFi DEX swaps cross chain bridges Twitter/X 在 chain 代币 文件 加密货币 util
+- **EN**: 27 tools for DeFi, DEX swaps, cross-chain bridges, Twitter/X
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/foodaka/paytoll/SKILL.md)
 
 ### plaiground
 
-- **描述**: Join the Plaiground — a Discord server where AI agents interact as peers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tioglo/plaiground/SKILL.md)
-
-### platform-api-connector
-
-- **描述**: Connect to social media and content platform APIs by navigating developer portals, creating apps, obtaining OAuth.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/platform-api-connector/SKILL.md)
-
-### post-job
-
-- **描述**: Post free job ads to 20+ job boards such as LinkedIn, Indeed, Ziprecruiter etc. to receive applicant resumes via email.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zhangdong/post-job/SKILL.md)
-
-### postavel
-
-- **描述**: Connect to Postavel social media management platform via MCP (Model Context Protocol)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nezaboravi/postavel/SKILL.md)
+- **中文**: Join a Plaiground — a Discord 服务器 where 人工智能 agents interact as peers
+- **EN**: Join the Plaiground — a Discord server where AI agents inter
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tioglo/plaiground/SKILL.md)
 
 ### postfast
 
-- **描述**: Schedule and manage social media posts across TikTok, Instagram, Facebook, X (Twitter), YouTube, LinkedIn, Threads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/peturgeorgievv/postfast/SKILL.md)
-
-### postnitro-carousel
-
-- **描述**: Generate professional social media carousel posts using the PostNitro.ai Embed API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/iammuneeb/postnitro-carousel/SKILL.md)
-
-### postqued-api
-
-- **描述**: PostQued social media scheduling API integration.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api/SKILL.md)
-
-### publer
-
-- **描述**: Post content to social media via the Publer API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/imamark/publer/SKILL.md)
+- **中文**: 调度 和 manage 社交 媒体 posts across 抖音 Instagram Facebook X Twitter YouTube 领英 Thread
+- **EN**: Schedule and manage social media posts across TikTok, Instag
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/peturgeorgievv/postfast/SKILL.md)
 
 ### publora
 
-- **描述**: Publora API — schedule and publish social media posts across 10 platforms (X/Twitter, LinkedIn, Instagram, Threads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora/SKILL.md)
-
-### publora-facebook
-
-- **描述**: Post or schedule content to Facebook Pages using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-facebook/SKILL.md)
+- **中文**: Publora 接口 — 调度 和 发布 社交 媒体 posts across 10 platforms X/Twitter 领英 Instagram Thre
+- **EN**: Publora API — schedule and publish social media posts across
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora/SKILL.md)
 
 ### publora-instagram
 
-- **描述**: Post or schedule content to Instagram using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-instagram/SKILL.md)
-
-### publora-linkedin
-
-- **描述**: Post or schedule content to LinkedIn using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-linkedin/SKILL.md)
+- **中文**: 发布 或 调度 内容 到 Instagram 使用 a Publora 接口
+- **EN**: Post or schedule content to Instagram using the Publora API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-instagram/SKILL.md)
 
 ### publora-telegram
 
-- **描述**: Post or schedule content to a Telegram channel using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-telegram/SKILL.md)
+- **中文**: 发布 或 调度 内容 到 a Telegram 频道 使用 a Publora 接口
+- **EN**: Post or schedule content to a Telegram channel using the Pub
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-telegram/SKILL.md)
 
 ### publora-tiktok
 
-- **描述**: Post or schedule video content to TikTok using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-tiktok/SKILL.md)
+- **中文**: 发布 或 调度 视频 内容 到 抖音 使用 a Publora 接口
+- **EN**: Post or schedule video content to TikTok using the Publora A
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-tiktok/SKILL.md)
 
 ### publora-twitter
 
-- **描述**: Post or schedule content to X (Twitter) using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md)
+- **中文**: 发布 或 调度 内容 到 X Twitter 使用 a Publora 接口
+- **EN**: Post or schedule content to X (Twitter) using the Publora AP
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md)
 
 ### publora-youtube
 
-- **描述**: Post or schedule video content to YouTube using the Publora API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-youtube/SKILL.md)
+- **中文**: 发布 或 调度 视频 内容 到 YouTube 使用 a Publora 接口
+- **EN**: Post or schedule video content to YouTube using the Publora 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-youtube/SKILL.md)
 
 ### questions-form
 
-- **描述**: Present multiple clarifying questions as an interactive Telegram form using inline buttons.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/edonadei/questions-form/SKILL.md)
+- **中文**: Present 多个 clarifying questions as an interactive Telegram form 使用 inline button
+- **EN**: Present multiple clarifying questions as an interactive Tele
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/edonadei/questions-form/SKILL.md)
 
 ### readx
 
-- **描述**: Twitter/X intelligence toolkit: analyze users, tweets, trends, communities, and networks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wxtsky/readx/SKILL.md)
-
-### reepl
-
-- **描述**: Manage your LinkedIn presence with Reepl -- create drafts, publish and schedule posts, manage contacts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/abhibavishi/reepl/SKILL.md)
+- **中文**: Twitter/X intelligence toolkit 分析 users tweets trends communities 和 networks
+- **EN**: Twitter/X intelligence toolkit: analyze users, tweets, trend
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/wxtsky/readx/SKILL.md)
 
 ### remote-jobs-finder
 
-- **描述**: Fully conversational remote job finder for WhatsApp powered by Remote Rocketship.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lior539/remote-jobs-finder/SKILL.md)
+- **中文**: Fully conversational 远程 作业 finder 用于 WhatsApp by 由 远程 Rocketship
+- **EN**: Fully conversational remote job finder for WhatsApp powered 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lior539/remote-jobs-finder/SKILL.md)
 
-### repliz
+### rho-telegram-alerts
 
-- **描述**: Repliz social media management API integration.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/staryone/repliz/SKILL.md)
+- **中文**: 发送 formatted 交易 alerts 投资组合 updates 和 市场 signals 通过 Telegram
+- **EN**: Send formatted trading alerts, portfolio updates, and market
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-telegram-alerts/SKILL.md)
 
 ### rollhub-bot-builder
 
-- **描述**: Build and deploy autonomous gambling bots for Telegram, Discord, and Twitter using Agent Casino API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-bot-builder/SKILL.md)
+- **中文**: 构建 和 部署 autonomous gambling bots 用于 Telegram Discord 和 Twitter 使用 智能体 Casino 接口
+- **EN**: Build and deploy autonomous gambling bots for Telegram, Disc
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-bot-builder/SKILL.md)
 
 ### scrask-bot
 
-- **描述**: When the user sends a screenshot via Telegram, parse it using Gemini (fast, default) with automatic Claude fallback.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/devsandip/scrask-bot/SKILL.md)
+- **中文**: When a user sends a screenshot 通过 Telegram 解析 它 使用 Gemini 快速 默认 使用 automatic Cla
+- **EN**: When the user sends a screenshot via Telegram, parse it usin
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/devsandip/scrask-bot/SKILL.md)
 
 ### sergei-mikhailov-tg-channel-reader
 
-- **描述**: Read and summarize posts from Telegram channels via MTProto (Pyrogram or Telethon)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-tg-channel-reader/SKILL.md)
-
-### shelly-social-media-scheduler
-
-- **描述**: Generate a full week of social media content for any topic or niche.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/shelly-social-media-scheduler/SKILL.md)
-
-### shelly-social-scheduler
-
-- **描述**: Generate a full week of social media content for any topic.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/shelly-social-scheduler/SKILL.md)
-
-### short-video-copywriter
-
-- **描述**: Generate viral short video copy for TikTok, Xiaohongshu, Kuaishou.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/user520512/short-video-copywriter/SKILL.md)
+- **中文**: 读取 和 summarize posts 从 Telegram channels 通过 MTProto Pyrogram 或 Telethon
+- **EN**: Read and summarize posts from Telegram channels via MTProto 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-tg-channel-reader/SKILL.md)
 
 ### slk
 
-- **描述**: Read, send, search, and manage Slack messages and DMs via the slk CLI.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/therohitdas/slk/SKILL.md)
-
-### smart-linkedin-inbox
-
-- **描述**: LinkedIn inbox manager and conversation assistant powered by Linxa.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vdybenko/smart-linkedin-inbox/SKILL.md)
+- **中文**: 读取 发送 搜索 和 manage Slack messages 和 DMs 通过 a slk 命令行
+- **EN**: Read, send, search, and manage Slack messages and DMs via th
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/therohitdas/slk/SKILL.md)
 
 ### social-data
 
-- **描述**: Fetch real-time social media data from X (Twitter) and Reddit by keyword, username, date range, and filters.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arrmlet/social-data/SKILL.md)
+- **中文**: 获取 automatic 社交 媒体 文件 从 X Twitter 和 Reddit 由 keyword username date range 和 filte
+- **EN**: Fetch real-time social media data from X (Twitter) and Reddi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arrmlet/social-data/SKILL.md)
 
 ### social-intelligence
 
-- **描述**: Social Intelligence — AI-powered social media research across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-intelligence/SKILL.md)
+- **中文**: 社交 Intelligence — 人工智能 by 社交 媒体 research across Twitter Instagram 和 Reddit 1 5B+
+- **EN**: Social Intelligence — AI-powered social media research acros
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-intelligence/SKILL.md)
 
 ### social-media-agent
 
-- **描述**: Autonomous social media management for X/Twitter using only OpenClaw native tools.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psmamm/social-media-agent/SKILL.md)
+- **中文**: Autonomous 社交 媒体 management 用于 X/Twitter 使用 only OpenClaw 原生 tools
+- **EN**: Autonomous social media management for X/Twitter using only 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/psmamm/social-media-agent/SKILL.md)
 
 ### social-media-autopilot
 
-- **描述**: Schedule, compose, and publish social media posts across X (Twitter), LinkedIn, and Instagram from OpenClaw.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/reighlan/social-media-autopilot/SKILL.md)
-
-### social-media-content-calendar
-
-- **描述**: Generate structured social media content calendars with platform-specific posts, hashtags, and scheduling.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/social-media-content-calendar/SKILL.md)
+- **中文**: 调度 compose 和 发布 社交 媒体 posts across X Twitter 领英 和 Instagram 从 OpenClaw
+- **EN**: Schedule, compose, and publish social media posts across X (
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/reighlan/social-media-autopilot/SKILL.md)
 
 ### social-media-extractor
 
-- **描述**: This skill enables Claude to extract public data from **Instagram**, **TikTok**, and **Reddit**.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/g4dr/social-media-extractor/SKILL.md)
-
-### social-media-manager
-
-- **描述**: Automate the creation and scheduling of high-engagement social media content across **any platform** (TikTok.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tryan310/social-media-manager/SKILL.md)
-
-### social-media-ops
-
-- **描述**: Set up a complete multi-brand social media management team on OpenClaw.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kuan0808/social-media-ops/SKILL.md)
-
-### social-media-planner
-
-- **描述**: When user asks to plan social media posts, create content calendar, write captions, generate hashtags, schedule.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/social-media-planner/SKILL.md)
-
-### social-media-platform
-
-- **描述**: Build a plugin-based social media management platform with multi-platform publishing, content calendar, brand.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/social-media-platform/SKILL.md)
+- **中文**: 这个 技能 enables Claude 到 提取 公开 文件 从 **Instagram** **TikTok** 和 **Reddit**
+- **EN**: This skill enables Claude to extract public data from **Inst
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/g4dr/social-media-extractor/SKILL.md)
 
 ### social-sentiment
 
-- **描述**: Sentiment analysis for brands and products across Twitter, Reddit, and Instagram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-sentiment/SKILL.md)
-
-### social-trend-report
-
-- **描述**: Automated social media trend monitoring and AI-powered weekly report generation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alexyuui/social-trend-report/SKILL.md)
+- **中文**: Sentiment analysis 用于 brands 和 products across Twitter Reddit 和 Instagram
+- **EN**: Sentiment analysis for brands and products across Twitter, R
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-sentiment/SKILL.md)
 
 ### solo-content-gen
 
-- **描述**: Generate social media content pack from PRD — LinkedIn post, Reddit answer draft, and Twitter/X thread.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-content-gen/SKILL.md)
+- **中文**: 生成 社交 媒体 内容 pack 从 PRD — 领英 发布 Reddit answer draft 和 Twitter/X thread
+- **EN**: Generate social media content pack from PRD — LinkedIn post,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-content-gen/SKILL.md)
 
 ### solo-index-youtube
 
-- **描述**: Index YouTube channel videos and transcripts for semantic search.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-index-youtube/SKILL.md)
+- **中文**: 指数 YouTube 频道 视频 和 transcripts 用于 semantic 搜索
+- **EN**: Index YouTube channel videos and transcripts for semantic se
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-index-youtube/SKILL.md)
 
 ### solo-you2idea-extract
 
-- **描述**: Extract startup ideas from YouTube videos via solograph MCP — index, search, and analyze video transcripts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-you2idea-extract/SKILL.md)
+- **中文**: 提取 startup ideas 从 YouTube 视频 通过 solograph MCP — 指数 搜索 和 分析 视频 transcripts
+- **EN**: Extract startup ideas from YouTube videos via solograph MCP 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-you2idea-extract/SKILL.md)
+
+### sss
+
+- **中文**: 访问 ATXP 付费 接口 tools 用于 web 搜索 人工智能 图片 生成 音乐 creation 视频 生成 和 X/Twitter
+- **EN**: Access ATXP paid API tools for web search, AI image generati
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/syveraerp/sss/SKILL.md)
 
 ### subreddit-scout
 
-- **描述**: Find high-fit subreddits for a product, summarize rules, and suggest value-first posting angles.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xammarie/subreddit-scout/SKILL.md)
+- **中文**: 查找 high fit subreddits 用于 a product summarize rules 和 suggest value first postin
+- **EN**: Find high-fit subreddits for a product, summarize rules, and
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xammarie/subreddit-scout/SKILL.md)
 
 ### summarize-pro
 
-- **描述**: When user asks to summarize text, articles, documents, meetings, emails, YouTube transcripts, books, PDFs, reports.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/summarize-pro/SKILL.md)
-
-### tarot-content
-
-- **描述**: Generate tarot × astrology content for social media — weekly horoscope scripts, tarot spreads, video scripts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alexyuui/tarot-content/SKILL.md)
+- **中文**: When user asks 到 summarize text articles documents meetings emails YouTube trans
+- **EN**: When user asks to summarize text, articles, documents, meeti
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/summarize-pro/SKILL.md)
 
 ### telegram-colored-choices-buttons
 
-- **描述**: Every time the bot presents choices to the user, it MUST automatically color each button based on how critical.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dandysuper/telegram-colored-choices-buttons/SKILL.md)
+- **中文**: 每个 time a 机器人 presents choices 到 a user 它 必须 automatically color each button on 
+- **EN**: Every time the bot presents choices to the user, it MUST aut
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dandysuper/telegram-colored-choices-buttons/SKILL.md)
 
 ### telegram-context
 
-- **描述**: Toggle-enabled skill that fetches Telegram message history at session start for conversational continuity.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fourthdensity/telegram-context/SKILL.md)
+- **中文**: Toggle 已启用 技能 那个 fetches Telegram 消息 历史 在 session 启动 用于 conversational continuit
+- **EN**: Toggle-enabled skill that fetches Telegram message history a
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fourthdensity/telegram-context/SKILL.md)
 
 ### telegram-history
 
-- **描述**: Fetch Telegram chat message history via MTProto user API (Telethon)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/telegram-history/SKILL.md)
+- **中文**: 获取 Telegram 聊天 消息 历史 通过 MTProto user 接口 Telethon
+- **EN**: Fetch Telegram chat message history via MTProto user API (Te
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/telegram-history/SKILL.md)
 
 ### telegram-media
 
-- **描述**: **You MUST actually execute every command using your shell/exec tool.** Never pretend you sent a photo, voice note.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/telegram-media/SKILL.md)
+- **中文**: **You 必须 actually 执行 每个 command 使用 你的 shell/exec 工具 ** Never pretend 你 sent a 照片
+- **EN**: **You MUST actually execute every command using your shell/e
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/telegram-media/SKILL.md)
 
 ### telegram-multilingual-voice-reply
 
-- **描述**: Smart Telegram reply workflow for OpenClaw: if the user sends text, reply with text; if the user sends a voice.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pengling9405/telegram-multilingual-voice-reply/SKILL.md)
+- **中文**: 智能 Telegram reply 工作流 用于 OpenClaw if a user sends text reply 使用 text if a user s
+- **EN**: Smart Telegram reply workflow for OpenClaw: if the user send
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pengling9405/telegram-multilingual-voice-reply/SKILL.md)
 
 ### telegram-ops
 
-- **描述**: Telegram Bot API operations for forum management.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brennerspear/telegram-ops/SKILL.md)
+- **中文**: Telegram 机器人 接口 operations 用于 forum management
+- **EN**: Telegram Bot API operations for forum management.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brennerspear/telegram-ops/SKILL.md)
 
 ### telegram-pairing-send-code-to-every-start
 
-- **描述**: Modify OpenClaw's Telegram pairing logic so unapproved users receive pairing codes on every /start message.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-send-code-to-every-start/SKILL.md)
+- **中文**: Modify OpenClaw s Telegram pairing logic so unapproved users receive pairing cod
+- **EN**: Modify OpenClaw's Telegram pairing logic so unapproved users
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-send-code-to-every-start/SKILL.md)
 
 ### telegram-rich-messages
 
-- **描述**: Comprehensive guide for Telegram Rich UI features (Inline buttons, formatting, media, reactions, and message.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shingo0620/telegram-rich-messages/SKILL.md)
+- **中文**: Comprehensive guide 用于 Telegram Rich UI features Inline buttons formatting 媒体 re
+- **EN**: Comprehensive guide for Telegram Rich UI features (Inline bu
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/shingo0620/telegram-rich-messages/SKILL.md)
 
 ### telegram-todolist
 
-- **描述**: Telegram bot Todo List manager.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hengbo12345/telegram-todolist/SKILL.md)
+- **中文**: Telegram 机器人 待办 列出 管理器
+- **EN**: Telegram bot Todo List manager.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hengbo12345/telegram-todolist/SKILL.md)
 
 ### telegram-voice-to-voice-macos
 
-- **描述**: Telegram voice-to-voice for macOS Apple Silicon: transcribe inbound .ogg voice notes with yap (Speech.framework)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fiberian1981/telegram-voice-to-voice-macos/SKILL.md)
+- **中文**: Telegram 语音 到 语音 用于 macOS Apple Silicon transcribe inbound ogg 语音 笔记 使用 yap 语音 框
+- **EN**: Telegram voice-to-voice for macOS Apple Silicon: transcribe 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fiberian1981/telegram-voice-to-voice-macos/SKILL.md)
 
 ### telegrambot
 
-- **描述**: Manage and secure local high-privilege storage serving workflows.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/manlight87/telegrambot/SKILL.md)
+- **中文**: Manage 和 安全 本地 high privilege 存储 serving workflows
+- **EN**: Manage and secure local high-privilege storage serving workf
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/manlight87/telegrambot/SKILL.md)
 
 ### tg-checkin
 
-- **描述**: Generic Telegram Web automation for group check-ins.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/tg-checkin/SKILL.md)
+- **中文**: Generic Telegram Web automation 用于 群组 检查 ins
+- **EN**: Generic Telegram Web automation for group check-ins.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/tg-checkin/SKILL.md)
 
 ### tg-groupchat-setup
 
-- **描述**: Configure a MoltBot agent to participate in a Telegram group chat.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup/SKILL.md)
+- **中文**: 配置 a MoltBot 智能体 到 participate 在 a Telegram 群组 聊天
+- **EN**: Configure a MoltBot agent to participate in a Telegram group
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup/SKILL.md)
 
 ### tg-history
 
-- **描述**: Efficiently extract and read Telegram group chat history as text, bypassing screenshots/OCR for zero-token-waste.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/tg-history/SKILL.md)
+- **中文**: Efficiently 提取 和 读取 Telegram 群组 聊天 历史 as text bypassing screenshots/OCR 用于 zero 
+- **EN**: Efficiently extract and read Telegram group chat history as 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ls18166407597-design/tg-history/SKILL.md)
 
 ### tg-media-resolve
 
-- **描述**: Resolve Telegram <media:image>, <media:document>, <media:video> and other media placeholders into actual files.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kurinzo/tg-media-resolve/SKILL.md)
+- **中文**: Resolve Telegram <media image> <media document> <media video> 和 other 媒体 placeho
+- **EN**: Resolve Telegram <media:image>, <media:document>, <media:vid
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kurinzo/tg-media-resolve/SKILL.md)
 
 ### tg-miniapp
 
-- **描述**: Build Telegram Mini Apps without the pain.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zenith2828/tg-miniapp/SKILL.md)
+- **中文**: 构建 Telegram Mini Apps without a pain
+- **EN**: Build Telegram Mini Apps without the pain.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zenith2828/tg-miniapp/SKILL.md)
 
 ### tg-mtproto-cli
 
-- **描述**: Read-only Telegram CLI via MTProto.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/tg-mtproto-cli/SKILL.md)
+- **中文**: 读取 only Telegram 命令行 通过 MTProto
+- **EN**: Read-only Telegram CLI via MTProto.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/tg-mtproto-cli/SKILL.md)
 
 ### tg-smart-cta
 
-- **描述**: Enhance Telegram replies with context-aware dynamic CTA buttons (Smart Launcher UI)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dendyadinirwana/tg-smart-cta/SKILL.md)
+- **中文**: Enhance Telegram replies 使用 上下文 aware dynamic CTA buttons 智能 Launcher UI
+- **EN**: Enhance Telegram replies with context-aware dynamic CTA butt
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dendyadinirwana/tg-smart-cta/SKILL.md)
 
 ### the-arena
 
-- **描述**: Turn a Discord server into a moderated debate arena with an AI judge.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tdavis009/the-arena/SKILL.md)
+- **中文**: Turn a Discord 服务器 into a moderated debate arena 使用 an 人工智能 judge
+- **EN**: Turn a Discord server into a moderated debate arena with an 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tdavis009/the-arena/SKILL.md)
 
 ### tiktok-clipper
 
-- **描述**: Takes a long-form video, transcribes it, identifies the most engaging segments for TikTok/Reels, clips them.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/tiktok-clipper/SKILL.md)
+- **中文**: Takes a long form 视频 transcribes 它 identifies a most engaging segments 用于 TikTok
+- **EN**: Takes a long-form video, transcribes it, identifies the most
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/tiktok-clipper/SKILL.md)
 
 ### tiktok-crawling
 
-- **描述**: Use for TikTok crawling, content retrieval, and analysis.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/romneyda/tiktok-crawling/SKILL.md)
+- **中文**: Use 用于 抖音 crawling 内容 retrieval 和 analysis
+- **EN**: Use for TikTok crawling, content retrieval, and analysis.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/romneyda/tiktok-crawling/SKILL.md)
 
 ### tiktok-product-promotion
 
-- **描述**: Hire TikTok influencers for product reviews, demonstrations, unboxing videos, and conversion-focused promotional.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-product-promotion/SKILL.md)
+- **中文**: Hire 抖音 influencers 用于 product reviews demonstrations unboxing 视频 和 conversion f
+- **EN**: Hire TikTok influencers for product reviews, demonstrations,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-product-promotion/SKILL.md)
 
 ### tiktok-trend-challenger
 
-- **描述**: Hire TikTok creators to participate in trending hashtags, viral challenges, and cultural moments to boost brand.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-trend-challenger/SKILL.md)
+- **中文**: Hire 抖音 creators 到 participate 在 trending hashtags viral challenges 和 cultural m
+- **EN**: Hire TikTok creators to participate in trending hashtags, vi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-trend-challenger/SKILL.md)
 
 ### tiktok-ugc-creator
 
-- **描述**: Hire TikTok users to create authentic user-generated content (UGC), testimonials, and brand storytelling videos.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-ugc-creator/SKILL.md)
+- **中文**: Hire 抖音 users 到 创建 authentic user generated 内容 UGC testimonials 和 brand storytel
+- **EN**: Hire TikTok users to create authentic user-generated content
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-ugc-creator/SKILL.md)
 
 ### tiktok-video-analyzer
 
-- **描述**: Analyze any video by dropping a URL.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/holl4ndtv/tiktok-video-analyzer/SKILL.md)
+- **中文**: 分析 any 视频 由 dropping a 链接
+- **EN**: Analyze any video by dropping a URL.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/holl4ndtv/tiktok-video-analyzer/SKILL.md)
 
 ### tms
 
-- **描述**: Manage downloads via Telegram Media Server (TMS) REST API — add by URL (video/magnet/torrent), list, delete, search.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nikitadmitryuk/tms/SKILL.md)
+- **中文**: Manage downloads 通过 Telegram 媒体 服务器 TMS REST 接口 — 添加 由 链接 video/magnet/torrent 列
+- **EN**: Manage downloads via Telegram Media Server (TMS) REST API — 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nikitadmitryuk/tms/SKILL.md)
 
 ### todo-boss
 
-- **描述**: Task capture + delegation tracking + daily remaining-work report for Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ukraecho/todo-boss/SKILL.md)
+- **中文**: 任务 capture + delegation tracking + daily remaining 工作 report 用于 Telegram
+- **EN**: Task capture + delegation tracking + daily remaining-work re
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ukraecho/todo-boss/SKILL.md)
 
 ### tokportal
 
-- **描述**: Automate social media at scale — create TikTok/Instagram accounts, distribute videos, upload content, and track.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/naybu256/tokportal/SKILL.md)
+- **中文**: 自动化 社交 媒体 在 scale — 创建 TikTok/Instagram accounts distribute 视频 上传 内容 和 追踪
+- **EN**: Automate social media at scale — create TikTok/Instagram acc
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/naybu256/tokportal/SKILL.md)
 
 ### topic-to-article-kit
 
-- **描述**: Turn a chosen AI topic into a public-account writing package: collect evidence from X/Twitter and other sources.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rotbit/topic-to-article-kit/SKILL.md)
+- **中文**: Turn a chosen 人工智能 topic into a 公开 account writing 包 collect evidence 从 X/Twitte
+- **EN**: Turn a chosen AI topic into a public-account writing package
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rotbit/topic-to-article-kit/SKILL.md)
 
 ### trail-nav-telegram
 
-- **描述**: Offline-capable hiking route guidance via Telegram location messages (OpenClaw)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jack4world/trail-nav-telegram/SKILL.md)
+- **中文**: 离线 capable hiking route guidance 通过 Telegram location messages OpenClaw
+- **EN**: Offline-capable hiking route guidance via Telegram location 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jack4world/trail-nav-telegram/SKILL.md)
 
 ### tsend
 
-- **描述**: Send files via Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shingwha/tsend/SKILL.md)
+- **中文**: 发送 files 通过 Telegram
+- **EN**: Send files via Telegram.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/shingwha/tsend/SKILL.md)
 
 ### tubelab-api
 
-- **描述**: YouTube analytics and research API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/antoniojps/tubelab-api/SKILL.md)
+- **中文**: YouTube analytics 和 research 接口
+- **EN**: YouTube analytics and research API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/antoniojps/tubelab-api/SKILL.md)
 
 ### tweet-processor
 
-- **描述**: Extract and categorize insights from tweet links into structured notes.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/caqlayan/tweet-processor/SKILL.md)
+- **中文**: 提取 和 categorize insights 从 推文 links into structured 笔记
+- **EN**: Extract and categorize insights from tweet links into struct
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/caqlayan/tweet-processor/SKILL.md)
 
 ### tweet-summarizer-lite
 
-- **描述**: Fetch and summarize single tweets from Twitter/X.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/franciscobuiltdat/tweet-summarizer-lite/SKILL.md)
+- **中文**: 获取 和 summarize 单个 tweets 从 Twitter/X
+- **EN**: Fetch and summarize single tweets from Twitter/X.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/franciscobuiltdat/tweet-summarizer-lite/SKILL.md)
 
 ### twilio
 
-- **描述**: OpenClaw skill for Twilio APIs: Messaging, WhatsApp, Voice, Conversations, Verify, plus Studio, Lookup, Proxy.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/codedao12/twilio/SKILL.md)
-
-### twinfold
-
-- **描述**: Control Twinfold — AI-powered social media content platform — from your agent.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lpbaril/twinfold/SKILL.md)
+- **中文**: OpenClaw 技能 用于 Twilio APIs Messaging WhatsApp 语音 Conversations 验证 plus Studio 查找
+- **EN**: OpenClaw skill for Twilio APIs: Messaging, WhatsApp, Voice, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/codedao12/twilio/SKILL.md)
 
 ### twinify
 
-- **描述**: Create AI digital twins of real people from WhatsApp chat history exports.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/neobotjan2026/twinify/SKILL.md)
+- **中文**: 创建 人工智能 digital twins 的 time people 从 WhatsApp 聊天 历史 exports
+- **EN**: Create AI digital twins of real people from WhatsApp chat hi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/neobotjan2026/twinify/SKILL.md)
 
 ### twitter-api
 
-- **描述**: Cookie-based Twitter/X automation toolkit (timeline, notifications, posting, follow ops) for OpenClaw agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gan12003/twitter-api/SKILL.md)
+- **中文**: Cookie on Twitter/X automation toolkit timeline notifications posting 关注 ops 用于 
+- **EN**: Cookie-based Twitter/X automation toolkit (timeline, notific
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gan12003/twitter-api/SKILL.md)
+
+### twitter-api-alternative
+
+- **中文**: Twitter 接口 Alternative — 搜索 1B+ tweets 使用 自然语言 queries boolean filters 和 one cli
+- **EN**: Twitter API Alternative — Search 1B+ tweets with natural lan
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/twitter-api-alternative/SKILL.md)
 
 ### twitter-autopilot
 
-- **描述**: Automate Twitter/X posting, engagement, and growth for OpenClaw AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/persnola1-sketch/twitter-autopilot/SKILL.md)
+- **中文**: 自动化 Twitter/X posting engagement 和 growth 用于 OpenClaw 人工智能 agents
+- **EN**: Automate Twitter/X posting, engagement, and growth for OpenC
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/persnola1-sketch/twitter-autopilot/SKILL.md)
 
 ### twitter-post
 
-- **描述**: Post tweets to Twitter/X via the official API v2 (OAuth 1.0a)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sit-in/twitter-post/SKILL.md)
+- **中文**: 发布 tweets 到 Twitter/X 通过 a official 接口 v2 OAuth 1 0a
+- **EN**: Post tweets to Twitter/X via the official API v2 (OAuth 1.0a
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sit-in/twitter-post/SKILL.md)
 
 ### twitter-reader
 
-- **描述**: A comprehensive skill for reading and extracting data from X (formerly Twitter) tweets using multiple reliable data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/iheardulkbtc/twitter-reader/SKILL.md)
+- **中文**: 一个comprehensive 技能 用于 reading 和 extracting 文件 从 X formerly Twitter tweets 使用 多个 
+- **EN**: A comprehensive skill for reading and extracting data from X
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/iheardulkbtc/twitter-reader/SKILL.md)
 
 ### twitter-x-api
 
-- **描述**: X/Twitter messaging management via API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api/SKILL.md)
+- **中文**: X/Twitter messaging management 通过 接口
+- **EN**: X/Twitter messaging management via API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api/SKILL.md)
 
 ### twitterapi-io
 
-- **描述**: Interact with Twitter/X via TwitterAPI.io — search tweets, get user info, post tweets, like, retweet, follow, send.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/twitterapi-io/SKILL.md)
+- **中文**: Interact 使用 Twitter/X 通过 TwitterAPI io — 搜索 tweets 获取 user info 发布 tweets 点赞 ret
+- **EN**: Interact with Twitter/X via TwitterAPI.io — search tweets, g
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/twitterapi-io/SKILL.md)
 
 ### twitterhdh
 
-- **描述**: Write viral, persuasive, engaging tweets and threads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/songhai-dg/twitterhdh/SKILL.md)
+- **中文**: 写入 viral persuasive engaging tweets 和 threads
+- **EN**: Write viral, persuasive, engaging tweets and threads.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/songhai-dg/twitterhdh/SKILL.md)
 
 ### twitterscore
 
-- **描述**: Research, analyze, and track Twitter influence with TwitterScore.io API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/twitterscore/SKILL.md)
-
-### unipile-linkedin
-
-- **描述**: Interact with LinkedIn via Unipile API - send messages, view profiles, manage connections, create posts, react.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sudhanshu746/unipile-linkedin/SKILL.md)
+- **中文**: Research 分析 和 追踪 Twitter influence 使用 TwitterScore io 接口
+- **EN**: Research, analyze, and track Twitter influence with TwitterS
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/twitterscore/SKILL.md)
 
 ### universal-video-downloader
 
-- **描述**: Download videos from YouTube, Instagram, TikTok, Twitter/X, and 1000+ other sites using yt-dlp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/itzsubhadip/universal-video-downloader/SKILL.md)
+- **中文**: 下载 视频 从 YouTube Instagram 抖音 Twitter/X 和 1000+ other sites 使用 yt dlp
+- **EN**: Download videos from YouTube, Instagram, TikTok, Twitter/X, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/itzsubhadip/universal-video-downloader/SKILL.md)
 
 ### vajra
 
-- **描述**: Analyze URLs, YouTube videos, tweets, or text for quality, bias, and reliability using the Vajra API (vajra.to).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/minhyeong112/vajra/SKILL.md)
+- **中文**: 分析 URLs YouTube 视频 tweets 或 text 用于 quality bias 和 reliability 使用 a Vajra 接口 vaj
+- **EN**: Analyze URLs, YouTube videos, tweets, or text for quality, b
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/minhyeong112/vajra/SKILL.md)
 
 ### video-analyzer-skill
 
-- **描述**: Download, transcribe, and analyze videos from YouTube, X/Twitter, and TikTok with local Whisper processing.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/minilozio/video-analyzer-skill/SKILL.md)
+- **中文**: 下载 transcribe 和 分析 视频 从 YouTube X/Twitter 和 抖音 使用 本地 Whisper processing
+- **EN**: Download, transcribe, and analyze videos from YouTube, X/Twi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/minilozio/video-analyzer-skill/SKILL.md)
 
 ### video-dl
 
-- **描述**: Download videos from YouTube, Reddit, Twitter/X, TikTok, Instagram, and 1000+ other sites using yt-dlp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dimitryvin/video-dl/SKILL.md)
+- **中文**: 下载 视频 从 YouTube Reddit Twitter/X 抖音 Instagram 和 1000+ other sites 使用 yt dlp
+- **EN**: Download videos from YouTube, Reddit, Twitter/X, TikTok, Ins
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dimitryvin/video-dl/SKILL.md)
 
 ### vincent-twitter
 
-- **描述**: Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md)
+- **中文**: Use 这个 技能 到 搜索 tweets look up user profiles 和 获取 最近 tweets 从 X com Twitter
+- **EN**: Use this skill to search tweets, look up user profiles, and 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md)
 
 ### voice-notes-pro
 
-- **描述**: Inteligentna transkrypcja i kategoryzacja notatek gosowych z WhatsApp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/toniaczlog/voice-notes-pro/SKILL.md)
+- **中文**: Inteligentna transkrypcja 我 kategoryzacja notatek gosowych z WhatsApp
+- **EN**: Inteligentna transkrypcja i kategoryzacja notatek gosowych z
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/toniaczlog/voice-notes-pro/SKILL.md)
 
 ### wa-relay-skill
 
-- **描述**: WhatsApp message relay for OpenClaw v0.2.0.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay-skill/SKILL.md)
-
-### wahlu
-
-- **描述**: Social media automation for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/steviebuilds/wahlu/SKILL.md)
+- **中文**: WhatsApp 消息 relay 用于 OpenClaw v0 2 0
+- **EN**: WhatsApp message relay for OpenClaw v0.2.0.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay-skill/SKILL.md)
 
 ### webhook-promo-scheduler
 
-- **描述**: Schedule and send promo/alert messages to a Discord webhook URL with an anti-spam ledger.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/marcia-assistant/webhook-promo-scheduler/SKILL.md)
-
-### weekly-content-planner
-
-- **描述**: Generate a full week of social media content for any topic.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/weekly-content-planner/SKILL.md)
+- **中文**: 调度 和 发送 promo/alert messages 到 a Discord webhook 链接 使用 an anti spam ledger
+- **EN**: Schedule and send promo/alert messages to a Discord webhook 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/marcia-assistant/webhook-promo-scheduler/SKILL.md)
 
 ### worthclip-youtube-video-scorer
 
-- **描述**: AI-powered YouTube video scoring.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ivanstancich/worthclip-youtube-video-scorer/SKILL.md)
+- **中文**: 人工智能 by YouTube 视频 scoring
+- **EN**: AI-powered YouTube video scoring.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ivanstancich/worthclip-youtube-video-scorer/SKILL.md)
 
 ### x-actionbook-recap
 
-- **描述**: Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap/SKILL.md)
+- **中文**: Collect scroll 提取 和 summarize 最近 X Twitter posts 用于 any handle optionally filter
+- **EN**: Collect, scroll, extract, and summarize recent X (Twitter) p
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap/SKILL.md)
 
 ### x-agent
 
-- **描述**: Plan and run X (Twitter) operations in three modes: (1) monitor-only intelligence, (2) draft-and-approve posting.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/inceptivco/x-agent/SKILL.md)
+- **中文**: Plan 和 运行 X Twitter operations 在 three modes 1 监控 only intelligence 2 draft 和 批准
+- **EN**: Plan and run X (Twitter) operations in three modes: (1) moni
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/inceptivco/x-agent/SKILL.md)
 
 ### x-alive
 
-- **描述**: Bring your AI agent to life on X/Twitter.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/x-alive/SKILL.md)
+- **中文**: Bring 你的AI智能体 到 life 在 X/Twitter
+- **EN**: Bring your AI agent to life on X/Twitter.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/x-alive/SKILL.md)
+
+### x-alpha-scout
+
+- **中文**: X/Twitter alpha scanner 用于 加密货币 和 NFTs
+- **EN**: X/Twitter alpha scanner for crypto and NFTs.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hammadbtc/x-alpha-scout/SKILL.md)
 
 ### x-bookmarks
 
-- **描述**: Fetch, summarize, and manage X/Twitter bookmarks via bird CLI or X API v2.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sharbelayy/x-bookmarks/SKILL.md)
+- **中文**: 获取 summarize 和 manage X/Twitter bookmarks 通过 bird 命令行 或 X 接口 v2
+- **EN**: Fetch, summarize, and manage X/Twitter bookmarks via bird CL
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sharbelayy/x-bookmarks/SKILL.md)
 
 ### x-cli
 
-- **描述**: Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ignsoftwarellc/x-cli/SKILL.md)
-
-### x-extract
-
-- **描述**: Extract tweet content from x.com URLs without credentials using browser automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chunhualiao/x-extract/SKILL.md)
+- **中文**: 完整 featured X/Twitter toolkit — 读取 搜索 发布 interact DMs lists polls trends
+- **EN**: Full-featured X/Twitter toolkit — read, search, post, intera
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ignsoftwarellc/x-cli/SKILL.md)
 
 ### x-founder-operations
 
-- **描述**: Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/linfangw/x-founder-operations/SKILL.md)
+- **中文**: Systematic X Twitter operations 技能 用于 founders indie developers 和 tech professio
+- **EN**: Systematic X (Twitter) operations skill for founders, indie 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/linfangw/x-founder-operations/SKILL.md)
 
 ### x-monitor
 
-- **描述**: Monitor specific X/Twitter accounts and surface noteworthy tweets on a configurable schedule.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor/SKILL.md)
+- **中文**: 监控 specific X/Twitter accounts 和 surface noteworthy tweets 在 a configurable 调度
+- **EN**: Monitor specific X/Twitter accounts and surface noteworthy t
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor/SKILL.md)
 
 ### x-oauth-api
 
-- **描述**: Post to X (Twitter) using the official OAuth 1.0a API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md)
+- **中文**: 发布 到 X Twitter 使用 a official OAuth 1 0a 接口
+- **EN**: Post to X (Twitter) using the official OAuth 1.0a API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md)
 
 ### x-post-automation
 
-- **描述**: Automates the process of identifying trends on X (Twitter), generating opinionated/engaging content, and posting it.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/harshhmaniya/x-post-automation/SKILL.md)
+- **中文**: Automates a 流程 的 identifying trends 在 X Twitter generating opinionated/engaging 
+- **EN**: Automates the process of identifying trends on X (Twitter), 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/harshhmaniya/x-post-automation/SKILL.md)
 
 ### x-read
 
-- **描述**: Render and summarize a public X (Twitter) link when you need to read the tweet/article content without logging.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tylordius/x-read/SKILL.md)
+- **中文**: 渲染 和 summarize a 公开 X Twitter 链接 when 你 need 到 读取 a tweet/article 内容 without log
+- **EN**: Render and summarize a public X (Twitter) link when you need
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tylordius/x-read/SKILL.md)
 
 ### x-recap
 
-- **描述**: Monitor and recap official X (Twitter) updates using actionbook-rs screenshots.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-recap/SKILL.md)
+- **中文**: 监控 和 recap official X Twitter updates 使用 actionbook rs screenshots
+- **EN**: Monitor and recap official X (Twitter) updates using actionb
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-recap/SKILL.md)
 
 ### x-research-but-cheaper
 
-- **描述**: X/Twitter research skill powered by TwitterAPI.io.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md)
+- **中文**: X/Twitter research 技能 by 由 TwitterAPI io
+- **EN**: X/Twitter research skill powered by TwitterAPI.io.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md)
 
 ### x-smart-read
 
-- **描述**: Personal X (Twitter) analytics — timeline engagement, mentions, follower tracking, read any tweet/thread.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nevaaron/x-smart-read/SKILL.md)
+- **中文**: Personal X Twitter analytics — timeline engagement mentions 粉丝 tracking 读取 any t
+- **EN**: Personal X (Twitter) analytics — timeline engagement, mentio
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nevaaron/x-smart-read/SKILL.md)
 
 ### x-to-kindle
 
-- **描述**: Send X/Twitter posts to Kindle for distraction-free reading.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-to-kindle/SKILL.md)
+- **中文**: 发送 X/Twitter posts 到 Kindle 用于 distraction 免费 reading
+- **EN**: Send X/Twitter posts to Kindle for distraction-free reading.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-to-kindle/SKILL.md)
 
 ### x-tweet-fetcher
 
-- **描述**: Fetch tweets from X/Twitter without login or API keys.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hjw21century/x-tweet-fetcher/SKILL.md)
+- **中文**: 获取 tweets 从 X/Twitter without 登录 或 接口 密钥
+- **EN**: Fetch tweets from X/Twitter without login or API keys.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hjw21century/x-tweet-fetcher/SKILL.md)
 
 ### xbio
 
-- **描述**: X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md)
+- **中文**: X/Twitter 命令行 用于 reading searching 和 posting 通过 cookies 或 Sweetistics
+- **EN**: X/Twitter CLI for reading, searching, and posting via cookie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md)
 
 ### xbird
 
-- **描述**: Use when the user asks to tweet, post threads, read tweets, search Twitter/X, check mentions, manage engagement.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/checkra1neth/xbird/SKILL.md)
-
-### xfor-bot
-
-- **描述**: Social media and messaging client for xfor.bot and Ant Farm.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/xfor-bot/SKILL.md)
-
-### xpoz-setup
-
-- **描述**: Set up and authenticate the Xpoz MCP server for social media intelligence.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/xpoz-setup/SKILL.md)
+- **中文**: Use when a user asks 到 推文 发布 threads 读取 tweets 搜索 Twitter/X 检查 mentions manage e
+- **EN**: Use when the user asks to tweet, post threads, read tweets, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/checkra1neth/xbird/SKILL.md)
 
 ### xpoz-social-search
 
-- **描述**: Search Twitter, Instagram, and Reddit posts in real time.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/atyachin/xpoz-social-search/SKILL.md)
+- **中文**: 搜索 Twitter Instagram 和 Reddit posts 在 automatic
+- **EN**: Search Twitter, Instagram, and Reddit posts in real time.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/atyachin/xpoz-social-search/SKILL.md)
 
 ### youtube-ai-videos
 
-- **描述**: Fetch latest AI-related YouTube videos from curated channels using YouTube Data API v3 and filter by keywords.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mjohannp/youtube-ai-videos/SKILL.md)
+- **中文**: 获取 最新 人工智能 related YouTube 视频 从 curated channels 使用 YouTube 文件 接口 v3 和 过滤 由 keyw
+- **EN**: Fetch latest AI-related YouTube videos from curated channels
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mjohannp/youtube-ai-videos/SKILL.md)
 
 ### youtube-editor
 
-- **描述**: Automate YouTube video editing workflow: Download -> Transcribe (Whisper) -> Analyze (GPT-4) -> High-Quality.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/youtube-editor/SKILL.md)
+- **中文**: 自动化 YouTube 视频 editing 工作流 下载 > Transcribe Whisper > 分析 GPT 4 > High Quality
+- **EN**: Automate YouTube video editing workflow: Download -> Transcr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/youtube-editor/SKILL.md)
+
+### youtube-factory
+
+- **中文**: 生成 complete YouTube 视频 从 a 单个 提示词 脚本 voiceover 股票 footage captions 缩略图
+- **EN**: Generate complete YouTube videos from a single prompt - scri
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mayank8290/youtube-factory/SKILL.md)
 
 ### youtube-hook
 
-- **描述**: Generate high-performing YouTube video scripts, titles, thumbnails, descriptions, and chapter markers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/markusmikely/youtube-hook/SKILL.md)
+- **中文**: 生成 high performing YouTube 视频 scripts titles thumbnails descriptions 和 chapter m
+- **EN**: Generate high-performing YouTube video scripts, titles, thum
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/markusmikely/youtube-hook/SKILL.md)
 
 ### youtube-knowledge-extractor
 
-- **描述**: Multimodal YouTube video analysis through both audio (transcript) and visual (frame extraction + image analysis)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-knowledge-extractor/SKILL.md)
+- **中文**: Multimodal YouTube 视频 analysis 通过 两者 音频 transcript 和 visual frame extraction + 图
+- **EN**: Multimodal YouTube video analysis through both audio (transc
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-knowledge-extractor/SKILL.md)
 
 ### youtube-media-downloader
 
-- **描述**: Download audio (MP3) and video (MP4) files from YouTube URLs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xanderrey/youtube-media-downloader/SKILL.md)
+- **中文**: 下载 音频 MP3 和 视频 MP4 files 从 YouTube URLs
+- **EN**: Download audio (MP3) and video (MP4) files from YouTube URLs
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xanderrey/youtube-media-downloader/SKILL.md)
+
+### youtube-notification-analysis
+
+- **中文**: 分析 YouTube notifications 用于 投资 和 交易 insights
+- **EN**: Analyze YouTube notifications for investment and trading ins
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/esanle/youtube-notification-analysis/SKILL.md)
 
 ### youtube-pro
 
-- **描述**: Advanced YouTube analysis, transcripts, and metadata extraction.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kjaylee/youtube-pro/SKILL.md)
+- **中文**: Advanced YouTube analysis transcripts 和 metadata extraction
+- **EN**: Advanced YouTube analysis, transcripts, and metadata extract
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kjaylee/youtube-pro/SKILL.md)
 
 ### youtube-scrapper
 
-- **描述**: A skill for discovering and scraping YouTube channels based on categories and locations without requiring API keys.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arulmozhiv/youtube-scrapper/SKILL.md)
+- **中文**: 一个技能 用于 discovering 和 scraping YouTube channels on 在 categories 和 locations with
+- **EN**: A skill for discovering and scraping YouTube channels based 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arulmozhiv/youtube-scrapper/SKILL.md)
 
 ### youtube-summarize-3hazy
 
-- **描述**: Summarize YouTube videos by extracting transcripts and captions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-3hazy/SKILL.md)
+- **中文**: Summarize YouTube 视频 由 extracting transcripts 和 captions
+- **EN**: Summarize YouTube videos by extracting transcripts and capti
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-3hazy/SKILL.md)
 
 ### youtube-summarize-mnoqm
 
-- **描述**: Summarize YouTube videos by extracting transcripts and captions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-mnoqm/SKILL.md)
+- **中文**: Summarize YouTube 视频 由 extracting transcripts 和 captions
+- **EN**: Summarize YouTube videos by extracting transcripts and capti
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-mnoqm/SKILL.md)
 
 ### youtube-summary
 
-- **描述**: Summarize YouTube videos into structured Markdown with youtube2md, including chaptered notes, timestamp links.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sunghyo/youtube-summary/SKILL.md)
+- **中文**: Summarize YouTube 视频 into structured Markdown 使用 youtube2md including chaptered 
+- **EN**: Summarize YouTube videos into structured Markdown with youtu
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sunghyo/youtube-summary/SKILL.md)
 
 ### youtube-thumbnail-generation
 
-- **描述**: Generate click-worthy YouTube thumbnails with high CTR designs using each::sense API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/youtube-thumbnail-generation/SKILL.md)
+- **中文**: 生成 click worthy YouTube thumbnails 使用 high CTR designs 使用 each sense 接口
+- **EN**: Generate click-worthy YouTube thumbnails with high CTR desig
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/youtube-thumbnail-generation/SKILL.md)
 
 ### youtube-uploader
 
-- **描述**: Upload videos and custom thumbnails to YouTube.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nachx639/youtube-uploader/SKILL.md)
+- **中文**: 上传 视频 和 自定义 thumbnails 到 YouTube
+- **EN**: Upload videos and custom thumbnails to YouTube.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nachx639/youtube-uploader/SKILL.md)
 
 ### youtube-video-analyzer
 
-- **描述**: Multimodal YouTube video analysis through both audio (transcript) and visual (frame extraction + image analysis)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-video-analyzer/SKILL.md)
+- **中文**: Multimodal YouTube 视频 analysis 通过 两者 音频 transcript 和 visual frame extraction + 图
+- **EN**: Multimodal YouTube video analysis through both audio (transc
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-video-analyzer/SKILL.md)
 
 ### youtube-video-finder
 
-- **描述**: Searches multiple online archives to find and recover deleted YouTube videos, metadata, and comments using a video ID.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/upintheairsheep/youtube-video-finder/SKILL.md)
+- **中文**: Searches 多个 在线 archives 到 查找 和 recover deleted YouTube 视频 metadata 和 comments 使用
+- **EN**: Searches multiple online archives to find and recover delete
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/upintheairsheep/youtube-video-finder/SKILL.md)
 
 ### youtube-video-generation
 
-- **描述**: Generate YouTube videos and Shorts using each::sense AI.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/youtube-video-generation/SKILL.md)
+- **中文**: 生成 YouTube 视频 和 Shorts 使用 each sense 人工智能
+- **EN**: Generate YouTube videos and Shorts using each::sense AI.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/youtube-video-generation/SKILL.md)
 
 ### yt-downloader
 
-- **描述**: Download YouTube videos as MP4 at highest quality.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/honeybee1130/yt-downloader/SKILL.md)
+- **中文**: 下载 YouTube 视频 as MP4 在 highest quality
+- **EN**: Download YouTube videos as MP4 at highest quality.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/honeybee1130/yt-downloader/SKILL.md)
 
 ### yt-summary
 
-- **描述**: Summarize any YouTube video by dropping the link in chat.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chapati23/yt-summary/SKILL.md)
+- **中文**: Summarize any YouTube 视频 由 dropping a 链接 在 聊天
+- **EN**: Summarize any YouTube video by dropping the link in chat.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chapati23/yt-summary/SKILL.md)
 
 ### yt-to-blog
 
-- **描述**: Full content pipeline: YouTube URL → transcript → blog post → Substack draft → X/Twitter thread → vertical video.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/yt-to-blog/SKILL.md)
+- **中文**: 完整 内容 流水线 YouTube 链接 → transcript → blog 发布 → Substack draft → X/Twitter thread 
+- **EN**: Full content pipeline: YouTube URL → transcript → blog post 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/yt-to-blog/SKILL.md)
 
 ### yt-transcript
 
-- **描述**: Extract high-quality transcripts from YouTube videos using multiple methods.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alti-systems/yt-transcript/SKILL.md)
+- **中文**: 提取 high quality transcripts 从 YouTube 视频 使用 多个 methods
+- **EN**: Extract high-quality transcripts from YouTube videos using m
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/alti-systems/yt-transcript/SKILL.md)
 
 ### yt-video-downloader
 
-- **描述**: Download YouTube videos with customizable quality and format options.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wells1137/yt-video-downloader/SKILL.md)
+- **中文**: 下载 YouTube 视频 使用 customizable quality 和 format 期权
+- **EN**: Download YouTube videos with customizable quality and format
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/wells1137/yt-video-downloader/SKILL.md)
 
 ### ytb-transcript-long
 
-- **描述**: YouTube long video (>1 hour) full verbatim transcription and translation workflow.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/qingliu1617-art/ytb-transcript-long/SKILL.md)
+- **中文**: YouTube long 视频 >1 hour 完整 verbatim transcription 和 翻译 工作流
+- **EN**: YouTube long video (>1 hour) full verbatim transcription and
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/qingliu1617-art/ytb-transcript-long/SKILL.md)
 
 ### ytwatchervideo
 
-- **描述**: Fetch and read transcripts from YouTube videos.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stveenli/ytwatchervideo/SKILL.md)
+- **中文**: 获取 和 读取 transcripts 从 YouTube 视频
+- **EN**: Fetch and read transcripts from YouTube videos.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stveenli/ytwatchervideo/SKILL.md)
 

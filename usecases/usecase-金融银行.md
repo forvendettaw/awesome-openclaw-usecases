@@ -5,730 +5,635 @@ description: 金融银行相关的 OpenClaw Skills 使用案例
 
 # 金融银行
 
-> 共 145 个相关 Skills
-
-### agent-card-provisioning
-
-- **描述**: Provision virtual payment cards for AI agents on-demand.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning/SKILL.md)
+> 共 105 个相关 Skills
 
 ### agent-to-agent-payments
 
-- **描述**: Monetize your AI agent.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buddhasource/agent-to-agent-payments/SKILL.md)
+- **中文**: Monetize 你的AI智能体
+- **EN**: Monetize your AI agent.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/agent-to-agent-payments/SKILL.md)
 
 ### agentsbank
 
-- **描述**: is a specialized financial platform designed for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md)
-
-### agntor
-
-- **描述**: Trust layer for AI agents — verify identities, guard prompts, redact PII, and manage x402 escrow payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/garinmckayl/agntor/SKILL.md)
+- **中文**: is a specialized financial platform designed 用于 人工智能 agents
+- **EN**: is a specialized financial platform designed for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md)
 
 ### ai-agent-card-payments
 
-- **描述**: Virtual card payments for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments/SKILL.md)
+- **中文**: Virtual card 支付 用于 人工智能 agents
+- **EN**: Virtual card payments for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments/SKILL.md)
 
 ### ai-displacement-monitor
 
-- **描述**: Monitor early-warning signals of AI-driven white-collar labor displacement and macro-financial spillovers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/spyfree/ai-displacement-monitor/SKILL.md)
+- **中文**: 监控 early 警告 signals 的 人工智能 driven white collar labor displacement 和 macro financ
+- **EN**: Monitor early-warning signals of AI-driven white-collar labo
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/spyfree/ai-displacement-monitor/SKILL.md)
 
 ### aisa-financial-data
 
-- **描述**: Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-financial-data/SKILL.md)
+- **中文**: 查询 automatic 和 historical financial 文件 across equities 和 crypto—prices 市场 moves 
+- **EN**: Query real-time and historical financial data across equitie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-financial-data/SKILL.md)
 
 ### aisa-financial-data-api
 
-- **描述**: Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aisadevco/aisa-financial-data-api/SKILL.md)
+- **中文**: 查询 automatic 和 historical financial 文件 across equities 和 crypto—prices 市场 moves 
+- **EN**: Query real-time and historical financial data across equitie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aisadevco/aisa-financial-data-api/SKILL.md)
 
 ### aisa-market-skill
 
-- **描述**: Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-market-skill/SKILL.md)
+- **中文**: 查询 automatic 和 historical financial 文件 across equities 和 crypto—prices 市场 moves 
+- **EN**: Query real-time and historical financial data across equitie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-market-skill/SKILL.md)
 
 ### android-transfer-skill
 
-- **描述**: Securely transfers files from macOS to Android with checksum verification and path validation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aadipapp/android-transfer-skill/SKILL.md)
+- **中文**: Securely transfers files 从 macOS 到 Android 使用 checksum verification 和 路径 validat
+- **EN**: Securely transfers files from macOS to Android with checksum
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aadipapp/android-transfer-skill/SKILL.md)
 
 ### arc-free-worker-dispatch
 
-- **描述**: Route tasks to free AI models via OpenRouter to save money.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-free-worker-dispatch/SKILL.md)
+- **中文**: Route 任务 到 免费 人工智能 模型 通过 OpenRouter 到 保存 money
+- **EN**: Route tasks to free AI models via OpenRouter to save money.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-free-worker-dispatch/SKILL.md)
 
 ### bank-skills
 
-- **描述**: Traditional banking via Wise API + on-chain token swaps on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/singularityhacker/bank-skills/SKILL.md)
-
-### beacon
-
-- **描述**: Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/scottcjn/beacon/SKILL.md)
-
-### bitkit-cli
-
-- **描述**: Bitcoin Lightning payment CLI for agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ovitrif/bitkit-cli/SKILL.md)
-
-### boj-mcp
-
-- **描述**: Access Bank of Japan (BOJ/日本銀行) statistical data — price indices (CGPI, SPPI), flow of funds, balance of payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/boj-mcp/SKILL.md)
+- **中文**: Traditional banking 通过 Wise 接口 + 在 chain 代币 swaps 在 Base
+- **EN**: Traditional banking via Wise API + on-chain token swaps on B
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/singularityhacker/bank-skills/SKILL.md)
 
 ### bounty-hunter
 
-- **描述**: Find, evaluate, and submit online bounties and hackathons for prize money.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/bounty-hunter/SKILL.md)
+- **中文**: 查找 evaluate 和 submit 在线 bounties 和 hackathons 用于 prize money
+- **EN**: Find, evaluate, and submit online bounties and hackathons fo
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/bounty-hunter/SKILL.md)
 
 ### brighty
 
-- **描述**: Banking interface for AI bots and automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/maay/brighty/SKILL.md)
+- **中文**: Banking interface 用于 人工智能 bots 和 automation
+- **EN**: Banking interface for AI bots and automation.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/maay/brighty/SKILL.md)
 
 ### cannabis-cultivator
 
-- **描述**: EU seedbank meta-search assistant.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rama666/cannabis-cultivator/SKILL.md)
-
-### cashu
-
-- **描述**: This is what you use for Bitcoin payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/cashu/SKILL.md)
-
-### ceaser-send
-
-- **描述**: Fully automated private ETH transfer via Ceaser Protocol on Base L2 using the ceaser-mcp MCP tools.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zyra-v21/ceaser-send/SKILL.md)
+- **中文**: EU seedbank meta 搜索 assistant
+- **EN**: EU seedbank meta-search assistant.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rama666/cannabis-cultivator/SKILL.md)
 
 ### clawdwork
 
-- **描述**: Find work, earn money, and collaborate with other AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/felo-sparticle/clawdwork/SKILL.md)
+- **中文**: 查找 工作 earn money 和 collaborate 使用 other 人工智能 agents
+- **EN**: Find work, earn money, and collaborate with other AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/felo-sparticle/clawdwork/SKILL.md)
 
 ### client-manager
 
-- **描述**: Track clients, projects, invoices, payments, earnings, leads, and time for freelancers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/client-manager/SKILL.md)
+- **中文**: 追踪 clients projects invoices 支付 财报 leads 和 time 用于 freelancers
+- **EN**: Track clients, projects, invoices, payments, earnings, leads
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/client-manager/SKILL.md)
 
 ### client-project-manager
 
-- **描述**: Manage freelance clients, projects, invoices, and communications.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/client-project-manager/SKILL.md)
-
-### clovercli
-
-- **描述**: CLI for Clover POS API — inventory, orders, payments, customers, employees, discounts, and analytics.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/g9pedro/clovercli/SKILL.md)
-
-### cocod
-
-- **描述**: A Cashu ecash wallet CLI for Bitcoin and Lightning payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/egge21m/cocod/SKILL.md)
-
-### creditcard
-
-- **描述**: Let your agent shop online with guardrailed wallets, multiple payment methods, and owner approval.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jononovo/creditcard/SKILL.md)
+- **中文**: Manage freelance clients projects invoices 和 communications
+- **EN**: Manage freelance clients, projects, invoices, and communicat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/client-project-manager/SKILL.md)
 
 ### crypto-agent-payments
 
-- **描述**: Create wallets, transfer tokens, and enable payments between agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nicofains1/crypto-agent-payments/SKILL.md)
+- **中文**: 创建 wallets 转账 令牌 和 启用 支付 between agents
+- **EN**: Create wallets, transfer tokens, and enable payments between
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nicofains1/crypto-agent-payments/SKILL.md)
 
 ### crypto-payments-ecommerce
 
-- **描述**: Accept crypto and stablecoin payments for e-commerce stores with self-hosted PayRam.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-ecommerce/SKILL.md)
+- **中文**: Accept 加密货币 和 stablecoin 支付 用于 e commerce stores 使用 on-premise PayRam
+- **EN**: Accept crypto and stablecoin payments for e-commerce stores 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-ecommerce/SKILL.md)
 
 ### crypto-payments-saas
 
-- **描述**: Add crypto payments to your SaaS — subscriptions, per-seat billing, usage-based pricing, invoicing.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-saas/SKILL.md)
+- **中文**: 添加 加密货币 支付 到 你的 SaaS — subscriptions per seat billing usage on pricing invoicing
+- **EN**: Add crypto payments to your SaaS — subscriptions, per-seat b
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-saas/SKILL.md)
 
 ### crypto-payments-self-hosted-payram
 
-- **描述**: Self-hosted crypto and stablecoin payment gateway.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-self-hosted-payram/SKILL.md)
+- **中文**: on-premise 加密货币 和 stablecoin 支付 网关
+- **EN**: Self-hosted crypto and stablecoin payment gateway.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-self-hosted-payram/SKILL.md)
 
 ### dellight-cfo-financial-ops
 
-- **描述**: CFO reports to CEO (Arthur Dell), dotted line to CRO (Reign).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cfo-financial-ops/SKILL.md)
+- **中文**: CFO reports 到 CEO Arthur Dell dotted line 到 CRO Reign
+- **EN**: CFO reports to CEO (Arthur Dell), dotted line to CRO (Reign)
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cfo-financial-ops/SKILL.md)
 
 ### einstein
 
-- **描述**: Blockchain analytics and DeFi intelligence via Einstein's x402 micropayment services.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chuxo/einstein/SKILL.md)
+- **中文**: Blockchain analytics 和 DeFi intelligence 通过 Einstein s x402 micropayment service
+- **EN**: Blockchain analytics and DeFi intelligence via Einstein's x4
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chuxo/einstein/SKILL.md)
 
 ### elliott-wave-principle
 
-- **描述**: Provides expert guidance on applying the Elliott Wave Principle to financial market analysis.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/raeed44-creator/elliott-wave-principle/SKILL.md)
+- **中文**: 提供 expert guidance 在 applying a Elliott Wave Principle 到 financial 市场 analysis
+- **EN**: Provides expert guidance on applying the Elliott Wave Princi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/raeed44-creator/elliott-wave-principle/SKILL.md)
 
 ### emotionwise
 
-- **描述**: Analyze text for emotions and sarcasm using the EmotionWise API (28 labels, EN/ES).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/timexicali/emotionwise/SKILL.md)
+- **中文**: 分析 text 用于 emotions 和 sarcasm 使用 a EmotionWise 接口 28 labels EN/ES
+- **EN**: Analyze text for emotions and sarcasm using the EmotionWise 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/timexicali/emotionwise/SKILL.md)
 
 ### enterprise-legal-guardrails
 
-- **描述**: Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails/SKILL.md)
+- **中文**: Legal/compliance guardrails 用于 outbound OpenClaw actions anti spam defamation 隐私
+- **EN**: Legal/compliance guardrails for outbound OpenClaw actions (a
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails/SKILL.md)
 
 ### enterprise-legal-guardrails-public
 
-- **描述**: Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails-public/SKILL.md)
+- **中文**: Legal/compliance guardrails 用于 outbound OpenClaw actions anti spam defamation 隐私
+- **EN**: Legal/compliance guardrails for outbound OpenClaw actions (a
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails-public/SKILL.md)
 
 ### financial-calculator
 
-- **描述**: Advanced financial calculator with future value.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tarigha/financial-calculator/SKILL.md)
+- **中文**: Advanced financial calculator 使用 future value
+- **EN**: Advanced financial calculator with future value.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tarigha/financial-calculator/SKILL.md)
 
 ### financial-data
 
-- **描述**: Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aisapay/financial-data/SKILL.md)
+- **中文**: 查询 automatic 和 historical financial 文件 across equities 和 crypto—prices 市场 moves 
+- **EN**: Query real-time and historical financial data across equitie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aisapay/financial-data/SKILL.md)
 
 ### financial-overview
 
-- **描述**: Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stanlee000/financial-overview/SKILL.md)
+- **中文**: 获取 a complete financial overview 的 a business including 余额 最近 transactions outst
+- **EN**: Get a complete financial overview of the business including 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stanlee000/financial-overview/SKILL.md)
 
 ### financial-planning
 
-- **描述**: Plan and manage the finances of a solopreneur business.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/financial-planning/SKILL.md)
+- **中文**: Plan 和 manage a finances 的 a solopreneur business
+- **EN**: Plan and manage the finances of a solopreneur business.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/financial-planning/SKILL.md)
 
 ### financial-reconciler
 
-- **描述**: Privacy-first personal finance tracker with local SQLite storage.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gowtham1984/financial-reconciler/SKILL.md)
+- **中文**: 隐私 first personal finance 追踪器 使用 本地 SQLite 存储
+- **EN**: Privacy-first personal finance tracker with local SQLite sto
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gowtham1984/financial-reconciler/SKILL.md)
 
 ### fints-banking
 
-- **描述**: Support for German personal online banking following FinTS banking standard.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/h4gen/fints-banking/SKILL.md)
+- **中文**: Support 用于 German personal 在线 banking following FinTS banking standard
+- **EN**: Support for German personal online banking following FinTS b
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/h4gen/fints-banking/SKILL.md)
 
 ### freshbooks-cli
 
-- **描述**: FreshBooks CLI for managing invoices, clients, and billing.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/haseebuchiha/freshbooks-cli/SKILL.md)
+- **中文**: FreshBooks 命令行 用于 managing invoices clients 和 billing
+- **EN**: FreshBooks CLI for managing invoices, clients, and billing.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/haseebuchiha/freshbooks-cli/SKILL.md)
 
 ### ft-reader
 
-- **描述**: Use this skill to perform deep, structured, and bilingual analysis of top articles from Financial Times (ft.com).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zhouziyue233/ft-reader/SKILL.md)
+- **中文**: Use 这个 技能 到 perform deep structured 和 bilingual analysis 的 top articles 从 Financ
+- **EN**: Use this skill to perform deep, structured, and bilingual an
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zhouziyue233/ft-reader/SKILL.md)
 
 ### george
 
-- **描述**: Automate George online banking (Erste Bank / Sparkasse Austria)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/odrobnik/george/SKILL.md)
+- **中文**: 自动化 George 在线 banking Erste 银行 / Sparkasse Austria
+- **EN**: Automate George online banking (Erste Bank / Sparkasse Austr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/odrobnik/george/SKILL.md)
 
 ### get-hba
 
-- **描述**: Register and update Human Bitcoin Addresses (BIP-353) on clank.money using MoneyDevKit L402 flow and management tokens.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba/SKILL.md)
+- **中文**: Register 和 更新 Human 比特币 Addresses BIP 353 在 clank money 使用 MoneyDevKit L402 flow
+- **EN**: Register and update Human Bitcoin Addresses (BIP-353) on cla
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba/SKILL.md)
 
 ### gotchi-channeling
 
-- **描述**: Autonomous Aavegotchi Alchemica channeling via Bankr wallet.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md)
+- **中文**: Autonomous Aavegotchi Alchemica channeling 通过 Bankr 钱包
+- **EN**: Autonomous Aavegotchi Alchemica channeling via Bankr wallet.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md)
 
 ### greek-banking-integration
 
-- **描述**: Parses bank statements from all major Greek banks (Alpha, NBG, Eurobank, Piraeus)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-banking-integration/SKILL.md)
+- **中文**: Parses 银行 statements 从 全部 major Greek banks Alpha NBG Eurobank Piraeus
+- **EN**: Parses bank statements from all major Greek banks (Alpha, NB
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-banking-integration/SKILL.md)
 
 ### greek-financial-statements
 
-- **描述**: Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md)
-
-### heath-ledger
-
-- **描述**: AI bookkeeping agent for Mercury bank accounts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wrannaman/heath-ledger/SKILL.md)
+- **中文**: Greek financial statement 生成 — P&L 余额 sheets VAT summaries 使用 EGLS integration
+- **EN**: Greek financial statement generation — P&L, balance sheets, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md)
 
 ### hey-lol
 
-- **描述**: Become an AI creator on hey.lol - a social platform where AI agents earn money by posting content and engaging.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rawgroundbeef/hey-lol/SKILL.md)
+- **中文**: Become an 人工智能 creator 在 hey lol a 社交 platform where 人工智能 agents earn money 由 po
+- **EN**: Become an AI creator on hey.lol - a social platform where AI
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rawgroundbeef/hey-lol/SKILL.md)
 
 ### idea-validation
 
-- **描述**: Validate a business idea before investing time or money.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/idea-validation/SKILL.md)
+- **中文**: 验证 a business idea before investing time 或 money
+- **EN**: Validate a business idea before investing time or money.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/idea-validation/SKILL.md)
 
 ### impromptu
 
-- **描述**: Earn real money creating AI conversations.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/createpromptdude/impromptu/SKILL.md)
+- **中文**: Earn time money creating 人工智能 conversations
+- **EN**: Earn real money creating AI conversations.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/createpromptdude/impromptu/SKILL.md)
 
 ### insider-wallets-finder-bjs4y
 
-- **描述**: Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-bjs4y/SKILL.md)
+- **中文**: 查找 和 分析 智能 money addresses discover early buyers 追踪 successful traders identify 
+- **EN**: Find and analyze smart money addresses - discover early buye
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-bjs4y/SKILL.md)
 
 ### insider-wallets-finder-c86ge
 
-- **描述**: Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-c86ge/SKILL.md)
+- **中文**: 查找 和 分析 智能 money addresses discover early buyers 追踪 successful traders identify 
+- **EN**: Find and analyze smart money addresses - discover early buye
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-c86ge/SKILL.md)
 
 ### insider-wallets-finder-gxgfy
 
-- **描述**: Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-gxgfy/SKILL.md)
+- **中文**: 查找 和 分析 智能 money addresses discover early buyers 追踪 successful traders identify 
+- **EN**: Find and analyze smart money addresses - discover early buye
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-gxgfy/SKILL.md)
 
 ### invoice-chaser
 
-- **描述**: Automated invoice follow-up sequences that escalate from friendly to firm.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/audsmith28/invoice-chaser/SKILL.md)
+- **中文**: Automated 发票 关注 up sequences 那个 escalate 从 friendly 到 firm
+- **EN**: Automated invoice follow-up sequences that escalate from fri
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/audsmith28/invoice-chaser/SKILL.md)
 
 ### invoice-collector
 
-- **描述**: Collect invoices/receipts from Gmail and send a summary email with attachments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mintannn/invoice-collector/SKILL.md)
+- **中文**: Collect invoices/receipts 从 Gmail 和 发送 a summary 邮件 使用 attachments
+- **EN**: Collect invoices/receipts from Gmail and send a summary emai
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mintannn/invoice-collector/SKILL.md)
 
 ### invoice-generator
 
-- **描述**: Generate professional PDF invoices from JSON.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tmigone/invoice-generator/SKILL.md)
+- **中文**: 生成 professional PDF invoices 从 JSON
+- **EN**: Generate professional PDF invoices from JSON.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tmigone/invoice-generator/SKILL.md)
 
 ### invoice-template
 
-- **描述**: Free simple invoice generator.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-template/SKILL.md)
+- **中文**: 免费 简单 发票 生成器
+- **EN**: Free simple invoice generator.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-template/SKILL.md)
 
 ### invoice-tracker-pro
 
-- **描述**: Complete freelance billing workflow — generate professional invoices, track payment status, send automated.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md)
+- **中文**: Complete freelance billing 工作流 — 生成 professional invoices 追踪 支付 status 发送 automa
+- **EN**: Complete freelance billing workflow — generate professional 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md)
 
 ### jquants-mcp
 
-- **描述**: Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md)
-
-### justpayai
-
-- **描述**: AI agent marketplace & payments — hire agents, post jobs, run campaigns, earn USDC on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nemanja-lootbox/justpayai/SKILL.md)
+- **中文**: 访问 JPX 股票 市场 文件 通过 J Quants 接口 — 搜索 stocks 获取 daily OHLCV prices financial summa
+- **EN**: Access JPX stock market data via J-Quants API — search stock
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md)
 
 ### karmabank
 
-- **描述**: AI agents borrow USDC based on their Moltbook karma score.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank/SKILL.md)
+- **中文**: 人工智能 agents borrow USDC on 在 他们的 Moltbook karma 评分
+- **EN**: AI agents borrow USDC based on their Moltbook karma score.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank/SKILL.md)
 
 ### karmabank-minimal
 
-- **描述**: AI agents borrow USDC based on their Moltbook karma score.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank-minimal/SKILL.md)
-
-### kaspi-autopay
-
-- **描述**: Telegram bot auto-payment integration for Kazakhstan market (Kaspi Pay)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md)
+- **中文**: 人工智能 agents borrow USDC on 在 他们的 Moltbook karma 评分
+- **EN**: AI agents borrow USDC based on their Moltbook karma score.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank-minimal/SKILL.md)
 
 ### klientenportal
 
-- **描述**: Automate RZL Klientenportal.at — a web-based portal by RZL Software for exchanging receipts, invoices, and reports.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/odrobnik/klientenportal/SKILL.md)
-
-### krumpkraft
-
-- **描述**: Teaches how to play KrumpKraft with EVVM payments, USDC.k and $IP.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpkraft/SKILL.md)
-
-### ksef-accountant-en
-
-- **描述**: National e-Invoice System (KSeF) accounting assistant in English.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alexwoo-awso/ksef-accountant-en/SKILL.md)
-
-### lnbits
-
-- **描述**: Manage LNbits Lightning Wallet (Balance, Pay, Invoice)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/talvasconcelos/lnbits/SKILL.md)
-
-### lnbits-with-qrcode
-
-- **描述**: Manage LNbits Lightning Wallet (Balance, Pay, Invoice)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamestsetsekas/lnbits-with-qrcode/SKILL.md)
-
-### lnemail
-
-- **描述**: Setup and use anonymous email accounts on LNemail.net using Bitcoin Lightning payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lnemail/lnemail/SKILL.md)
-
-### lnget
-
-- **描述**: Install and use lnget, a Lightning-native HTTP client with automatic L402 payment support.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnget/SKILL.md)
+- **中文**: 自动化 RZL Klientenportal 在 — a web on portal 由 RZL 软件 用于 exchanging receipts invoi
+- **EN**: Automate RZL Klientenportal.at — a web-based portal by RZL S
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/odrobnik/klientenportal/SKILL.md)
 
 ### m2wise
 
-- **描述**: Memory-to-Wisdom Engine for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zengyi-thinking/m2wise/SKILL.md)
-
-### mac-power-tools
-
-- **描述**: A unified suite of power user tools for macOS, combining system cleanup and secure Android file transfer.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aadipapp/mac-power-tools/SKILL.md)
+- **中文**: 记忆 到 Wisdom 引擎 用于 人工智能 agents
+- **EN**: Memory-to-Wisdom Engine for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zengyi-thinking/m2wise/SKILL.md)
 
 ### market-data
 
-- **描述**: This skill provides access to financial market data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xj577/market-data/SKILL.md)
-
-### masumi
-
-- **描述**: Enable AI agents to accept Cardano blockchain payments through the decentralized Masumi network by deploying.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sarthib7/masumi/SKILL.md)
+- **中文**: 这个 技能 提供 访问 到 financial 市场 文件
+- **EN**: This skill provides access to financial market data.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xj577/market-data/SKILL.md)
 
 ### mercury-payments
 
-- **描述**: Pay invoices via Mercury Bank API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nathan-deepmm/mercury-payments/SKILL.md)
+- **中文**: Pay invoices 通过 Mercury 银行 接口
+- **EN**: Pay invoices via Mercury Bank API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nathan-deepmm/mercury-payments/SKILL.md)
 
 ### metengine-data-agent
 
-- **描述**: Real-time smart money analytics API for Polymarket prediction markets, Hyperliquid perpetual futures, and Meteora.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/saviour1001/metengine-data-agent/SKILL.md)
-
-### minara
-
-- **描述**: Crypto trading: swap, perps, transfer, pay, deposit (credit card / crypto), withdraw, AI chat, market discovery.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lowesyang/minara/SKILL.md)
+- **中文**: automatic 智能 money analytics 接口 用于 Polymarket prediction markets Hyperliquid per
+- **EN**: Real-time smart money analytics API for Polymarket predictio
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/saviour1001/metengine-data-agent/SKILL.md)
 
 ### monarch-money
 
-- **描述**: TypeScript library and CLI for Monarch Money budget management.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/davideasaf/monarch-money/SKILL.md)
+- **中文**: TypeScript 库 和 命令行 用于 Monarch Money budget management
+- **EN**: TypeScript library and CLI for Monarch Money budget manageme
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/davideasaf/monarch-money/SKILL.md)
 
 ### moneydevkit
 
-- **描述**: Accept payments on any website using moneydevkit.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/moneydevkit/SKILL.md)
+- **中文**: Accept 支付 在 any website 使用 moneydevkit
+- **EN**: Accept payments on any website using moneydevkit.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/moneydevkit/SKILL.md)
 
 ### moonbanking
 
-- **描述**: Full access to Moon Banking API endpoints for data about every bank on Earth, including stories, votes, scores.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking/SKILL.md)
+- **中文**: 完整 访问 到 Moon Banking 接口 endpoints 用于 文件 about 每个 银行 在 Earth including stories vo
+- **EN**: Full access to Moon Banking API endpoints for data about eve
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking/SKILL.md)
 
 ### moonpay
 
-- **描述**: Your agent needs money.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kevarifin14/moonpay/SKILL.md)
-
-### near-batch-sender
-
-- **描述**: Batch operations for NEAR tokens - send to multiple recipients, transfer NFTs, claim rewards with cost estimation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-batch-sender/SKILL.md)
-
-### near-qr-skill
-
-- **描述**: Generate QR codes for NEAR addresses and payment requests, and read NEAR QR codes from images.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ussyalfaks/near-qr-skill/SKILL.md)
+- **中文**: 你的智能体 needs money
+- **EN**: Your agent needs money.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kevarifin14/moonpay/SKILL.md)
 
 ### nevermined-payments
 
-- **描述**: Integrates Nevermined payment infrastructure into AI agents, MCP servers, Google A2A agents, and REST APIs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aaitor/nevermined-payments/SKILL.md)
+- **中文**: Integrates Nevermined 支付 infrastructure into 人工智能 agents MCP servers Google A2A 
+- **EN**: Integrates Nevermined payment infrastructure into AI agents,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aaitor/nevermined-payments/SKILL.md)
 
 ### node-transfer
 
-- **描述**: High-speed, memory-efficient file transfer between OpenClaw nodes using native Node.js streams.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eisonme/node-transfer/SKILL.md)
+- **中文**: High speed 记忆 efficient 文件 转账 between OpenClaw nodes 使用 原生 Node js streams
+- **EN**: High-speed, memory-efficient file transfer between OpenClaw 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/eisonme/node-transfer/SKILL.md)
 
 ### norman-categorize-transactions
 
-- **描述**: Review and categorize uncategorized bank transactions, match them with invoices, and verify bookkeeping entries.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-categorize-transactions/SKILL.md)
+- **中文**: 审核 和 categorize uncategorized 银行 transactions match them 使用 invoices 和 验证 bookke
+- **EN**: Review and categorize uncategorized bank transactions, match
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-categorize-transactions/SKILL.md)
 
 ### norman-financial-overview
 
-- **描述**: Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md)
+- **中文**: 获取 a complete financial overview 的 a business including 余额 最近 transactions outst
+- **EN**: Get a complete financial overview of the business including 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md)
 
 ### norman-monthly-reconciliation
 
-- **描述**: Perform a complete monthly financial reconciliation - review all transactions, match invoices, check outstanding.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation/SKILL.md)
+- **中文**: Perform a complete monthly financial reconciliation 审核 全部 transactions match inv
+- **EN**: Perform a complete monthly financial reconciliation - review
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation/SKILL.md)
 
 ### norman-tax-report
 
-- **描述**: Review and manage German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-report/SKILL.md)
+- **中文**: 审核 和 manage German tax reports including VAT Umsatzsteuer 收入 tax prepayments 和 F
+- **EN**: Review and manage German tax reports including VAT (Umsatzst
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-report/SKILL.md)
 
 ### nova-net-worth
 
-- **描述**: Query your Nova Net Worth financial data — net worth, accounts, goals, spending, transactions, AI insights.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md)
+- **中文**: 查询 你的 Nova Net Worth financial 文件 — net worth accounts goals spending transactio
+- **EN**: Query your Nova Net Worth financial data — net worth, accoun
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md)
 
 ### obverse-payments
 
-- **描述**: End-to-end stablecoin payments — links, invoices, receipts, dashboards — across Telegram, WhatsApp, Discord.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ofuzorchukwuemeke/obverse-payments/SKILL.md)
+- **中文**: End 到 end stablecoin 支付 — links invoices receipts dashboards — across Telegram W
+- **EN**: End-to-end stablecoin payments — links, invoices, receipts, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ofuzorchukwuemeke/obverse-payments/SKILL.md)
 
 ### odoo-reporting
 
-- **描述**: Query Odoo data including salesperson performance, customer analytics, orders, invoices, CRM, accounting, VAT.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting/SKILL.md)
+- **中文**: 查询 Odoo 文件 including salesperson performance customer analytics orders invoices 
+- **EN**: Query Odoo data including salesperson performance, customer 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting/SKILL.md)
 
 ### openkrill
 
-- **描述**: Enable AI agents to make micropayments via x402 protocol.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/emilankerwiik/openkrill/SKILL.md)
-
-### orthogonal
-
-- **描述**: Orthogonal API Platform - Access 100+ premium APIs using the SDK, Run API, or x402 direct payment.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/christianpickettcode/orthogonal/SKILL.md)
+- **中文**: 启用 人工智能 agents 到 制作 micropayments 通过 x402 protocol
+- **EN**: Enable AI agents to make micropayments via x402 protocol.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/emilankerwiik/openkrill/SKILL.md)
 
 ### otterline
 
-- **描述**: Free Sports Betting Predictions and Picks for NBA and NHL: high win rate daily moneyline winners from Otterline's.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chrislyonshfx/otterline/SKILL.md)
-
-### paylobster
-
-- **描述**: Agent payment infrastructure on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/itsgustav/paylobster/SKILL.md)
+- **中文**: 免费 Sports Betting Predictions 和 Picks 用于 NBA 和 NHL high win 评级 daily moneyline w
+- **EN**: Free Sports Betting Predictions and Picks for NBA and NHL: h
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chrislyonshfx/otterline/SKILL.md)
 
 ### payment-gateway-payram
 
-- **描述**: Add payments to your app, agent, or SaaS in 10 seconds.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buddhasource/payment-gateway-payram/SKILL.md)
+- **中文**: 添加 支付 到 你的 应用 智能体 或 SaaS 在 10 seconds
+- **EN**: Add payments to your app, agent, or SaaS in 10 seconds.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buddhasource/payment-gateway-payram/SKILL.md)
 
 ### paypilot-agms
 
-- **描述**: Process payments, send invoices, issue refunds, and manage transactions via a secure payment gateway proxy.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms/SKILL.md)
-
-### payspawn
-
-- **描述**: Add spending controls to any AI agent that makes API payments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/adambrainai/payspawn/SKILL.md)
-
-### paythefly
-
-- **描述**: Create crypto payment & withdrawal links for your app.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/seanlan/paythefly/SKILL.md)
-
-### pinata-api
-
-- **描述**: Pinata IPFS API for file storage, groups, gateways, signatures, x402 payments, and file vectorization.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/iammatthias/pinata-api/SKILL.md)
-
-### pocket-lens
-
-- **描述**: Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/edenjw/pocket-lens/SKILL.md)
-
-### pocketlens
-
-- **描述**: Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/edenjw/pocketlens/SKILL.md)
+- **中文**: 流程 支付 发送 invoices 议题 refunds 和 manage transactions 通过 a 安全 支付 网关 代理
+- **EN**: Process payments, send invoices, issue refunds, and manage t
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms/SKILL.md)
 
 ### portfolio-risk-analyzer
 
-- **描述**: **AI-powered crypto portfolio risk analysis with automated $BANKR buyback monetization.**.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/portfolio-risk-analyzer/SKILL.md)
+- **中文**: **AI by 加密货币 投资组合 risk analysis 使用 automated $BANKR buyback monetization **
+- **EN**: **AI-powered crypto portfolio risk analysis with automated $
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/portfolio-risk-analyzer/SKILL.md)
 
 ### quickbooks-direct
 
-- **描述**: Comprehensive QuickBooks Online API integration for accounting, invoicing, payments, and financial reporting.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/armysarge/quickbooks-direct/SKILL.md)
+- **中文**: Comprehensive QuickBooks 在线 接口 integration 用于 accounting invoicing 支付 和 financia
+- **EN**: Comprehensive QuickBooks Online API integration for accounti
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/armysarge/quickbooks-direct/SKILL.md)
 
 ### quiver
 
-- **描述**: Query alternative financial data from Quiver Quantitative (Congress trading, Lobbying, Government Contracts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stuhorsman/quiver/SKILL.md)
+- **中文**: 查询 alternative financial 文件 从 Quiver Quantitative Congress 交易 Lobbying Governmen
+- **EN**: Query alternative financial data from Quiver Quantitative (C
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stuhorsman/quiver/SKILL.md)
 
 ### quotewise
 
-- **描述**: Semantic quote search with source transparency.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/quotewisio/quotewise/SKILL.md)
+- **中文**: Semantic quote 搜索 使用 source transparency
+- **EN**: Semantic quote search with source transparency.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/quotewisio/quotewise/SKILL.md)
 
 ### raiffeisen-elba
 
-- **描述**: Automate Raiffeisen ELBA online banking: login/logout, list accounts, and fetch transactions via Playwright.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/odrobnik/raiffeisen-elba/SKILL.md)
-
-### rapay
-
-- **描述**: Send compliant fiat USD payments via Ra Pay CLI — the first CLI-native AI payment platform.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/greendlt224/rapay/SKILL.md)
+- **中文**: 自动化 Raiffeisen ELBA 在线 banking login/logout 列出 accounts 和 获取 transactions 通过 Pla
+- **EN**: Automate Raiffeisen ELBA online banking: login/logout, list 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/odrobnik/raiffeisen-elba/SKILL.md)
 
 ### reva
 
-- **描述**: Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pax47/reva/SKILL.md)
+- **中文**: Complete Reva 钱包 management passwordless 身份验证 PayID name claiming multi chain 加密
+- **EN**: Complete Reva wallet management - passwordless authenticatio
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pax47/reva/SKILL.md)
 
 ### revenue-model-design
 
-- **描述**: Design a revenue model for a solopreneur business — how money flows in, from whom, and on what cadence.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/revenue-model-design/SKILL.md)
-
-### revolut-business
-
-- **描述**: Revolut Business API CLI — accounts, balances, transactions, counterparties, payments, FX exchange, CSV export.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/revolut-business/SKILL.md)
+- **中文**: Design a 营收 模型 用于 a solopreneur business — how money flows 在 从 whom 和 在 what cad
+- **EN**: Design a revenue model for a solopreneur business — how mone
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/revenue-model-design/SKILL.md)
 
 ### rsoft-agentic-bank
 
-- **描述**: Official Marketing and Outreach Ambassador for **RSoft Agentic Bank**, the first AI-native DeFi lending protocol.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rsoft-latam/rsoft-agentic-bank/SKILL.md)
+- **中文**: Official Marketing 和 Outreach Ambassador 用于 **RSoft Agentic Bank** a first 人工智能 
+- **EN**: Official Marketing and Outreach Ambassador for **RSoft Agent
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rsoft-latam/rsoft-agentic-bank/SKILL.md)
 
 ### sequence-cli
 
-- **描述**: Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jameslawton/sequence-cli/SKILL.md)
+- **中文**: Manage Sequence 智能 wallets projects 接口 密钥 ERC20 transfers 和 查询 blockchain 文件 使用 
+- **EN**: Manage Sequence smart wallets, projects, API keys, ERC20 tra
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jameslawton/sequence-cli/SKILL.md)
 
 ### settld-mcp-payments
 
-- **描述**: Connect OpenClaw agents to Settld MCP for paid tool calls with quote-bound authorization and verifiable receipts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aidenlippert/settld-mcp-payments/SKILL.md)
+- **中文**: 连接 OpenClaw agents 到 Settld MCP 用于 付费 工具 calls 使用 quote bound 授权 和 verifiable re
+- **EN**: Connect OpenClaw agents to Settld MCP for paid tool calls wi
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aidenlippert/settld-mcp-payments/SKILL.md)
 
 ### shelter
 
-- **描述**: Connect to your Shelter financial data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/shelter/SKILL.md)
-
-### signet-guardian
-
-- **描述**: Payment guard middleware for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian/SKILL.md)
+- **中文**: 连接 到 你的 Shelter financial 文件
+- **EN**: Connect to your Shelter financial data.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/shelter/SKILL.md)
 
 ### silk
 
-- **描述**: Agent banking and payments on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/silostack/silk/SKILL.md)
+- **中文**: 智能体 banking 和 支付 在 Solana
+- **EN**: Agent banking and payments on Solana.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/silostack/silk/SKILL.md)
 
 ### silkyway
 
-- **描述**: Agent banking and payments on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/silostack/silkyway/SKILL.md)
-
-### skillzmarket
-
-- **描述**: Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hiich/skillzmarket/SKILL.md)
-
-### slopwork-marketplace
-
-- **描述**: Solana-powered task marketplace with multisig escrow payments - post tasks, bid on work, escrow funds, and release.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/heyhal9000/slopwork-marketplace/SKILL.md)
+- **中文**: 智能体 banking 和 支付 在 Solana
+- **EN**: Agent banking and payments on Solana.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/silostack/silkyway/SKILL.md)
 
 ### smart-content-repurposer
 
-- **描述**: When user asks to track clients, manage projects, create invoices, log payments, track earnings, manage leads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/smart-content-repurposer/SKILL.md)
+- **中文**: When user asks 到 追踪 clients manage projects 创建 invoices 日志 支付 追踪 财报 manage leads
+- **EN**: When user asks to track clients, manage projects, create inv
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/smart-content-repurposer/SKILL.md)
 
 ### smartbill
 
-- **描述**: Issue SmartBill invoices through the SmartBill.ro API with local automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md)
+- **中文**: 议题 SmartBill invoices 通过 a SmartBill ro 接口 使用 本地 automation
+- **EN**: Issue SmartBill invoices through the SmartBill.ro API with l
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md)
 
 ### smartbill-invoicing
 
-- **描述**: Issue SmartBill invoices through the SmartBill.ro API with local automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md)
-
-### solana-dev-rent-free
-
-- **描述**: Build Solana applications 200x cheaper for stablecoin payments, agent payments, DeFi, airdrops, token distribution.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-dev-rent-free/SKILL.md)
+- **中文**: 议题 SmartBill invoices 通过 a SmartBill ro 接口 使用 本地 automation
+- **EN**: Issue SmartBill invoices through the SmartBill.ro API with l
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md)
 
 ### solana-payments
 
-- **描述**: Guide agents through creating Land checkout URLs using the Payments SDK.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xeroc/solana-payments/SKILL.md)
+- **中文**: Guide agents 通过 creating Land checkout URLs 使用 a 支付 开发包
+- **EN**: Guide agents through creating Land checkout URLs using the P
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xeroc/solana-payments/SKILL.md)
 
 ### solana-transfer
 
-- **描述**: **Description:** Send SOL and SPL tokens on Solana blockchain from OpenClaw agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vortitron/solana-transfer/SKILL.md)
+- **中文**: **Description ** 发送 SOL 和 SPL 令牌 在 Solana blockchain 从 OpenClaw agents
+- **EN**: **Description:** Send SOL and SPL tokens on Solana blockchai
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vortitron/solana-transfer/SKILL.md)
 
 ### splitwise
 
-- **描述**: Create and manage expenses on Splitwise.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/richieforeman/splitwise/SKILL.md)
+- **中文**: 创建 和 manage expenses 在 Splitwise
+- **EN**: Create and manage expenses on Splitwise.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/richieforeman/splitwise/SKILL.md)
 
 ### starling-bank
 
-- **描述**: Manage Starling Bank accounts via the starling-bank-mcp server.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gpunter/starling-bank/SKILL.md)
+- **中文**: Manage Starling 银行 accounts 通过 a starling 银行 mcp 服务器
+- **EN**: Manage Starling Bank accounts via the starling-bank-mcp serv
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gpunter/starling-bank/SKILL.md)
 
 ### stocks
 
-- **描述**: 56+ financial data tools via Yahoo Finance.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lkcair/stocks/SKILL.md)
+- **中文**: 56+ financial 文件 tools 通过 Yahoo Finance
+- **EN**: 56+ financial data tools via Yahoo Finance.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lkcair/stocks/SKILL.md)
 
 ### strykr-prism
 
-- **描述**: Real-time financial data API for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/strykr-prism/SKILL.md)
+- **中文**: automatic financial 文件 接口 用于 人工智能 agents
+- **EN**: Real-time financial data API for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/strykr-prism/SKILL.md)
 
 ### sure
 
-- **描述**: Get report from Sure personal financial board.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md)
+- **中文**: 获取 report 从 Sure personal financial board
+- **EN**: Get report from Sure personal financial board.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md)
 
 ### trustlog-guard
 
-- **描述**: Financial governance for OpenClaw agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/anouartrust/trustlog-guard/SKILL.md)
+- **中文**: Financial governance 用于 OpenClaw agents
+- **EN**: Financial governance for OpenClaw agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/anouartrust/trustlog-guard/SKILL.md)
 
 ### twit-mcp
 
-- **描述**: Real-time X/Twitter data via x402 micropayments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/etherlect/twit-mcp/SKILL.md)
+- **中文**: automatic X/Twitter 文件 通过 x402 micropayments
+- **EN**: Real-time X/Twitter data via x402 micropayments.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/etherlect/twit-mcp/SKILL.md)
 
 ### upinvoice
 
-- **描述**: This skill allows any OpenClaw-powered agent to extract structured JSON data from invoice images or PDFs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/upinvoice/upinvoice/SKILL.md)
+- **中文**: 这个 技能 allows any OpenClaw by 智能体 到 提取 structured JSON 文件 从 发票 图片 或 PDFs
+- **EN**: This skill allows any OpenClaw-powered agent to extract stru
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/upinvoice/upinvoice/SKILL.md)
 
 ### us-value-investing-framework
 
-- **描述**: US stock valuation model skill (English-first + 中文) based on financial report data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework/SKILL.md)
-
-### valiron-trust-layer
-
-- **描述**: Intercept and authorize outgoing machine-to-machine payments (x402 or similar) using @valiron/sdk trust decisions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vatsashah45/valiron-trust-layer/SKILL.md)
+- **中文**: US 股票 valuation 模型 技能 English first + 中文 on 在 financial report 文件
+- **EN**: US stock valuation model skill (English-first + 中文) based on
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework/SKILL.md)
 
 ### visualization
 
-- **描述**: AI-driven professional data visualization for financial analysis.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xuzhiwei0217-doctor/visualization/SKILL.md)
-
-### which-llm
-
-- **描述**: Deterministic decision-ranking API with HTTP 402 USDC payments and outcome credits (discounts).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zapkid/which-llm/SKILL.md)
-
-### whop-cli
-
-- **描述**: Manage Whop digital products store — create products, plans, track payments, manage memberships.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/g9pedro/whop-cli/SKILL.md)
+- **中文**: 人工智能 driven professional 文件 visualization 用于 financial analysis
+- **EN**: AI-driven professional data visualization for financial anal
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xuzhiwei0217-doctor/visualization/SKILL.md)
 
 ### wisediag-medocr
 
-- **描述**: Convert PDF files to Markdown using WiseDiag MedOcr API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fmdmm/wisediag-medocr/SKILL.md)
+- **中文**: 转换 PDF files 到 Markdown 使用 WiseDiag MedOcr 接口
+- **EN**: Convert PDF files to Markdown using WiseDiag MedOcr API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fmdmm/wisediag-medocr/SKILL.md)
 
 ### wiseocr
 
-- **描述**: Convert PDF files to Markdown using WiseOCR API (powered by WiseDiag)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fmdmm/wiseocr/SKILL.md)
+- **中文**: 转换 PDF files 到 Markdown 使用 WiseOCR 接口 by 由 WiseDiag
+- **EN**: Convert PDF files to Markdown using WiseOCR API (powered by 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fmdmm/wiseocr/SKILL.md)
 

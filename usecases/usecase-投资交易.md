@@ -5,1425 +5,1031 @@ description: 投资交易相关的 OpenClaw Skills 使用案例
 
 # 投资交易
 
-> 共 284 个相关 Skills
+> 共 171 个相关 Skills
 
 ### 0xwork
 
-- **描述**: Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jkillr/0xwork/SKILL.md)
-
-### a-share-real-time-data
-
-- **描述**: Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wangdinglu/a-share-real-time-data/SKILL.md)
-
-### a-share-short-decision
-
-- **描述**: A-share short-term trading decision skill for 1-5 day horizon.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision/SKILL.md)
+- **中文**: 查找 和 complete 付费 任务 在 a 0xWork decentralized marketplace Base chain USDC escrow
+- **EN**: Find and complete paid tasks on the 0xWork decentralized mar
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jkillr/0xwork/SKILL.md)
 
 ### acorn-prover
 
-- **描述**: Verify and write proofs using the Acorn theorem prover for mathematical and cryptographic formalization.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/flyingnobita/acorn-prover/SKILL.md)
-
-### acp
-
-- **描述**: Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chris6970barbarian-hue/acp/SKILL.md)
+- **中文**: 验证 和 写入 proofs 使用 a Acorn theorem prover 用于 mathematical 和 cryptographic formali
+- **EN**: Verify and write proofs using the Acorn theorem prover for m
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/flyingnobita/acorn-prover/SKILL.md)
 
 ### actual-budget
 
-- **描述**: Query and manage personal finances via the official Actual.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md)
+- **中文**: 查询 和 manage personal finances 通过 a official Actual
+- **EN**: Query and manage personal finances via the official Actual.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md)
 
 ### affiliate-master
 
-- **描述**: Full-stack affiliate marketing automation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/affiliate-master/SKILL.md)
+- **中文**: 完整 stack affiliate marketing automation
+- **EN**: Full-stack affiliate marketing automation.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/affiliate-master/SKILL.md)
 
 ### agent-id-osiris
 
-- **描述**: Cryptographic identity for AI agents - sign and verify agent messages.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nantes/agent-id-osiris/SKILL.md)
+- **中文**: Cryptographic identity 用于 人工智能 agents 签名 和 验证 智能体 messages
+- **EN**: Cryptographic identity for AI agents - sign and verify agent
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nantes/agent-id-osiris/SKILL.md)
 
 ### agent-passport-system
 
-- **描述**: Give AI agents cryptographic identity, scoped delegation, values governance, and deliberative consensus.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aeoess/agent-passport-system/SKILL.md)
-
-### agentcanary
-
-- **描述**: Market intelligence API for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrcerq/agentcanary/SKILL.md)
+- **中文**: Give 人工智能 agents cryptographic identity scoped delegation values governance 和 de
+- **EN**: Give AI agents cryptographic identity, scoped delegation, va
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aeoess/agent-passport-system/SKILL.md)
 
 ### agenthc-market-intelligence
 
-- **描述**: Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/traderhc123/agenthc-market-intelligence/SKILL.md)
+- **中文**: automatic 股票 市场 文件 和 交易 intelligence 接口 85 intelligence modules 40 encoded intel
+- **EN**: Real-time stock market data and trading intelligence API. 85
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/traderhc123/agenthc-market-intelligence/SKILL.md)
 
 ### agenthire
 
-- **描述**: AgentHire — Agent-to-Agent Marketplace.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md)
+- **中文**: AgentHire — 智能体 到 智能体 Marketplace
+- **EN**: AgentHire — Agent-to-Agent Marketplace.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md)
 
 ### agentpin
 
-- **描述**: **Purpose**: This guide helps AI assistants work with AgentPin for domain-anchored cryptographic agent identity.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jaschadub/agentpin/SKILL.md)
+- **中文**: **Purpose** 这个 guide 帮助 人工智能 assistants 工作 使用 AgentPin 用于 domain anchored crypto
+- **EN**: **Purpose**: This guide helps AI assistants work with AgentP
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jaschadub/agentpin/SKILL.md)
 
 ### agentplace
 
-- **描述**: AI Agent Marketplace for OpenClaw.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/himanshunextbase/agentplace/SKILL.md)
+- **中文**: 人工智能 智能体 Marketplace 用于 OpenClaw
+- **EN**: AI Agent Marketplace for OpenClaw.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/himanshunextbase/agentplace/SKILL.md)
 
 ### agentx-marketplace
 
-- **描述**: The job board for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/savor3/agentx-marketplace/SKILL.md)
+- **中文**: a 作业 board 用于 人工智能 agents
+- **EN**: The job board for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/savor3/agentx-marketplace/SKILL.md)
 
 ### agos-marketplace
 
-- **描述**: Integrate OpenClaw with Agos Marketplace and automatically execute both sell-side listing creation and buy-side.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/danielw8088/agos-marketplace/SKILL.md)
+- **中文**: Integrate OpenClaw 使用 Agos Marketplace 和 automatically 执行 两者 卖出 side listing cre
+- **EN**: Integrate OpenClaw with Agos Marketplace and automatically e
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/danielw8088/agos-marketplace/SKILL.md)
 
 ### ai-screener
 
-- **描述**: Intellectia stock/crypto screener for Bullish/Bearish Tomorrow/Week/Month presets.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener/SKILL.md)
-
-### aifrens-onboard
-
-- **描述**: Turn any OpenClaw agent into an AI Fren with their own coin, treasury, and economy.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wizsmol/aifrens-onboard/SKILL.md)
+- **中文**: Intellectia stock/crypto screener 用于 Bullish/Bearish Tomorrow/Week/Month presets
+- **EN**: Intellectia stock/crypto screener for Bullish/Bearish Tomorr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener/SKILL.md)
 
 ### aikek
 
-- **描述**: Access AIKEK APIs for crypto/DeFi research and image generation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov/aikek/SKILL.md)
-
-### aiusd
-
-- **描述**: AIUSD trading and account management skill.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/aiusd/SKILL.md)
-
-### aiusd-skill-agent
-
-- **描述**: AIUSD trading and account management skill for cryptocurrency trading and account management.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/aiusd-skill-agent/SKILL.md)
-
-### aiusd-skills
-
-- **描述**: AIUSD trading and account management skill.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/aiusd-skills/SKILL.md)
+- **中文**: 访问 AIKEK APIs 用于 crypto/DeFi research 和 图片 生成
+- **EN**: Access AIKEK APIs for crypto/DeFi research and image generat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov/aikek/SKILL.md)
 
 ### aladdn-market
 
-- **描述**: Buy and sell products & services on ClawMarket — the first AI agent marketplace.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aladdntech/aladdn-market/SKILL.md)
+- **中文**: 买入 和 卖出 products & services 在 ClawMarket — a first 人工智能 智能体 marketplace
+- **EN**: Buy and sell products & services on ClawMarket — the first A
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aladdntech/aladdn-market/SKILL.md)
+
+### alert-system
+
+- **中文**: 智能 monitoring 使用 customizable triggers — 价格 alerts stocks 加密货币 products 事件 monit
+- **EN**: Smart monitoring with customizable triggers — price alerts (
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ishsharm0/alert-system/SKILL.md)
 
 ### allstock-data
 
-- **描述**: Query A-share and US stock data via Tencent Finance API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data/SKILL.md)
-
-### alpha-1-0-0
-
-- **描述**: Binance Alpha new coin launch detector.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0/SKILL.md)
+- **中文**: 查询 A 分享 和 US 股票 文件 通过 Tencent Finance 接口
+- **EN**: Query A-share and US stock data via Tencent Finance API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data/SKILL.md)
 
 ### alpha-finder
 
-- **描述**: Market Oracle for prediction market intelligence - Polymarket and Kalshi research, probability assessments, market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tzannetosgiannis/alpha-finder/SKILL.md)
-
-### alura
-
-- **描述**: Integrate with Alura Trading backend API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/evilboyajay/alura/SKILL.md)
+- **中文**: 市场 Oracle 用于 prediction 市场 intelligence Polymarket 和 Kalshi research probability
+- **EN**: Market Oracle for prediction market intelligence - Polymarke
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tzannetosgiannis/alpha-finder/SKILL.md)
 
 ### apewisdom
 
-- **描述**: Scan Reddit for trending stocks and sentiment spikes using the ApeWisdom API (free)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/stuhorsman/apewisdom/SKILL.md)
-
-### apipick-company-facts
-
-- **描述**: Retrieve public company information by stock ticker symbol or SEC CIK number using the apipick Company Facts API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-company-facts/SKILL.md)
+- **中文**: Scan Reddit 用于 trending stocks 和 sentiment spikes 使用 a ApeWisdom 接口 免费
+- **EN**: Scan Reddit for trending stocks and sentiment spikes using t
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/stuhorsman/apewisdom/SKILL.md)
 
 ### arguedotfun
 
-- **描述**: Argument-driven prediction markets on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md)
-
-### argus-edge
-
-- **描述**: Argus-style prediction market edge detection and betting strategy.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/argus-edge/SKILL.md)
+- **中文**: Argument driven prediction markets 在 Base
+- **EN**: Argument-driven prediction markets on Base.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md)
 
 ### askgina-polymarket
 
-- **描述**: Fast setup for Claw bots: paste your Gina MCP token and start trading Polymarket in minutes.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sidshekhar/askgina-polymarket/SKILL.md)
-
-### astranova
-
-- **描述**: Guided onboarding flow for AI agents joining the AstraNova market universe.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fermartz/astranova/SKILL.md)
-
-### auction-house
-
-- **描述**: Scout, monitor, and bid on auctions on House (houseproto.fun) — a crypto auction platform on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/im-still-thinking/auction-house/SKILL.md)
+- **中文**: 快速 设置 用于 Claw bots paste 你的 Gina MCP 代币 和 启动 交易 Polymarket 在 minutes
+- **EN**: Fast setup for Claw bots: paste your Gina MCP token and star
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sidshekhar/askgina-polymarket/SKILL.md)
 
 ### authensor-gateway
 
-- **描述**: Fail-safe policy gate for OpenClaw marketplace skills.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md)
-
-### avantis-skill
-
-- **描述**: Execute leverage trading on Avantis (Base)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/droppingbeans/avantis-skill/SKILL.md)
+- **中文**: Fail 安全 policy gate 用于 OpenClaw marketplace skills
+- **EN**: Fail-safe policy gate for OpenClaw marketplace skills.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md)
 
 ### b2c-marketing
 
-- **描述**: The organic growth playbook behind 300K+ app downloads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jackfriks/b2c-marketing/SKILL.md)
+- **中文**: a organic growth playbook behind 300K+ 应用 downloads
+- **EN**: The organic growth playbook behind 300K+ app downloads.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jackfriks/b2c-marketing/SKILL.md)
 
 ### b2c-marketing-1-0-1
 
-- **描述**: B2C mobile app marketing via short-form video content on TikTok, Instagram Reels, and YouTube Shorts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ceo991/b2c-marketing-1-0-1/SKILL.md)
-
-### backtest-expert-0-1-0
-
-- **描述**: Expert guidance for systematic backtesting of trading strategies.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/itsjustfred/backtest-expert-0-1-0/SKILL.md)
-
-### banana-farmer
-
-- **描述**: Stock momentum scanner and portfolio intelligence.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/adamandjarvis/banana-farmer/SKILL.md)
-
-### bandwidth-income
-
-- **描述**: Turn your unused internet bandwidth into passive crypto income.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mariusfit/bandwidth-income/SKILL.md)
+- **中文**: B2C mobile 应用 marketing 通过 short form 视频 内容 在 抖音 Instagram Reels 和 YouTube Short
+- **EN**: B2C mobile app marketing via short-form video content on Tik
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ceo991/b2c-marketing-1-0-1/SKILL.md)
 
 ### beancount-skill
 
-- **描述**: Professional personal finance advisor specializing in plain-text accounting with Beancount and Fava.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/y1feng200156/beancount-skill/SKILL.md)
-
-### beetrade
-
-- **描述**: Use Beecli to interact with the Beetrade platform for authentication, market data, bot/strategy operations, alerts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/htranbee/beetrade/SKILL.md)
+- **中文**: Professional personal finance advisor specializing 在 plain text accounting 使用 Be
+- **EN**: Professional personal finance advisor specializing in plain-
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/y1feng200156/beancount-skill/SKILL.md)
 
 ### betbud-prediction-market-creation
 
-- **描述**: An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-market-creation/SKILL.md)
-
-### betbud-prediction-skill
-
-- **描述**: Scans recent X posts for the most debated/hot topic right now in a given category (e.g., crypto, tech, sports.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-skill/SKILL.md)
-
-### bidclub
-
-- **描述**: Post investment ideas to the AI-native investment community.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jasonfdg/bidclub/SKILL.md)
-
-### bidclub-ai
-
-- **描述**: Post investment ideas to the AI-native investment community.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jasonfdg/bidclub-ai/SKILL.md)
-
-### binance-dca
-
-- **描述**: Professional Binance Dollar-Cost Averaging (DCA) tool for automated and manual recurring crypto purchases.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fpsjago/binance-dca/SKILL.md)
-
-### binance-enhanced
-
-- **描述**: **Enhanced Binance trading skill for OpenClaw**.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/s7cret/binance-enhanced/SKILL.md)
-
-### binance-hunter
-
-- **描述**: The Hunter: Professional Binance Trading Skill.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tetravad/binance-hunter/SKILL.md)
-
-### birdfolio
-
-- **描述**: Bird identification, life list tracking, and trading card generation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tonbistudio/birdfolio/SKILL.md)
-
-### bitaxe-monitor
-
-- **描述**: Monitor Bitaxe Gamma Bitcoin miner status via HTTP API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pietro395/bitaxe-monitor/SKILL.md)
-
-### blackswan
-
-- **描述**: Real-time crypto risk intelligence; before and as things break.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/bilalmotiwala/blackswan/SKILL.md)
+- **中文**: 一个人工智能 智能体 那个 automatically creates prediction markets 在 betbud 直播 由 analyzing t
+- **EN**: An AI agent that automatically creates prediction markets on
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-market-creation/SKILL.md)
 
 ### bob-p2p-beta
 
-- **描述**: Connect to the Bob P2P API marketplace.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/26medias/bob-p2p-beta/SKILL.md)
-
-### bonero-miner
-
-- **描述**: Mine Bonero - private cryptocurrency for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner/SKILL.md)
-
-### botbrag
-
-- **描述**: Promote yourself on a Bitcoin leaderboard.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/elstob/botbrag/SKILL.md)
+- **中文**: 连接 到 a Bob P2P 接口 marketplace
+- **EN**: Connect to the Bob P2P API marketplace.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/26medias/bob-p2p-beta/SKILL.md)
 
 ### botcoin-miner
 
-- **描述**: Mine Botcoin with a trust-first workflow: clear value proposition, verifiable binaries, and explicit operational.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/botcoin-miner/SKILL.md)
+- **中文**: Mine Botcoin 使用 a trust first 工作流 clear value proposition verifiable binaries 和 
+- **EN**: Mine Botcoin with a trust-first workflow: clear value propos
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/botcoin-miner/SKILL.md)
 
 ### botpicks
 
-- **描述**: Competes on real prediction markets via the BotPicks API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md)
-
-### bread-protocal
-
-- **描述**: Participate in Bread Protocol - a meme coin launchpad.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chrissorrell/bread-protocal/SKILL.md)
+- **中文**: Competes 在 time prediction markets 通过 a BotPicks 接口
+- **EN**: Competes on real prediction markets via the BotPicks API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md)
 
 ### brevo
 
-- **描述**: Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md)
+- **中文**: Brevo formerly Sendinblue 邮件 marketing 接口 用于 managing contacts lists
+- **EN**: Brevo (formerly Sendinblue) email marketing API for managing
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md)
 
 ### brw-marketing-principles
 
-- **描述**: Apply timeless marketing and business principles to any problem.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-marketing-principles/SKILL.md)
+- **中文**: Apply timeless marketing 和 business principles 到 any problem
+- **EN**: Apply timeless marketing and business principles to any prob
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-marketing-principles/SKILL.md)
 
 ### brw-positioning-basics
 
-- **描述**: Help founders and marketers nail their positioning.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-positioning-basics/SKILL.md)
-
-### btc-analyzer
-
-- **描述**: Fetch live BTCUSDT 15m candles from Binance public API and analyze market direction UP/DOWN/SKIP using EMA20.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/newbienodes/btc-analyzer/SKILL.md)
+- **中文**: Help founders 和 marketers nail 他们的 positioning
+- **EN**: Help founders and marketers nail their positioning.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-positioning-basics/SKILL.md)
 
 ### btc15-autonomous-market
 
-- **描述**: BTC15 Autonomous Prediction Market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-autonomous-market/SKILL.md)
+- **中文**: BTC15 Autonomous Prediction 市场
+- **EN**: BTC15 Autonomous Prediction Market.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-autonomous-market/SKILL.md)
 
 ### btc15-prediction-market
 
-- **描述**: BTC15 Autonomous Prediction Market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-prediction-market/SKILL.md)
-
-### business-development
-
-- **描述**: Partnership outreach, market research, competitor.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/oyi77/business-development/SKILL.md)
-
-### buzz-bd
-
-- **描述**: Autonomous crypto token discovery, scoring, and business development intelligence.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buzzbysolcex/buzz-bd/SKILL.md)
+- **中文**: BTC15 Autonomous Prediction 市场
+- **EN**: BTC15 Autonomous Prediction Market.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-prediction-market/SKILL.md)
 
 ### carrier-relationship-management
 
-- **描述**: Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nocodemf/carrier-relationship-management/SKILL.md)
+- **中文**: Codified expertise 用于 managing carrier portfolios negotiating freight rates trac
+- **EN**: Codified expertise for managing carrier portfolios, negotiat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nocodemf/carrier-relationship-management/SKILL.md)
 
 ### ccxt
 
-- **描述**: Interact with 100+ cryptocurrency exchanges — fetch markets, order books, tickers, place orders, check balances.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pcriadoperez/ccxt/SKILL.md)
-
-### changenow
-
-- **描述**: Perform instant crypto swaps via ChangeNOW and earn affiliate commissions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/yakelb0815/changenow/SKILL.md)
+- **中文**: Interact 使用 100+ 加密货币 exchanges — 获取 markets order books tickers place orders 检查
+- **EN**: Interact with 100+ cryptocurrency exchanges — fetch markets,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pcriadoperez/ccxt/SKILL.md)
 
 ### checksum
 
-- **描述**: A CLI utility for generating and verifying cryptographic file checksums (MD5, SHA1, SHA256)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/autogame-17/checksum/SKILL.md)
-
-### chronobets
-
-- **描述**: On-chain prediction market for AI agents on Solana mainnet.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lordx64/chronobets/SKILL.md)
-
-### cirf
-
-- **描述**: Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kudodefi/cirf/SKILL.md)
-
-### claudius
-
-- **描述**: Crypto intelligence powered by Claudius.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/claudiusaipro/claudius/SKILL.md)
-
-### clawfriend
-
-- **描述**: ClawFriend Social Platform and Share Trading Agent.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/leeknowsai/clawfriend/SKILL.md)
+- **中文**: 一个命令行 utility 用于 generating 和 verifying cryptographic 文件 checksums MD5 SHA1 SHA2
+- **EN**: A CLI utility for generating and verifying cryptographic fil
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/autogame-17/checksum/SKILL.md)
 
 ### coinfello
 
-- **描述**: Interact with CoinFello using the @coinfello/agent-cli to create MetaMask smart accounts, sign in with SIWE, manage.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brettcleary/coinfello/SKILL.md)
+- **中文**: Interact 使用 CoinFello 使用 a @coinfello/agent 命令行 到 创建 MetaMask 智能 accounts 签名 在 使
+- **EN**: Interact with CoinFello using the @coinfello/agent-cli to cr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brettcleary/coinfello/SKILL.md)
 
 ### compliance-officer
 
-- **描述**: Reviews marketing content against FTC, HIPAA, GDPR, SEC 482, SEC Marketing, CCPA, COPPA, and CAN-SPAM — 208.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arberx/compliance-officer/SKILL.md)
+- **中文**: Reviews marketing 内容 against FTC HIPAA GDPR SEC 482 SEC Marketing CCPA COPPA 和 能
+- **EN**: Reviews marketing content against FTC, HIPAA, GDPR, SEC 482,
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arberx/compliance-officer/SKILL.md)
 
 ### content-creator
 
-- **描述**: Create SEO-optimized marketing content with consistent.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/content-creator/SKILL.md)
+- **中文**: 创建 SEO optimized marketing 内容 使用 consistent
+- **EN**: Create SEO-optimized marketing content with consistent.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/content-creator/SKILL.md)
 
 ### coworker
 
-- **描述**: Connect to Hannah and Elena agents from Serviceplan - specialized AI coworkers for marketing research.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sarthib7/coworker/SKILL.md)
+- **中文**: 连接 到 Hannah 和 Elena agents 从 Serviceplan specialized 人工智能 coworkers 用于 marketing
+- **EN**: Connect to Hannah and Elena agents from Serviceplan - specia
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sarthib7/coworker/SKILL.md)
 
 ### cputemp
 
-- **描述**: Fetch real-time stock quotes from Yahoo Finance.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rhcit/cputemp/SKILL.md)
-
-### crif
-
-- **描述**: Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kudodefi/crif/SKILL.md)
+- **中文**: 获取 automatic 股票 quotes 从 Yahoo Finance
+- **EN**: Fetch real-time stock quotes from Yahoo Finance.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rhcit/cputemp/SKILL.md)
 
 ### crowd-prompting
 
-- **描述**: A marketplace where AI agents improve prompts, system instructions, tool descriptions, and other text-based content.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zzadrian/crowd-prompting/SKILL.md)
+- **中文**: 一个marketplace where 人工智能 agents improve 提示词 系统 instructions 工具 descriptions 和 ot
+- **EN**: A marketplace where AI agents improve prompts, system instru
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/zzadrian/crowd-prompting/SKILL.md)
 
 ### crypto-address-checker
 
-- **描述**: Real-time cryptocurrency scam detection with database-first architecture.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-address-checker/SKILL.md)
+- **中文**: automatic 加密货币 scam detection 使用 数据库 first architecture
+- **EN**: Real-time cryptocurrency scam detection with database-first 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-address-checker/SKILL.md)
 
 ### crypto-genie
 
-- **描述**: AI-powered cryptocurrency safety assistant with database-first architecture.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-genie/SKILL.md)
+- **中文**: 人工智能 by 加密货币 safety assistant 使用 数据库 first architecture
+- **EN**: AI-powered cryptocurrency safety assistant with database-fir
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-genie/SKILL.md)
 
 ### crypto-hackathon
 
-- **描述**: Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/swairshah/crypto-hackathon/SKILL.md)
+- **中文**: Use when participating 在 a USDC Hackathon submitting projects 或 voting 3 tracks 
+- **EN**: Use when participating in the USDC Hackathon, submitting pro
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/swairshah/crypto-hackathon/SKILL.md)
 
 ### crypto-levels-1-0-3
 
-- **描述**: Analyze cryptocurrency support and resistance levels.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/crypto-levels-1-0-3/SKILL.md)
+- **中文**: 分析 加密货币 support 和 resistance levels
+- **EN**: Analyze cryptocurrency support and resistance levels.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/crypto-levels-1-0-3/SKILL.md)
 
 ### crypto-macro-regime
 
-- **描述**: Classify current crypto macro regime (Risk-On / Risk-Off / Neutral) using Fear & Greed Index, BTC dominance, Reddit.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime/SKILL.md)
+- **中文**: Classify 当前 加密货币 macro regime Risk 在 / Risk Off / Neutral 使用 Fear & Greed 指数 BTC
+- **EN**: Classify current crypto macro regime (Risk-On / Risk-Off / N
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime/SKILL.md)
 
 ### crypto-market-analyzer
 
-- **描述**: Cryptocurrency market analysis for Bitcoin and Ethereum.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hmzo/crypto-market-analyzer/SKILL.md)
+- **中文**: 加密货币 市场 analysis 用于 比特币 和 以太坊
+- **EN**: Cryptocurrency market analysis for Bitcoin and Ethereum.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hmzo/crypto-market-analyzer/SKILL.md)
 
 ### crypto-market-data
 
-- **描述**: No API KEY needed for free tier.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/liam8/crypto-market-data/SKILL.md)
+- **中文**: No 接口 密钥 needed 用于 免费 tier
+- **EN**: No API KEY needed for free tier.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/liam8/crypto-market-data/SKILL.md)
 
 ### crypto-regime-report
 
-- **描述**: Generate market regime reports for crypto perpetuals using Supertrend and ADX indicators.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report/SKILL.md)
+- **中文**: 生成 市场 regime reports 用于 加密货币 perpetuals 使用 Supertrend 和 ADX indicators
+- **EN**: Generate market regime reports for crypto perpetuals using S
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report/SKILL.md)
 
 ### crypto-scam-detector
 
-- **描述**: Real-time cryptocurrency scam detection with database-first architecture.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-scam-detector/SKILL.md)
+- **中文**: automatic 加密货币 scam detection 使用 数据库 first architecture
+- **EN**: Real-time cryptocurrency scam detection with database-first 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-scam-detector/SKILL.md)
 
 ### crypto-signal
 
-- **描述**: AI-powered crypto intelligence from 50+ Telegram groups.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/qiantanxiaohai/crypto-signal/SKILL.md)
+- **中文**: 人工智能 by 加密货币 intelligence 从 50+ Telegram groups
+- **EN**: AI-powered crypto intelligence from 50+ Telegram groups.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/qiantanxiaohai/crypto-signal/SKILL.md)
 
 ### crypton-esim
 
-- **描述**: Purchase anonymous eSIMs with BTC/XMR/card - no account required.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ajarmoszuk/crypton-esim/SKILL.md)
+- **中文**: Purchase anonymous eSIMs 使用 BTC/XMR/card no account required
+- **EN**: Purchase anonymous eSIMs with BTC/XMR/card - no account requ
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ajarmoszuk/crypton-esim/SKILL.md)
 
 ### cryptowallet
 
-- **描述**: Complete cryptocurrency wallet management for Web3, DeFi, and blockchain applications.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gnufoo/cryptowallet/SKILL.md)
+- **中文**: Complete 加密货币 钱包 management 用于 Web3 DeFi 和 blockchain applications
+- **EN**: Complete cryptocurrency wallet management for Web3, DeFi, an
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gnufoo/cryptowallet/SKILL.md)
 
 ### cybercentry-quantum-cryptography-verification
 
-- **描述**: Cybercentry Quantum Cryptography Verification on ACP - Quantum-resistant AES-256-GCM encryption for sensitive data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-quantum-cryptography-verification/SKILL.md)
+- **中文**: Cybercentry Quantum Cryptography Verification 在 ACP Quantum resistant AES 256 GC
+- **EN**: Cybercentry Quantum Cryptography Verification on ACP - Quant
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-quantum-cryptography-verification/SKILL.md)
 
 ### cydew
 
-- **描述**: This skill guides an agent through onboarding to the Cydew marketplace API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jhotson/cydew/SKILL.md)
-
-### data912
-
-- **描述**: Query Data912 market data endpoints for Argentina and USA instruments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ferminrp/data912/SKILL.md)
-
-### deapi
-
-- **描述**: The cheapest AI media API on the market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/zrewolwerowanykaloryfer/deapi/SKILL.md)
+- **中文**: 这个 技能 guides an 智能体 通过 onboarding 到 a Cydew marketplace 接口
+- **EN**: This skill guides an agent through onboarding to the Cydew m
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jhotson/cydew/SKILL.md)
 
 ### dellight-cmo-content-marketing
 
-- **描述**: CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cmo-content-marketing/SKILL.md)
+- **中文**: CMO reports 到 CRO Reign dotted line 到 CEO Arthur Dell
+- **EN**: CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell)
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cmo-content-marketing/SKILL.md)
 
 ### dellight-content-marketing
 
-- **描述**: CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell).
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-content-marketing/SKILL.md)
+- **中文**: CMO reports 到 CRO Reign dotted line 到 CEO Arthur Dell
+- **EN**: CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell)
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-content-marketing/SKILL.md)
 
 ### dollar-platoon
 
-- **描述**: Peer-to-peer task payroll marketplace on Base L2.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mevdragon/dollar-platoon/SKILL.md)
-
-### domain
-
-- **描述**: Turn AI into your domain investment expert.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/abtdomain/domain/SKILL.md)
-
-### dwlf
-
-- **描述**: Interact with DWLF (dwlf.co.uk), a market analysis platform for crypto.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/andywilliams/dwlf/SKILL.md)
+- **中文**: Peer 到 peer 任务 payroll marketplace 在 Base L2
+- **EN**: Peer-to-peer task payroll marketplace on Base L2.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mevdragon/dollar-platoon/SKILL.md)
 
 ### economic-incentive-misalignment-detector
 
-- **描述**: Helps identify when marketplace economic incentives systematically favor quantity over quality — creating.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/economic-incentive-misalignment-detector/SKILL.md)
+- **中文**: 帮助 identify when marketplace economic incentives systematically favor quantity o
+- **EN**: Helps identify when marketplace economic incentives systemat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/economic-incentive-misalignment-detector/SKILL.md)
 
 ### email-marketing-2
 
-- **描述**: Build and execute email marketing campaigns for a solopreneur business.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/email-marketing-2/SKILL.md)
+- **中文**: 构建 和 执行 邮件 marketing campaigns 用于 a solopreneur business
+- **EN**: Build and execute email marketing campaigns for a solopreneu
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/email-marketing-2/SKILL.md)
 
 ### engineering-as-marketing
 
-- **描述**: Build free tools to drive organic search traffic and convert visitors into customers — the 'Engineering.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gprecious/engineering-as-marketing/SKILL.md)
-
-### ens-skill
-
-- **描述**: Resolve ENS names (.eth) to Ethereum addresses and vice versa.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ens-skill/SKILL.md)
-
-### eth-readonly
-
-- **描述**: Read-only Ethereum blockchain queries — blocks, transactions, balances, contracts, logs via RPC and Etherscan APIs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/apexfork/eth-readonly/SKILL.md)
+- **中文**: 构建 免费 tools 到 drive organic 搜索 traffic 和 转换 visitors into customers — a Engineer
+- **EN**: Build free tools to drive organic search traffic and convert
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/gprecious/engineering-as-marketing/SKILL.md)
 
 ### ethereum-history
 
-- **描述**: Read-only factual data about historical Ethereum mainnet contracts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cartoonitunes/ethereum-history/SKILL.md)
+- **中文**: 读取 only factual 文件 about historical 以太坊 mainnet contracts
+- **EN**: Read-only factual data about historical Ethereum mainnet con
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cartoonitunes/ethereum-history/SKILL.md)
 
 ### ethereum-wingman
 
-- **描述**: Ethereum development tutor and builder for Scaffold-ETH 2 projects.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jp4g/ethereum-wingman/SKILL.md)
-
-### etoro-apps
-
-- **描述**: Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/marian2js/etoro-apps/SKILL.md)
-
-### etrade-pelosi-bot
-
-- **描述**: Mirror congressional stock trades with automated broker execution and risk management.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mainfraame/etrade-pelosi-bot/SKILL.md)
+- **中文**: 以太坊 development tutor 和 builder 用于 Scaffold ETH 2 projects
+- **EN**: Ethereum development tutor and builder for Scaffold-ETH 2 pr
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jp4g/ethereum-wingman/SKILL.md)
 
 ### ezbookkeeping
 
-- **描述**: ezBookkeeping is a lightweight, self-hosted personal finance app.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping/SKILL.md)
+- **中文**: ezBookkeeping is a lightweight on-premise personal finance 应用
+- **EN**: ezBookkeeping is a lightweight, self-hosted personal finance
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping/SKILL.md)
 
 ### farmos-marketing
 
-- **描述**: Query grain marketing positions, contracts, delivery schedules, inventory, and revenue data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-marketing/SKILL.md)
-
-### fear-and-greed-index
-
-- **描述**: Access the Alternative.me Crypto Fear & Greed Index.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arielcaba-dev/fear-and-greed-index/SKILL.md)
-
-### fear-greed
-
-- **描述**: Embeddable Fear & Greed Index for crypto dashboards.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/fear-greed/SKILL.md)
+- **中文**: 查询 grain marketing positions contracts delivery schedules inventory 和 营收 文件
+- **EN**: Query grain marketing positions, contracts, delivery schedul
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-marketing/SKILL.md)
 
 ### finance
 
-- **描述**: Track stocks, ETFs, indices, crypto (where available), and FX pairs with caching + provider fallbacks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/anton-roos/finance/SKILL.md)
+- **中文**: 追踪 stocks ETFs indices 加密货币 where 可用 和 FX pairs 使用 caching + 提供商 fallbacks
+- **EN**: Track stocks, ETFs, indices, crypto (where available), and F
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/anton-roos/finance/SKILL.md)
 
 ### finance-search-agent
 
-- **描述**: AI agent for finance search agent tasks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent/SKILL.md)
+- **中文**: 人工智能 智能体 用于 finance 搜索 智能体 任务
+- **EN**: AI agent for finance search agent tasks.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent/SKILL.md)
 
 ### finance-search-agent-strategy
 
-- **描述**: AI agent for finance search agent strategy tasks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent-strategy/SKILL.md)
+- **中文**: 人工智能 智能体 用于 finance 搜索 智能体 strategy 任务
+- **EN**: AI agent for finance search agent strategy tasks.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent-strategy/SKILL.md)
 
 ### finance-skill
 
-- **描述**: Personal finance memory layer.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/safaiyeh/finance-skill/SKILL.md)
+- **中文**: Personal finance 记忆 layer
+- **EN**: Personal finance memory layer.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/safaiyeh/finance-skill/SKILL.md)
 
 ### finance-tracker
 
-- **描述**: Complete personal finance management.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md)
+- **中文**: Complete personal finance management
+- **EN**: Complete personal finance management.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md)
+
+### finance-watcher
+
+- **中文**: 股票 和 加密货币 价格 monitoring 使用 alerts 和 daily reports
+- **EN**: Stock and cryptocurrency price monitoring with alerts and da
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/su707181393-del/finance-watcher/SKILL.md)
 
 ### firefly-iii
 
-- **描述**: Manage personal finances via Firefly III API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md)
+- **中文**: Manage personal finances 通过 Firefly III 接口
+- **EN**: Manage personal finances via Firefly III API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md)
 
 ### fluora-setup
 
-- **描述**: Interactive setup wizard for Fluora marketplace integration.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/chetan-guevara/fluora-setup/SKILL.md)
-
-### free-a-share-real-time-data
-
-- **描述**: Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wangdinglu/free-a-share-real-time-data/SKILL.md)
-
-### funding-rate-scanner
-
-- **描述**: Scan crypto funding rates and find arbitrage opportunities.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dagangtj/funding-rate-scanner/SKILL.md)
-
-### gecko-terminal
-
-- **描述**: Query GeckoTerminal market data - networks, DEXes, pools, tokens, OHLCV, trades, and trending/new pools.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/brs999/gecko-terminal/SKILL.md)
-
-### gekko
-
-- **描述**: AI-powered DeFi portfolio manager for Base network.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekko/SKILL.md)
+- **中文**: Interactive 设置 wizard 用于 Fluora marketplace integration
+- **EN**: Interactive setup wizard for Fluora marketplace integration.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/chetan-guevara/fluora-setup/SKILL.md)
 
 ### glowskin-promo
 
-- **描述**: Generate viral marketing content for skincare affiliate products.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/glowskin-promo/SKILL.md)
+- **中文**: 生成 viral marketing 内容 用于 skincare affiliate products
+- **EN**: Generate viral marketing content for skincare affiliate prod
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/glowskin-promo/SKILL.md)
 
 ### go-to-market
 
-- **描述**: Build a go-to-market (GTM) strategy for launching a product or entering a new market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/go-to-market/SKILL.md)
-
-### gtm-system
-
-- **描述**: A Go-To-Market tracking system for Expanso/Prometheus.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aronchick/gtm-system/SKILL.md)
-
-### heurist-mesh
-
-- **描述**: Real-time crypto token data, DeFi analytics, blockchain data, Twitter/X social intelligence, enhanced web search.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wjw12/heurist-mesh/SKILL.md)
+- **中文**: 构建 a go 到 市场 GTM strategy 用于 launching a product 或 entering a 新 市场
+- **EN**: Build a go-to-market (GTM) strategy for launching a product 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/go-to-market/SKILL.md)
 
 ### horse-sticker-maker
 
-- **描述**: Create and deploy a festive Chinese New Year (Year of the Horse 2026) animated GIF sticker maker web app.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jiafar/horse-sticker-maker/SKILL.md)
-
-### htlc
-
-- **描述**: HTLC (Hash Time Locked Contract) trading for inscriptions and NFTs on EVM chains.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/web4agent/htlc/SKILL.md)
+- **中文**: 创建 和 部署 a festive Chinese 新 Year Year 的 a Horse 2026 animated GIF sticker maker 
+- **EN**: Create and deploy a festive Chinese New Year (Year of the Ho
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jiafar/horse-sticker-maker/SKILL.md)
 
 ### hype-scanner
 
-- **描述**: Real-time crypto and stock hype detection using Reddit, CoinGecko, DEXScreener, and StockTwits.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner/SKILL.md)
-
-### hyperliquid
-
-- **描述**: Read-only Hyperliquid market data assistant (perps + spot optional)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid/SKILL.md)
-
-### immortal
-
-- **描述**: Empowers AI agents with crypto resource vitality assessment.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/majestyatenkhu/immortal/SKILL.md)
-
-### indexy
-
-- **描述**: Indexy is a cryptocurrency index management platform that enables AI agents to create, manage, and analyze crypto.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hsantana/indexy/SKILL.md)
+- **中文**: automatic 加密货币 和 股票 hype detection 使用 Reddit CoinGecko DEXScreener 和 StockTwits
+- **EN**: Real-time crypto and stock hype detection using Reddit, Coin
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner/SKILL.md)
 
 ### instagram-marketing
 
-- **描述**: Generate Instagram marketing content from product URLs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/insight68/instagram-marketing/SKILL.md)
+- **中文**: 生成 Instagram marketing 内容 从 product URLs
+- **EN**: Generate Instagram marketing content from product URLs.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/insight68/instagram-marketing/SKILL.md)
 
 ### internet-marketing
 
-- **描述**: Creates practical, low-cost marketing strategies for solo entrepreneurs and small businesses launching new ideas.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xeroc/internet-marketing/SKILL.md)
+- **中文**: Creates practical low 成本 marketing strategies 用于 solo entrepreneurs 和 small busi
+- **EN**: Creates practical, low-cost marketing strategies for solo en
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xeroc/internet-marketing/SKILL.md)
 
 ### investing
 
-- **描述**: Personal investing assistant for Lithuanian investors.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/satnamra/investing/SKILL.md)
+- **中文**: Personal investing assistant 用于 Lithuanian investors
+- **EN**: Personal investing assistant for Lithuanian investors.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/satnamra/investing/SKILL.md)
 
 ### jobforagents
 
-- **描述**: The job marketplace where bots hire bots.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cchacons/jobforagents/SKILL.md)
+- **中文**: a 作业 marketplace where bots hire bots
+- **EN**: The job marketplace where bots hire bots.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cchacons/jobforagents/SKILL.md)
 
 ### jobforbots
 
-- **描述**: The job marketplace where bots hire bots.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cchacons/jobforbots/SKILL.md)
+- **中文**: a 作业 marketplace where bots hire bots
+- **EN**: The job marketplace where bots hire bots.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cchacons/jobforbots/SKILL.md)
 
 ### jup-skill
 
-- **描述**: Execute Jupiter API operations on Solana - fetch quotes, sign transactions, execute swaps, prediction markets.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lifeofpavs/jup-skill/SKILL.md)
+- **中文**: 执行 Jupiter 接口 operations 在 Solana 获取 quotes 签名 transactions 执行 swaps prediction 
+- **EN**: Execute Jupiter API operations on Solana - fetch quotes, sig
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lifeofpavs/jup-skill/SKILL.md)
+
+### justpayai
+
+- **中文**: 人工智能 智能体 marketplace & 支付 — hire agents 发布 jobs 运行 campaigns earn USDC 在 Solana
+- **EN**: AI agent marketplace & payments — hire agents, post jobs, ru
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nemanja-lootbox/justpayai/SKILL.md)
 
 ### kalshi-agent
 
-- **描述**: Kalshi prediction market agent - analyzes markets and executes trades via the Kalshi v2 API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jthomasdevs/kalshi-agent/SKILL.md)
+- **中文**: Kalshi prediction 市场 智能体 analyzes markets 和 executes trades 通过 a Kalshi v2 接口
+- **EN**: Kalshi prediction market agent - analyzes markets and execut
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jthomasdevs/kalshi-agent/SKILL.md)
 
 ### kit-email-operator
 
-- **描述**: **AI-powered email marketing for Kit (ConvertKit)**.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kevjade/kit-email-operator/SKILL.md)
+- **中文**: **AI by 邮件 marketing 用于 Kit ConvertKit **
+- **EN**: **AI-powered email marketing for Kit (ConvertKit)**.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kevjade/kit-email-operator/SKILL.md)
 
 ### knowbster
 
-- **描述**: AI Agent Knowledge Marketplace on Base L2.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/robertoono/knowbster/SKILL.md)
-
-### kraken-pro
-
-- **描述**: Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro/SKILL.md)
+- **中文**: 人工智能 智能体 知识 Marketplace 在 Base L2
+- **EN**: AI Agent Knowledge Marketplace on Base L2.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/robertoono/knowbster/SKILL.md)
 
 ### larry
 
-- **描述**: Automate TikTok slideshow marketing for any app or product.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/olliewazza/larry/SKILL.md)
+- **中文**: 自动化 抖音 slideshow marketing 用于 any 应用 或 product
+- **EN**: Automate TikTok slideshow marketing for any app or product.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/olliewazza/larry/SKILL.md)
 
 ### larrybrain
 
-- **描述**: Skill marketplace for OpenClaw agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/olliewazza/larrybrain/SKILL.md)
-
-### lightningprox
-
-- **描述**: Pay-per-request AI model access via Bitcoin Lightning using prepaid spend tokens.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/lightningprox/SKILL.md)
-
-### lunchtable-tcg
-
-- **描述**: Play LunchTable-TCG, a Yu-Gi-Oh-inspired online trading card.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dexploarer/lunchtable-tcg/SKILL.md)
+- **中文**: 技能 marketplace 用于 OpenClaw agents
+- **EN**: Skill marketplace for OpenClaw agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/olliewazza/larrybrain/SKILL.md)
 
 ### lygo-champion-cryptosophia-soulforger
 
-- **描述**: LYGO Δ9 Council branch persona helper (CRYPTOSOPHIA, The Memetic Soulforger)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cryptosophia-soulforger/SKILL.md)
+- **中文**: LYGO Δ9 Council 分支 persona helper CRYPTOSOPHIA a Memetic Soulforger
+- **EN**: LYGO Δ9 Council branch persona helper (CRYPTOSOPHIA, The Mem
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cryptosophia-soulforger/SKILL.md)
 
 ### lyra-coin-launch-manager
 
-- **描述**: Coin launch memory + verification workflow for Clawnch (4claw/Moltx/Moltbook)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md)
-
-### maccabi-pharm-search
-
-- **描述**: Check medication stock at Maccabi pharmacies in Israel.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md)
+- **中文**: 币 launch 记忆 + verification 工作流 用于 Clawnch 4claw/Moltx/Moltbook
+- **EN**: Coin launch memory + verification workflow for Clawnch (4cla
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md)
 
 ### mailtarget-email
 
-- **描述**: Send transactional and marketing emails via Mailtarget API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/masasdani/mailtarget-email/SKILL.md)
+- **中文**: 发送 transactional 和 marketing emails 通过 Mailtarget 接口
+- **EN**: Send transactional and marketing emails via Mailtarget API.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/masasdani/mailtarget-email/SKILL.md)
 
 ### market-research-2
 
-- **描述**: Conduct structured market research for a solopreneur business.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jk-0001/market-research-2/SKILL.md)
+- **中文**: Conduct structured 市场 research 用于 a solopreneur business
+- **EN**: Conduct structured market research for a solopreneur busines
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jk-0001/market-research-2/SKILL.md)
 
 ### market-structure
 
-- **描述**: Read and analyze market structure for any trading instrument like a professional trader.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dromlakhani/market-structure/SKILL.md)
+- **中文**: 读取 和 分析 市场 structure 用于 any 交易 instrument 点赞 a professional trader
+- **EN**: Read and analyze market structure for any trading instrument
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dromlakhani/market-structure/SKILL.md)
 
 ### marketing-strategy-pmm
 
-- **描述**: Product marketing skill for positioning, GTM strategy, competitive intelligence, and product launches.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/marketing-strategy-pmm/SKILL.md)
+- **中文**: Product marketing 技能 用于 positioning GTM strategy competitive intelligence 和 prod
+- **EN**: Product marketing skill for positioning, GTM strategy, compe
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/marketing-strategy-pmm/SKILL.md)
 
 ### marketplace-clis
 
-- **描述**: Spanish marketplace CLIs: Wallapop.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pjtf93)
+- **中文**: Spanish marketplace CLIs Wallapop
+- **EN**: Spanish marketplace CLIs: Wallapop.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/pjtf93)
 
 ### master-marketing
 
-- **描述**: All-in-one marketing engine combining growth strategy, content remixing, and trend monitoring.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/master-marketing/SKILL.md)
+- **中文**: 全部 在 one marketing 引擎 combining growth strategy 内容 remixing 和 trend monitoring
+- **EN**: All-in-one marketing engine combining growth strategy, conte
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/master-marketing/SKILL.md)
 
 ### meatmarket
 
-- **描述**: MeatMarket.fun is a FREE job board for AI to hire to humans.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nickjuntilla/meatmarket/SKILL.md)
-
-### meme-signal
-
-- **描述**: Free meme coin signal scanner.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/weidadong2359/meme-signal/SKILL.md)
-
-### metals-desk-os
-
-- **描述**: Institutional Desk-Level Fully Automated Trading OS for XAU/USD and XAG/USD.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cfilipemt/metals-desk-os/SKILL.md)
-
-### mobula
-
-- **描述**: Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/flotapponnier/mobula/SKILL.md)
+- **中文**: MeatMarket fun is a 免费 作业 board 用于 人工智能 到 hire 到 humans
+- **EN**: MeatMarket.fun is a FREE job board for AI to hire to humans.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/nickjuntilla/meatmarket/SKILL.md)
 
 ### moltlist-marketplace
 
-- **描述**: Interact with the moltlist.com agent.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md)
-
-### monolith
-
-- **描述**: Secure crypto wallet for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/slaviquee/monolith/SKILL.md)
-
-### moonfunsdk
-
-- **描述**: Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/moonnfunofficial/moonfunsdk/SKILL.md)
-
-### mt5-httpapi
-
-- **描述**: MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md)
-
-### mt5trade
-
-- **描述**: Call local MT5 trading HTTP API (signal → draft → confirm) with safety confirmation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xuanyushen19/mt5trade/SKILL.md)
-
-### multi-factor-strategy
-
-- **描述**: Guide users to create multi-factor stock selection strategies and generate independent YAML configuration files.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wumu2013/multi-factor-strategy/SKILL.md)
-
-### multichain-protocol
-
-- **描述**: Turn any AI agent into a 19-chain crypto wallet via MeneseSDK on ICP.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol/SKILL.md)
+- **中文**: Interact 使用 a moltlist com 智能体
+- **EN**: Interact with the moltlist.com agent.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md)
 
 ### myosin-hivemind
 
-- **描述**: Search Hivemind's curated Web3 marketing knowledge base (RAG) for practitioner insights, frameworks, playbooks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/divine-comedian/myosin-hivemind/SKILL.md)
+- **中文**: 搜索 Hivemind s curated Web3 marketing 知识 base RAG 用于 practitioner insights framew
+- **EN**: Search Hivemind's curated Web3 marketing knowledge base (RAG
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/divine-comedian/myosin-hivemind/SKILL.md)
 
 ### nadfunagent
 
-- **描述**: Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/encipher88/nadfunagent/SKILL.md)
+- **中文**: Autonomous 交易 智能体 用于 Nad fun 那个 scans markets analyzes 令牌 executes trades 和 dist
+- **EN**: Autonomous trading agent for Nad.fun that scans markets, ana
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/encipher88/nadfunagent/SKILL.md)
 
 ### nansi
 
-- **描述**: Build stunning websites, landing pages, portfolios, and web apps by chatting with Nansi on WhatsApp.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fordodev/nansi/SKILL.md)
+- **中文**: 构建 stunning websites landing pages portfolios 和 web apps 由 chatting 使用 Nansi 在 W
+- **EN**: Build stunning websites, landing pages, portfolios, and web 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fordodev/nansi/SKILL.md)
 
 ### ned-analytics
 
-- **描述**: Query your Shopify store's sales, profitability, customers, and marketing data through Ned's API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/matt998759/ned-analytics/SKILL.md)
+- **中文**: 查询 你的 Shopify store s sales profitability customers 和 marketing 文件 通过 Ned s 接口
+- **EN**: Query your Shopify store's sales, profitability, customers, 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/matt998759/ned-analytics/SKILL.md)
 
 ### niche
 
-- **描述**: Trading card marketplace with partial USDC deposits.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/niche/SKILL.md)
-
-### nk-images-search
-
-- **描述**: Search 1+ million free high-quality AI stock photos.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tompltw/nk-images-search/SKILL.md)
-
-### nofx
-
-- **描述**: NOFX AI Trading OS integration - crypto market data, AI trading signals, strategy management, trader control.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tinkle-community/nofx/SKILL.md)
-
-### nofx-ai500-report
-
-- **描述**: Generate periodic crypto market intelligence reports from the NOFX AI500 system.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tinkle-community/nofx-ai500-report/SKILL.md)
-
-### onchain
-
-- **描述**: CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arein/onchain/SKILL.md)
-
-### onchain-test
-
-- **描述**: CLI for crypto portfolio tracking, market data, and CEX history.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/arein/onchain-test/SKILL.md)
+- **中文**: 交易 card marketplace 使用 部分 USDC deposits
+- **EN**: Trading card marketplace with partial USDC deposits.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/niche/SKILL.md)
 
 ### openbotauth
 
-- **描述**: Cryptographic identity for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hammadtq/openbotauth/SKILL.md)
+- **中文**: Cryptographic identity 用于 人工智能 agents
+- **EN**: Cryptographic identity for AI agents.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hammadtq/openbotauth/SKILL.md)
 
 ### opengfx
 
-- **描述**: AI brand design system — logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aklo360/opengfx/SKILL.md)
+- **中文**: 人工智能 brand design 系统 — logo systems brand mascots 社交 assets 和 在 brand marketing 
+- **EN**: AI brand design system — logo systems, brand mascots, social
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aklo360/opengfx/SKILL.md)
 
 ### openjobs
 
-- **描述**: The job marketplace where bots hire bots.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cchacons/openjobs/SKILL.md)
+- **中文**: a 作业 marketplace where bots hire bots
+- **EN**: The job marketplace where bots hire bots.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cchacons/openjobs/SKILL.md)
 
 ### opentask-worker
 
-- **描述**: Autonomous worker agent for OpenTask.ai — the agent-to-agent task marketplace.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/opentask-worker/SKILL.md)
-
-### options-strategies
-
-- **描述**: Comprehensive guide and execution framework for popular options trading strategies.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dromlakhani/options-strategies/SKILL.md)
-
-### ordiscan
-
-- **描述**: Inscribe content on Bitcoin via the Ordiscan API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/t4t5/ordiscan/SKILL.md)
+- **中文**: Autonomous worker 智能体 用于 OpenTask 人工智能 — a 智能体 到 智能体 任务 marketplace
+- **EN**: Autonomous worker agent for OpenTask.ai — the agent-to-agent
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/opentask-worker/SKILL.md)
 
 ### osint-investigator
 
-- **描述**: Deep OSINT (Open Source Intelligence) investigations.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/cineglobe/osint-investigator/SKILL.md)
-
-### passive-income-tracker
-
-- **描述**: Track all your passive income crypto apps from one place.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mariusfit/passive-income-tracker/SKILL.md)
+- **中文**: Deep OSINT self-hosted Intelligence investigations
+- **EN**: Deep OSINT (Open Source Intelligence) investigations.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/cineglobe/osint-investigator/SKILL.md)
 
 ### paypol
 
-- **描述**: Hire 32 on-chain AI agents from the PayPol Marketplace on Tempo L1.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/paypol-protocol/paypol/SKILL.md)
-
-### paytoll
-
-- **描述**: 27 tools for DeFi, DEX swaps, cross-chain bridges, Twitter/X, on-chain token data, crypto utilities, and LLM access.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/foodaka/paytoll/SKILL.md)
+- **中文**: Hire 32 在 chain 人工智能 agents 从 a PayPol Marketplace 在 Tempo L1
+- **EN**: Hire 32 on-chain AI agents from the PayPol Marketplace on Te
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/paypol-protocol/paypol/SKILL.md)
 
 ### persistent-private-agent-memory
 
-- **描述**: Run a local Agent Memory Service for persistent self-improvement with proper Ed25519 cryptography.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lucaspdude/persistent-private-agent-memory/SKILL.md)
+- **中文**: 运行 a 本地 智能体 记忆 服务 用于 persistent self improvement 使用 proper Ed25519 cryptography
+- **EN**: Run a local Agent Memory Service for persistent self-improve
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lucaspdude/persistent-private-agent-memory/SKILL.md)
 
 ### pi
 
-- **描述**: Personal investigator / people lookup skill.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/pi/SKILL.md)
-
-### pilt
-
-- **描述**: Access Pilt fundraising data -- investor matches, campaign stats, outreach events, and deck analysis.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/babpilt/pilt/SKILL.md)
+- **中文**: Personal investigator / people 查找 技能
+- **EN**: Personal investigator / people lookup skill.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/pi/SKILL.md)
 
 ### pls-marketing-ideas
 
-- **描述**: Generate campaign concepts, viral hooks, and marketing strategies that go beyond "buy my product." Use when: (1)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-marketing-ideas/SKILL.md)
-
-### plugy
-
-- **描述**: Solana trading skill for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/qualitydude/plugy/SKILL.md)
-
-### plusefin-analysis
-
-- **描述**: AI-ready stock analysis - ticker data, options, sentiment, predictions.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wanghsinche/plusefin-analysis/SKILL.md)
-
-### pond3r-skill
-
-- **描述**: Query crypto intelligence via Pond3r MCP — curated datasets, SQL queries, protocol metrics, yields, and market.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/pond3r-skill/SKILL.md)
-
-### popup-referrals
-
-- **描述**: Check your PopUp referral link, track earnings, and see referred vendor status.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/eliaskress/popup-referrals/SKILL.md)
+- **中文**: 生成 campaign concepts viral hooks 和 marketing strategies 那个 go beyond 买入 我的 produ
+- **EN**: Generate campaign concepts, viral hooks, and marketing strat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-marketing-ideas/SKILL.md)
 
 ### portfolio-tracker
 
-- **描述**: Automates live portfolio tracking and analysis using browser automation on Yahoo Finance.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/vachanalaviswanath/portfolio-tracker/SKILL.md)
+- **中文**: Automates 直播 投资组合 tracking 和 analysis 使用 browser automation 在 Yahoo Finance
+- **EN**: Automates live portfolio tracking and analysis using browser
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/vachanalaviswanath/portfolio-tracker/SKILL.md)
 
 ### portfolio-tracking-skill
 
-- **描述**: An investment portfolio tracker that runs entirely locally.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill/SKILL.md)
+- **中文**: 一个投资 投资组合 追踪器 那个 runs entirely locally
+- **EN**: An investment portfolio tracker that runs entirely locally.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill/SKILL.md)
+
+### portfolio-watcher
+
+- **中文**: 监控 stock/crypto holdings 获取 价格 alerts 追踪 投资组合 performance
+- **EN**: Monitor stock/crypto holdings, get price alerts, track portf
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/jhillin8/portfolio-watcher/SKILL.md)
 
 ### prediction-market-bot-dawn
 
-- **描述**: Runs the full Dawn CLI strategy lifecycle from authentication and funding through strategy creation, launch.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/njdawn/prediction-market-bot-dawn/SKILL.md)
-
-### presage
-
-- **描述**: Connect to Presage prediction market terminal on Solana (powered by Kalshi)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/seenfinity/presage/SKILL.md)
+- **中文**: Runs a 完整 Dawn 命令行 strategy lifecycle 从 身份验证 和 funding 通过 strategy creation laun
+- **EN**: Runs the full Dawn CLI strategy lifecycle from authenticatio
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/njdawn/prediction-market-bot-dawn/SKILL.md)
 
 ### qrcoin
 
-- **描述**: Interact with QR Coin auctions on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/ktaesthetix/qrcoin/SKILL.md)
+- **中文**: Interact 使用 QR 币 auctions 在 Base
+- **EN**: Interact with QR Coin auctions on Base.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/ktaesthetix/qrcoin/SKILL.md)
 
 ### quotly-style-sticker
 
-- **描述**: Generate QuotLy-style stickers from OpenClaw context and return MEDIA for auto-send.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sakullla/quotly-style-sticker/SKILL.md)
+- **中文**: 生成 QuotLy style stickers 从 OpenClaw 上下文 和 回报 媒体 用于 auto 发送
+- **EN**: Generate QuotLy-style stickers from OpenClaw context and ret
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sakullla/quotly-style-sticker/SKILL.md)
 
 ### reef-polymarket-research
 
-- **描述**: Autonomous Polymarket research and directional trading system focused on maximizing PnL through information edge.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research/SKILL.md)
-
-### renzo
-
-- **描述**: Query Renzo crypto liquid restaking protocol — DeFi vault yields, TVL, ezETH exchange rates, EigenLayer operators.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pooleja/renzo/SKILL.md)
+- **中文**: Autonomous Polymarket research 和 directional 交易 系统 focused 在 maximizing PnL 通过 i
+- **EN**: Autonomous Polymarket research and directional trading syste
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research/SKILL.md)
 
 ### revenue-calculator
 
-- **描述**: Projects revenue for OpenClaw sub-agent strategies (marketplace, subs, pay-per-task)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/twood2024/revenue-calculator/SKILL.md)
-
-### rho-signals
-
-- **描述**: Real-time crypto TA signals for BTC, ETH, SOL, XRP.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-signals/SKILL.md)
-
-### rho-telegram-alerts
-
-- **描述**: Send formatted trading alerts, portfolio updates, and market signals via Telegram.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-telegram-alerts/SKILL.md)
+- **中文**: Projects 营收 用于 OpenClaw sub 智能体 strategies marketplace subs pay per 任务
+- **EN**: Projects revenue for OpenClaw sub-agent strategies (marketpl
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/twood2024/revenue-calculator/SKILL.md)
 
 ### riskofficer
 
-- **描述**: Manage investment portfolios, calculate risk metrics.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mib424242/riskofficer/SKILL.md)
-
-### robodotfun
-
-- **描述**: AI prediction market platform.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/silencepolicy/robodotfun/SKILL.md)
-
-### robonet-workbench
-
-- **描述**: Use Robonet's MCP server to build, backtest, optimize, and deploy trading strategies.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nickemmons/robonet-workbench/SKILL.md)
-
-### rollhub-affiliate
-
-- **描述**: Earn crypto promoting provably fair AI casino.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-affiliate/SKILL.md)
-
-### rollhub-analyst
-
-- **描述**: Research and backtest gambling strategies on provably fair crypto casino.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-analyst/SKILL.md)
-
-### rollhub-casino
-
-- **描述**: Provably fair crypto casino API for AI agents and humans.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-casino/SKILL.md)
+- **中文**: Manage 投资 portfolios calculate risk metrics
+- **EN**: Manage investment portfolios, calculate risk metrics.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mib424242/riskofficer/SKILL.md)
 
 ### sap-fico-australia
 
-- **描述**: Senior SAP Finance & Controlling consultant with Australian business expertise.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/lynnigpt/sap-fico-australia/SKILL.md)
+- **中文**: Senior SAP Finance & Controlling consultant 使用 Australian business expertise
+- **EN**: Senior SAP Finance & Controlling consultant with Australian 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/lynnigpt/sap-fico-australia/SKILL.md)
 
 ### seedstr
 
-- **描述**: A marketplace connecting AI agents with humans who need tasks completed.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mastersyondgy/seedstr/SKILL.md)
+- **中文**: 一个marketplace connecting 人工智能 agents 使用 humans who need 任务 已完成
+- **EN**: A marketplace connecting AI agents with humans who need task
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mastersyondgy/seedstr/SKILL.md)
 
 ### sell-evoweb-ai
 
-- **描述**: Create AI-First Website with GEO (Generative Engine Optimization) and marketing rules to convert visitors into leads.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/galizki/sell-evoweb-ai/SKILL.md)
+- **中文**: 创建 人工智能 First Website 使用 GEO Generative 引擎 Optimization 和 marketing rules 到 转换 v
+- **EN**: Create AI-First Website with GEO (Generative Engine Optimiza
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/galizki/sell-evoweb-ai/SKILL.md)
 
 ### senddy
 
-- **描述**: Create and manage private stablecoin wallets using Senddy's zero-knowledge protocol on Base.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mattt21/senddy/SKILL.md)
+- **中文**: 创建 和 manage 私密 stablecoin wallets 使用 Senddy s zero 知识 protocol 在 Base
+- **EN**: Create and manage private stablecoin wallets using Senddy's 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mattt21/senddy/SKILL.md)
 
 ### sensorpro
 
-- **描述**: Manage your Sensorpro email marketing account in OpenClaw.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/forcequit/sensorpro/SKILL.md)
+- **中文**: Manage 你的 Sensorpro 邮件 marketing account 在 OpenClaw
+- **EN**: Manage your Sensorpro email marketing account in OpenClaw.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/forcequit/sensorpro/SKILL.md)
 
 ### sev-attestation
 
-- **描述**: Perform AMD SEV-SNP remote attestation to cryptographically verify VM identity and integrity.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/xinyuwang/sev-attestation/SKILL.md)
-
-### shipmytoken
-
-- **描述**: Launch Solana tokens on Pumpfun, manage fee sharing, claim earnings, and track portfolio.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/new-ground/shipmytoken/SKILL.md)
+- **中文**: Perform AMD SEV SNP 远程 attestation 到 cryptographically 验证 VM identity 和 integrit
+- **EN**: Perform AMD SEV-SNP remote attestation to cryptographically 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/xinyuwang/sev-attestation/SKILL.md)
 
 ### skill-earnings-tracker
 
-- **描述**: Economic tracking for agent skill marketplaces.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kylechen26/skill-earnings-tracker/SKILL.md)
+- **中文**: Economic tracking 用于 智能体 技能 marketplaces
+- **EN**: Economic tracking for agent skill marketplaces.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kylechen26/skill-earnings-tracker/SKILL.md)
+
+### skillzmarket
+
+- **中文**: 搜索 和 call monetized 人工智能 skills 从 Skillz 市场 使用 automatic USDC 支付 在 Base
+- **EN**: Search and call monetized AI skills from Skillz Market with 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hiich/skillzmarket/SKILL.md)
+
+### slopwork-marketplace
+
+- **中文**: Solana by 任务 marketplace 使用 multisig escrow 支付 发布 任务 出价 在 工作 escrow funds 和 发布
+- **EN**: Solana-powered task marketplace with multisig escrow payment
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/heyhal9000/slopwork-marketplace/SKILL.md)
 
 ### sokosumi
 
-- **描述**: Hire sub-agents from Sokosumi marketplace to perform specialized tasks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md)
+- **中文**: Hire sub agents 从 Sokosumi marketplace 到 perform specialized 任务
+- **EN**: Hire sub-agents from Sokosumi marketplace to perform special
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md)
 
-### solana-sniper-architect
+### solana-dev-rent-free
 
-- **描述**: Description: A specialized coding assistant that generates high-frequency Solana trading bots using Jupiter v6.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wterry57/solana-sniper-architect/SKILL.md)
-
-### solo-research
-
-- **描述**: Deep market research — competitor analysis, user pain points, SEO/ASO keywords, naming/domain availability.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-research/SKILL.md)
+- **中文**: 构建 Solana applications 200x cheaper 用于 stablecoin 支付 智能体 支付 DeFi airdrops 代币 dis
+- **EN**: Build Solana applications 200x cheaper for stablecoin paymen
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-dev-rent-free/SKILL.md)
 
 ### solo-swarm
 
-- **描述**: Launch 3 parallel research agents (market, users, tech) to investigate an idea from multiple angles simultaneously.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-swarm/SKILL.md)
+- **中文**: Launch 3 parallel research agents 市场 users tech 到 investigate an idea 从 多个 angle
+- **EN**: Launch 3 parallel research agents (market, users, tech) to i
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-swarm/SKILL.md)
 
 ### solvera
 
-- **描述**: Solvera is an on-chain marketplace where agents compete to deliver verifiable outcomes.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/densmirnov/solvera/SKILL.md)
+- **中文**: Solvera is an 在 chain marketplace where agents compete 到 deliver verifiable outc
+- **EN**: Solvera is an on-chain marketplace where agents compete to d
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/densmirnov/solvera/SKILL.md)
 
 ### soul-markets
 
-- **描述**: Soul.Markets SDK for AI agent commerce.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tormine/soul-markets/SKILL.md)
+- **中文**: Soul Markets 开发包 用于 人工智能 智能体 commerce
+- **EN**: Soul.Markets SDK for AI agent commerce.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tormine/soul-markets/SKILL.md)
 
 ### sovereign-id
 
-- **描述**: Enables the agent to manage its own identity (DID) and generate cryptographic proofs for B2B and B2C trust.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/tamtunnel/sovereign-id/SKILL.md)
-
-### sparkbtcbot
-
-- **描述**: Set up Spark Bitcoin L2 wallet capabilities for AI agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot/SKILL.md)
-
-### sparkbtcbot-proxy
-
-- **描述**: Use a Spark Bitcoin L2 wallet proxy for AI agents via HTTP API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy/SKILL.md)
-
-### sparkbtcbot-proxy-deploy
-
-- **描述**: Deploy a serverless Spark Bitcoin L2 proxy on Vercel with spending limits, auth, and Redis logging.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy-deploy/SKILL.md)
-
-### stanley-druckenmiller-workflow
-
-- **描述**: Druckenmiller style market analysis in natural Chinese with a living PM memo voice.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/luckycatl/stanley-druckenmiller-workflow/SKILL.md)
+- **中文**: Enables a 智能体 到 manage its own identity DID 和 生成 cryptographic proofs 用于 B2B 和 B
+- **EN**: Enables the agent to manage its own identity (DID) and gener
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/tamtunnel/sovereign-id/SKILL.md)
 
 ### stock-analysis
 
-- **描述**: Analyze stocks and cryptocurrencies using Yahoo Finance data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/stock-analysis/SKILL.md)
+- **中文**: 分析 stocks 和 cryptocurrencies 使用 Yahoo Finance 文件
+- **EN**: Analyze stocks and cryptocurrencies using Yahoo Finance data
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/stock-analysis/SKILL.md)
 
 ### stock-analysis-6
 
-- **描述**: Analyze stocks and cryptocurrencies using Yahoo Finance data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sunerw-dev/stock-analysis-6/SKILL.md)
+- **中文**: 分析 stocks 和 cryptocurrencies 使用 Yahoo Finance 文件
+- **EN**: Analyze stocks and cryptocurrencies using Yahoo Finance data
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/sunerw-dev/stock-analysis-6/SKILL.md)
 
 ### stock-analysis-6-2-0
 
-- **描述**: Analyze stocks and cryptocurrencies using Yahoo Finance data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/squally2k/stock-analysis-6-2-0/SKILL.md)
+- **中文**: 分析 stocks 和 cryptocurrencies 使用 Yahoo Finance 文件
+- **EN**: Analyze stocks and cryptocurrencies using Yahoo Finance data
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/squally2k/stock-analysis-6-2-0/SKILL.md)
 
 ### stock-copilot-pro
 
-- **描述**: OpenClaw stock analysis skill for US/HK/CN markets.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/buxibuxi/stock-copilot-pro/SKILL.md)
+- **中文**: OpenClaw 股票 analysis 技能 用于 US/HK/CN markets
+- **EN**: OpenClaw stock analysis skill for US/HK/CN markets.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/buxibuxi/stock-copilot-pro/SKILL.md)
 
 ### stock-data-skill
 
-- **描述**: Fetch comprehensive stock data from Simplywall.st.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/stock-data-skill/SKILL.md)
+- **中文**: 获取 comprehensive 股票 文件 从 Simplywall st
+- **EN**: Fetch comprehensive stock data from Simplywall.st.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/stock-data-skill/SKILL.md)
 
 ### stock-evaluator
 
-- **描述**: Comprehensive evaluation of potential stock investments combining valuation analysis, fundamental research.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/demandgap/stock-evaluator/SKILL.md)
+- **中文**: Comprehensive evaluation 的 potential 股票 investments combining valuation analysis
+- **EN**: Comprehensive evaluation of potential stock investments comb
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/demandgap/stock-evaluator/SKILL.md)
 
 ### stock-watcher
 
-- **描述**: Manage and monitor a personal stock watchlist with support for adding, removing, listing stocks, and summarizing.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/robin797860/stock-watcher/SKILL.md)
-
-### stonebornbot
-
-- **描述**: High-speed NFT mint bot for Ethereum and EVM chains.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/olawoyin206/stonebornbot/SKILL.md)
+- **中文**: Manage 和 监控 a personal 股票 watchlist 使用 support 用于 adding removing listing stocks
+- **EN**: Manage and monitor a personal stock watchlist with support f
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/robin797860/stock-watcher/SKILL.md)
 
 ### supermarket
 
-- **描述**: Search grocery products, find store locations, add items to cart, and view profile across all Kroger-family stores.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/niemesrw/supermarket/SKILL.md)
-
-### supurr-hyperliquid
-
-- **描述**: Backtest, deploy, and monitor trading bots on Hyperliquid.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/yashagarwal1994/supurr-hyperliquid/SKILL.md)
+- **中文**: 搜索 grocery products 查找 store locations 添加 items 到 cart 和 view profile across 全部 
+- **EN**: Search grocery products, find store locations, add items to 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/niemesrw/supermarket/SKILL.md)
 
 ### synth-data
 
-- **描述**: Query volatility forecasts from Synthdata.co for crypto, commodities, and stocks.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/emsin44/synth-data/SKILL.md)
-
-### talkspresso
-
-- **描述**: Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/baron-talkspresso/talkspresso/SKILL.md)
+- **中文**: 查询 volatility forecasts 从 Synthdata co 用于 加密货币 commodities 和 stocks
+- **EN**: Query volatility forecasts from Synthdata.co for crypto, com
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/emsin44/synth-data/SKILL.md)
 
 ### tbot-controller
 
-- **描述**: Operate TradingBoat/TBOT (TBOT runtime stack) via a controlled automation interface (DB-first queries; lifecycle.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/plusgenie/tbot-controller/SKILL.md)
+- **中文**: Operate TradingBoat/TBOT TBOT runtime stack 通过 a controlled automation interface
+- **EN**: Operate TradingBoat/TBOT (TBOT runtime stack) via a controll
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/plusgenie/tbot-controller/SKILL.md)
 
 ### tg-sticker-emoji-mood
 
-- **描述**: Automatically send Telegram stickers and emojis that match the mood and vibe of the conversation.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/dandysuper/tg-sticker-emoji-mood/SKILL.md)
+- **中文**: Automatically 发送 Telegram stickers 和 emojis 那个 match a mood 和 vibe 的 a 对话
+- **EN**: Automatically send Telegram stickers and emojis that match t
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/dandysuper/tg-sticker-emoji-mood/SKILL.md)
 
 ### theothers
 
-- **描述**: Agent-powered marketplace for human connection.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/richardtkemp/theothers/SKILL.md)
+- **中文**: 智能体 by marketplace 用于 human connection
+- **EN**: Agent-powered marketplace for human connection.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/richardtkemp/theothers/SKILL.md)
 
 ### tiktok-viral-marketing
 
-- **描述**: Hire TikTok creators who specialize in viral content creation, trending challenges, and explosive reach campaigns.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-viral-marketing/SKILL.md)
-
-### tokendraft
-
-- **描述**: Full suite for TokenDraft fantasy crypto tournaments — authenticate with a Solana wallet, query/join/auto-join.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/nikzt/tokendraft/SKILL.md)
-
-### torchliquidationagent
-
-- **描述**: Read-only lending market scanner for Torch Market on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationagent/SKILL.md)
-
-### torchliquidationbot
-
-- **描述**: Autonomous vault-based liquidation keeper for Torch Market lending on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationbot/SKILL.md)
+- **中文**: Hire 抖音 creators who specialize 在 viral 内容 creation trending challenges 和 explos
+- **EN**: Hire TikTok creators who specialize in viral content creatio
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-viral-marketing/SKILL.md)
 
 ### torchmarket
 
-- **描述**: Torch Vault is a full-custody on-chain escrow for AI agents on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchmarket/SKILL.md)
+- **中文**: Torch 保险库 is a 完整 custody 在 chain escrow 用于 人工智能 agents 在 Solana
+- **EN**: Torch Vault is a full-custody on-chain escrow for AI agents 
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchmarket/SKILL.md)
 
 ### torchpredictionmarketkit
 
-- **描述**: Autonomous vault-based prediction market bot for Torch Market on Solana.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchpredictionmarketkit/SKILL.md)
+- **中文**: Autonomous 保险库 on prediction 市场 机器人 用于 Torch 市场 在 Solana
+- **EN**: Autonomous vault-based prediction market bot for Torch Marke
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchpredictionmarketkit/SKILL.md)
 
 ### trading-tournament
 
-- **描述**: Run autonomous multi-agent trading competitions on OKX. 5 AI agents compete with real-time market data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament/SKILL.md)
+- **中文**: 运行 autonomous multi 智能体 交易 competitions 在 OKX 5 人工智能 agents compete 使用 automatic
+- **EN**: Run autonomous multi-agent trading competitions on OKX. 5 AI
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament/SKILL.md)
 
 ### trading-upbit-skill
 
-- **描述**: Upbit automated trading (aggressive breakout) with cron-friendly run-once commands, TopVolume monitoring.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kuns9/trading-upbit-skill/SKILL.md)
+- **中文**: Upbit automated 交易 aggressive breakout 使用 cron friendly 运行 once commands TopVolu
+- **EN**: Upbit automated trading (aggressive breakout) with cron-frie
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kuns9/trading-upbit-skill/SKILL.md)
 
 ### tradingview-screener
 
-- **描述**: Screen markets across 6 asset classes using TradingView data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hiehoo/tradingview-screener/SKILL.md)
+- **中文**: Screen markets across 6 asset classes 使用 TradingView 文件
+- **EN**: Screen markets across 6 asset classes using TradingView data
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/hiehoo/tradingview-screener/SKILL.md)
 
 ### trendyol-admin
 
-- **描述**: Comprehensive management of Trendyol marketplace via API v2.0.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/awelab/trendyol-admin/SKILL.md)
-
-### trifle-auth
-
-- **描述**: Authenticate with the Trifle API using Sign-In with Ethereum (SIWE)
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth/SKILL.md)
-
-### tushare-base
-
-- **描述**: Fetch Chinese stock and futures market data via Tushare API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/wdblink/tushare-base/SKILL.md)
+- **中文**: Comprehensive management 的 Trendyol marketplace 通过 接口 v2 0
+- **EN**: Comprehensive management of Trendyol marketplace via API v2.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/awelab/trendyol-admin/SKILL.md)
 
 ### tv-strategy-settings
 
-- **描述**: Open and modify TradingView strategy settings on the current chart page.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mariuswang007/tv-strategy-settings/SKILL.md)
+- **中文**: 开放 和 modify TradingView strategy settings 在 a 当前 chart 页面
+- **EN**: Open and modify TradingView strategy settings on the current
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/mariuswang007/tv-strategy-settings/SKILL.md)
 
 ### tvscreener
 
-- **描述**: Query TradingView screener data for HK, A-share, A-share ETF, and US symbols with deepentropy/tvscreener.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/subway-chenyan/tvscreener/SKILL.md)
+- **中文**: 查询 TradingView screener 文件 用于 HK A 分享 A 分享 ETF 和 US symbols 使用 deepentropy/tvscr
+- **EN**: Query TradingView screener data for HK, A-share, A-share ETF
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/subway-chenyan/tvscreener/SKILL.md)
 
 ### upbit-market-data-skill
 
-- **描述**: A CLI-based OpenClaw skill that fetches quotation/market data from the Upbit Open API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kuns9/upbit-market-data-skill/SKILL.md)
+- **中文**: 一个命令行 on OpenClaw 技能 那个 fetches quotation/market 文件 从 a Upbit 开放 接口
+- **EN**: A CLI-based OpenClaw skill that fetches quotation/market dat
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/kuns9/upbit-market-data-skill/SKILL.md)
 
 ### update-signature-verifier
 
-- **描述**: Helps verify the cryptographic integrity of skill updates by checking whether each version is signed.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/update-signature-verifier/SKILL.md)
+- **中文**: 帮助 验证 a cryptographic integrity 的 技能 updates 由 checking whether each 版本 is signe
+- **EN**: Helps verify the cryptographic integrity of skill updates by
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/update-signature-verifier/SKILL.md)
 
 ### upstream-recon
 
-- **描述**: Investigate an open-source project before interacting with it — PRs, issues, or comments.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/semmyt/upstream-recon/SKILL.md)
+- **中文**: Investigate an 开放 source 项目 before interacting 使用 它 — PRs issues 或 comments
+- **EN**: Investigate an open-source project before interacting with i
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/semmyt/upstream-recon/SKILL.md)
+
+### vibetrading
+
+- **中文**: 生成 executable Hyperliquid 交易 strategy 代码 从 自然语言 提示词
+- **EN**: Generate executable Hyperliquid trading strategy code from n
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/crabbytt/vibetrading/SKILL.md)
+
+### vibetrading-code-gen
+
+- **中文**: 生成 executable Hyperliquid 交易 strategy 代码 从 自然语言 提示词
+- **EN**: Generate executable Hyperliquid trading strategy code from n
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-code-gen/SKILL.md)
 
 ### vibetrading-global-signals
 
-- **描述**: Query AI-generated trading signals from vibetrading-datahub.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-global-signals/SKILL.md)
+- **中文**: 查询 人工智能 generated 交易 signals 从 vibetrading datahub
+- **EN**: Query AI-generated trading signals from vibetrading-datahub.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-global-signals/SKILL.md)
 
-### vultisig-sdk
+### vietstock
 
-- **描述**: Use this skill when an agent needs to create crypto wallets, send transactions, swap tokens, check balances.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/realpaaao/vultisig-sdk/SKILL.md)
-
-### waitingformacguffin
-
-- **描述**: Oscar prediction market intelligence from waitingformacguffin.com.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/sonderspot/waitingformacguffin/SKILL.md)
-
-### wallet
-
-- **描述**: 🔐 Base Wallet - Crypto Identity for AI Agents.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kenblive/wallet/SKILL.md)
+- **中文**: Automated Vietnamese 股票 价格 和 指数 checking 在 FireAnt vn
+- **EN**: Automated Vietnamese stock price and index checking on FireA
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/aholake/vietstock/SKILL.md)
 
 ### wallet-api
 
-- **描述**: Interact with the BudgetBakers Wallet API for personal finance data.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api/SKILL.md)
-
-### warden-app
-
-- **描述**: Use the Warden App (agentic wallet) via browser automation to execute crypto tasks (swap, bridge, deposit/withdraw.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/deiu/warden-app/SKILL.md)
+- **中文**: Interact 使用 a BudgetBakers 钱包 接口 用于 personal finance 文件
+- **EN**: Interact with the BudgetBakers Wallet API for personal finan
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api/SKILL.md)
 
 ### web3-target-team-research
 
-- **描述**: Find crypto/web3 teams with $10M+ funding and verified Telegram contacts.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/shwchlorine/web3-target-team-research/SKILL.md)
-
-### x-alpha-scout
-
-- **描述**: X/Twitter alpha scanner for crypto and NFTs.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/hammadbtc/x-alpha-scout/SKILL.md)
+- **中文**: 查找 crypto/web3 teams 使用 $10M+ funding 和 verified Telegram contacts
+- **EN**: Find crypto/web3 teams with $10M+ funding and verified Teleg
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/shwchlorine/web3-target-team-research/SKILL.md)
 
 ### yahoo-data-fetcher
 
-- **描述**: Fetch real-time stock quotes from Yahoo Finance.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md)
-
-### yield-agent
-
-- **描述**: On-chain yield discovery, transaction building, and portfolio management via the Yield.xyz API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/apurvmishra/yield-agent/SKILL.md)
-
-### youtube-factory
-
-- **描述**: Generate complete YouTube videos from a single prompt - script, voiceover, stock footage, captions, thumbnail.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/mayank8290/youtube-factory/SKILL.md)
-
-### youtube-notification-analysis
-
-- **描述**: Analyze YouTube notifications for investment and trading insights.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/esanle/youtube-notification-analysis/SKILL.md)
-
-### zapper
-
-- **描述**: Query DeFi portfolio data across 50+ chains via Zapper's GraphQL API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/spirosrap/zapper/SKILL.md)
-
-### zen-founder-agent
-
-- **描述**: Analyze startup pitch decks and get matched with VCs from Zen.GP's investor database.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/therealinvoker/zen-founder-agent/SKILL.md)
-
-### zhive
-
-- **描述**: Register as a trading agent on zHive, fetch crypto signals, post predictions with conviction, and compete.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/kerlos/zhive/SKILL.md)
+- **中文**: 获取 automatic 股票 quotes 从 Yahoo Finance
+- **EN**: Fetch real-time stock quotes from Yahoo Finance.
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md)
 
 ### zonein
 
-- **描述**: Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md)
-
-### zyfai-sdk
-
-- **描述**: Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
-- **链接**: [查看](https://github.com/openclaw/skills/tree/main/skills/pauldefi/zyfai-sdk/SKILL.md)
+- **中文**: 追踪 和 分析 top traders 使用 >75% win 评级 在 Hyperliquid 和 Polymarket 通过 Zonein 接口
+- **EN**: Track and analyze top traders with >75% win-rate on Hyperliq
+- **链接**: [GitHub](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md)
 
